@@ -5,6 +5,7 @@
 import json
 import random
 import math
+import os
 from faker import Factory
 from datetime import datetime
 
@@ -109,8 +110,9 @@ def fake_venues_events( num_events=10000, num_venues=150, num_artists=500, hrp="
 	       		file_writer.close()
 
 	#put it on HDFS
+	os.system("sudo -u hdfs hdfs dfs -put {local} {remote}{local}".format(local=local_filename, remote=hrp))
 
-def fake_artist_dist( artist ):
+def fake_artist_dist( artist, hrp="/user/sceneFindr/history/" ):
 	local_filename = "FakeData/artist_%s_dist.txt" % artist
 	
 	for i in range( len(genre_list) ):
@@ -135,7 +137,7 @@ def fake_artist_dist( artist ):
 		file_writer.write( format + '\n' )
 	
 	file_writer.close()
-	
+	os.system("sudo -u hdfs hdfs dfs -put {local} {remote}{local}".format(local=local_filename, remote=hrp))
 
 #create_fake_freq_dist()
 #create_fake_venues('San Francisco')
