@@ -1,0 +1,1 @@
+{"headliner": "Geralyn Blick", "opener": "Mrs. Catherine Wiza DVM", "venue": "{\"city\": \"San Francisco\", \"name\": \"Mann PLC\", \"zip\": \"69365\", \"url\": \"http://www.wilkinson.com/\", \"long\": \"-154.629001\", \"address\": \"5447 Reinger Well\", \"lat\": \"49.6337345\"}", "description": "Quia consequatur atque et quam soluta maiores omnis non."}

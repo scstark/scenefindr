@@ -1,0 +1,1 @@
+{"headliner": "Ricki Bode", "opener": "Genie Jenkins", "venue": "{\"city\": \"San Francisco\", \"name\": \"Little Group\", \"zip\": \"26534-0378\", \"url\": \"http://cronawisoky.info/\", \"long\": \"-129.486374\", \"address\": \"51728 Deckow Glens Apt. 119\", \"lat\": \"57.151135\"}", "description": "Fugiat ut aliquam delectus necessitatibus pariatur."}

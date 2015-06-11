@@ -1,0 +1,1 @@
+{"headliner": "Zigmund Kertzmann", "opener": "Oliver Hane", "venue": "{\"city\": \"San Francisco\", \"name\": \"Cremin, Champlin and Walker\", \"zip\": \"36011\", \"url\": \"http://www.hesselrodriguez.net/\", \"long\": \"167.136621\", \"address\": \"0663 Little Burgs Suite 495\", \"lat\": \"64.692058\"}", "description": "Quia et nam reiciendis aut temporibus ab nostrum."}

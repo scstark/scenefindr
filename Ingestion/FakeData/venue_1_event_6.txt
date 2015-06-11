@@ -1,0 +1,1 @@
+{"headliner": "Rowena Howe", "opener": "Damaris Lang", "venue": "{\"city\": \"San Francisco\", \"name\": \"Mann PLC\", \"zip\": \"69365\", \"url\": \"http://www.wilkinson.com/\", \"long\": \"-154.629001\", \"address\": \"5447 Reinger Well\", \"lat\": \"49.6337345\"}", "description": "Corrupti incidunt nostrum quam neque."}
