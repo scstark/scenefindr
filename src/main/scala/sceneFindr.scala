@@ -10,7 +10,7 @@ object sceneFindr {
     val sc = new SparkContext(conf)
 
     // folder on HDFS to pull the data from
-    val folder_name = "hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history"
+    val folder_name = ":9000/user/sceneFindr/history"
 
     // function to convert a timestamp to a 30 minute time slot
     def convert_to_30min(timestamp: String): String = {
@@ -51,6 +51,6 @@ object sceneFindr {
                                                      record._2._2))
 
     // save the data back into HDFS
-    price_vol_min30.saveAsTextFile("hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/price_data_output_scala")
+    price_vol_min30.saveAsTextFile(":9000/user/price_data_output_scala")
   }
 }
