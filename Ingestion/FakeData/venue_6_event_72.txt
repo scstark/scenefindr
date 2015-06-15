@@ -1,0 +1,1 @@
+{"headliner": "Miss Lissie Ziemann", "opener": "Clemente Reichel", "venue": "{\"city\": \"San Francisco\", \"name\": \"Luettgen LLC\", \"zip\": \"11410\", \"url\": \"http://www.strosin.com/\", \"long\": \"124.973852\", \"address\": \"82096 Medhurst Green\", \"lat\": \"9.614554\"}", "description": "Labore quas occaecati et aperiam quia et exercitationem."}

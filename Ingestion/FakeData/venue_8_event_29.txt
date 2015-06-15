@@ -1,0 +1,1 @@
+{"headliner": "Devan Greenholt", "opener": "Baxter Schneider", "venue": "{\"city\": \"San Francisco\", \"name\": \"Maggio-Mante\", \"zip\": \"68110\", \"url\": \"http://bashirian.biz/\", \"long\": \"170.116335\", \"address\": \"3515 Lind Radial\", \"lat\": \"-11.196108\"}", "description": "Eaque non facere deserunt provident assumenda illum deleniti."}

@@ -17,6 +17,15 @@ from datetime import datetime
 
 genre_list = ['alternative rock','classical','baroque','romantic','jazz','indie rock','modern','metal','garage rock','grunge','post-punk','electronic','dance','hip hop','rap','pop','80s','90s','hair metal','death metal']
 
+def create_genre_list():
+	filename = "FakeData/genrelist.txt"
+	file_writer = open( filename, 'w' )
+	for genre in range(len(genre_list)):
+		file_writer.write( genre_list[genre] + '\n' )
+
+	file_writer.close()
+
+
 
 def create_fake_freq_dist( freq, genre, wt ):
 	"""Creates fake frequency distributions for
@@ -103,28 +112,29 @@ def fake_venues_events( num_events=10000, num_venues=150, num_artists=500, hrp="
 			fake_artist_dist( headliner )
 			format = create_fake_event( venue, desc, opener, headliner )
 	
-		
+			#write_ev_list( event, venue, opener, headliner )
 			#write to file
 			file_writer.write( format  + '\n' )
 			#close the writer
 	       		file_writer.close()
 
 	#put it on HDFS
-	os.system("sudo -u hdfs hdfs dfs -put {local} {remote}{local}".format(local=local_filename, remote=hrp))
+	#os.system("sudo -u hdfs hdfs dfs -put {local} {remote}{local}".format(local=local_filename, remote=hrp))
 
 def fake_artist_dist( artist, hrp="/user/sceneFindr/history/" ):
-	local_filename = "FakeData/artist_%s_dist.txt" % artist
+	thing = artist.replace(" ", "") #remove all spaces
+	local_filename = "FakeData/artist_%s_dist.txt" % thing
 	
-	for i in range( len(genre_list) ):
-		print genre_list[i]
+	#for i in range( len(genre_list) ):
+	#	print genre_list[i]
 	
 	file_writer = open( local_filename, 'w' )
 	#generate new weight vectors according to a geometric distn
 	#with param lambda = 1/20
 	#sample without replacement from the list of genres
-	#k = math.floor( len( genre_list )/3 )
+	k = int( math.floor( len( genre_list )/3 ) )
 	#print k
-	k = 6
+	#k = 6
 	genres = random.sample( genre_list, k )
 	#while( count < genre_list/2 ):
 	for genre in genres:
@@ -137,9 +147,36 @@ def fake_artist_dist( artist, hrp="/user/sceneFindr/history/" ):
 		file_writer.write( format + '\n' )
 	
 	file_writer.close()
-	os.system("sudo -u hdfs hdfs dfs -put {local} {remote}{local}".format(local=local_filename, remote=hrp))
+	os.system("sudo -u hdfs dfs -put {local} {remote}{local}".format(local=local_filename, remote=hrp))
+
+def write_ev_list( event, venue, opener, headliner ):
+	writer = open( 'FakeData/event_venue_list.txt', 'w' )
+	print event
+	print venue
+	print opener
+	print headliner
+	writer.write( json.dumps(event) + '\t' + json.dumps(venue) + '\t' + json.dumps(opener) + '\t' + json.dumps(headliner) )
+	writer.close()
+
+def parse_ven_list( file ):
+	#extract venue list
+	print 'hello'
+
+def create_artist_list( fake, num_artists ):
+	filename = "FakeData/artistlist.txt"
+	writer = open( filename, 'w' )
+	
+	for i in range( num_artists ):
+		writer.write( fake.name() + '\n' )
+
+	writer.close()	
+
+	
 
 #create_fake_freq_dist()
 #create_fake_venues('San Francisco')
 #create_fake_event('San Francisco')
-fake_venues_events( num_events=10, num_venues=3, num_artists=20 )
+#create_genre_list()
+#create_artist_list()
+#create_venue_list()
+fake_venues_events( num_events=100, num_venues=10, num_artists=20 )

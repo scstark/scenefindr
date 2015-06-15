@@ -1,0 +1,1 @@
+{"headliner": "Arah Hills", "opener": "Vivienne White", "venue": "{\"city\": \"San Francisco\", \"name\": \"Lynch and Sons\", \"zip\": \"92652\", \"url\": \"http://www.tromp.info/\", \"long\": \"141.878957\", \"address\": \"042 Addisyn Stravenue\", \"lat\": \"88.3974405\"}", "description": "Laudantium dolorum nulla id nostrum accusamus sunt qui."}

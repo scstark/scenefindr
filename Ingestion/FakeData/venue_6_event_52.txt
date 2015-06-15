@@ -1,0 +1,1 @@
+{"headliner": "Ty Kertzmann", "opener": "Roslyn Towne", "venue": "{\"city\": \"San Francisco\", \"name\": \"Luettgen LLC\", \"zip\": \"11410\", \"url\": \"http://www.strosin.com/\", \"long\": \"124.973852\", \"address\": \"82096 Medhurst Green\", \"lat\": \"9.614554\"}", "description": "Ut fuga praesentium minus eaque voluptatem."}

@@ -1,0 +1,1 @@
+{"headliner": "Newt Gaylord", "opener": "Dr. Antoine Ullrich MD", "venue": "{\"city\": \"San Francisco\", \"name\": \"Bode, Hermiston and Graham\", \"zip\": \"87664\", \"url\": \"http://www.klockowest.net/\", \"long\": \"18.776480\", \"address\": \"7205 Abshire Corners\", \"lat\": \"-13.0505705\"}", "description": "Commodi voluptatem voluptatum non est aliquam ut nulla."}

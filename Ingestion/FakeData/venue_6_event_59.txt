@@ -1,0 +1,1 @@
+{"headliner": "Jaquez Kuhic", "opener": "Monroe Effertz V", "venue": "{\"city\": \"San Francisco\", \"name\": \"Luettgen LLC\", \"zip\": \"11410\", \"url\": \"http://www.strosin.com/\", \"long\": \"124.973852\", \"address\": \"82096 Medhurst Green\", \"lat\": \"9.614554\"}", "description": "Voluptatem qui ut quo."}

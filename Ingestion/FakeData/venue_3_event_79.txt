@@ -1,0 +1,1 @@
+{"headliner": "Doshie Rempel", "opener": "Mr. Burrell Hills II", "venue": "{\"city\": \"San Francisco\", \"name\": \"Kling, Bernier and Champlin\", \"zip\": \"02420\", \"url\": \"http://www.pfeffermcdermott.info/\", \"long\": \"84.967441\", \"address\": \"91855 Hoppe River\", \"lat\": \"-87.349912\"}", "description": "Laboriosam alias aut eaque est sit."}

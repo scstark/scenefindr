@@ -1,0 +1,1 @@
+{"headliner": "Miss Kristan Rau", "opener": "Mrs. Olivine Kuvalis DVM", "venue": "{\"city\": \"San Francisco\", \"name\": \"Deckow, Harris and Schmidt\", \"zip\": \"45298\", \"url\": \"http://cassinrowe.net/\", \"long\": \"-3.535061\", \"address\": \"1821 Bruen Bypass Apt. 262\", \"lat\": \"-87.2252275\"}", "description": "Nam temporibus omnis fugit nihil impedit cumque."}

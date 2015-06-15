@@ -1,0 +1,1 @@
+{"headliner": "Denine Fisher", "opener": "Elida Pacocha", "venue": "{\"city\": \"San Francisco\", \"name\": \"Bode, Hermiston and Graham\", \"zip\": \"87664\", \"url\": \"http://www.klockowest.net/\", \"long\": \"18.776480\", \"address\": \"7205 Abshire Corners\", \"lat\": \"-13.0505705\"}", "description": "Consectetur nihil est voluptatem deleniti illum expedita cum."}

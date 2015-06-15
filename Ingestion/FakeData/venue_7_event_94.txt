@@ -1,0 +1,1 @@
+{"headliner": "Lacie Breitenberg", "opener": "Spenser Berge", "venue": "{\"city\": \"San Francisco\", \"name\": \"Bode, Hermiston and Graham\", \"zip\": \"87664\", \"url\": \"http://www.klockowest.net/\", \"long\": \"18.776480\", \"address\": \"7205 Abshire Corners\", \"lat\": \"-13.0505705\"}", "description": "Deleniti odit veritatis odit cupiditate non dicta dolores."}

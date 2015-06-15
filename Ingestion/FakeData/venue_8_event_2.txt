@@ -1,0 +1,1 @@
+{"headliner": "Dr. Eugenia Langworth", "opener": "Mrs. Melba Kohler DDS", "venue": "{\"city\": \"San Francisco\", \"name\": \"Maggio-Mante\", \"zip\": \"68110\", \"url\": \"http://bashirian.biz/\", \"long\": \"170.116335\", \"address\": \"3515 Lind Radial\", \"lat\": \"-11.196108\"}", "description": "Sint voluptatem deserunt recusandae atque dolorem."}

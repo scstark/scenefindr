@@ -1,0 +1,1 @@
+{"headliner": "Sherita Moen MD", "opener": "Donavon Dibbert", "venue": "{\"city\": \"San Francisco\", \"name\": \"Deckow, Harris and Schmidt\", \"zip\": \"45298\", \"url\": \"http://cassinrowe.net/\", \"long\": \"-3.535061\", \"address\": \"1821 Bruen Bypass Apt. 262\", \"lat\": \"-87.2252275\"}", "description": "Omnis inventore nisi delectus quidem qui enim."}

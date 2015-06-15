@@ -1,0 +1,1 @@
+{"headliner": "Kamden Metz IV", "opener": "Caddie Howe", "venue": "{\"city\": \"San Francisco\", \"name\": \"Kling, Bernier and Champlin\", \"zip\": \"02420\", \"url\": \"http://www.pfeffermcdermott.info/\", \"long\": \"84.967441\", \"address\": \"91855 Hoppe River\", \"lat\": \"-87.349912\"}", "description": "Doloremque tempora sunt quaerat occaecati nesciunt nostrum quisquam."}

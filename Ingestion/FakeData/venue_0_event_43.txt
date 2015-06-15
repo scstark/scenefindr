@@ -1,0 +1,1 @@
+{"headliner": "Ms. Azul Paucek MD", "opener": "Bert Streich", "venue": "{\"city\": \"San Francisco\", \"name\": \"Simonis, Bahringer and Toy\", \"zip\": \"52071-8775\", \"url\": \"http://www.kulas.com/\", \"long\": \"-153.548106\", \"address\": \"0548 Sawayn Glens\", \"lat\": \"8.8729825\"}", "description": "Quae amet voluptatem voluptas vitae error."}

@@ -1,0 +1,1 @@
+{"headliner": "Lurena Yundt PhD", "opener": "Mr. Bush Wiza II", "venue": "{\"city\": \"San Francisco\", \"name\": \"Braun LLC\", \"zip\": \"36606\", \"url\": \"http://www.streich.com/\", \"long\": \"-67.310675\", \"address\": \"719 Deckow Gardens Suite 634\", \"lat\": \"68.742736\"}", "description": "Placeat ut est unde et."}
