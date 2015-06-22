@@ -1,0 +1,15 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.3317311274274824, "name": "blues", "weight": 0.7921099290780141}
+{"frequency": 0.1473676792150211, "name": "blues-rock", "weight": 0.6371897163120568}
+{"frequency": 0.0957764432081683, "name": "classic rock", "weight": 0.4172207446808511}
+{"frequency": 0.025959287366739258, "name": "80s", "weight": 0.2954343971631206}
+{"frequency": 0.03961880640253843, "name": "british blues", "weight": 0.2585328014184397}
+{"frequency": 0.022005997476328105, "name": "70s", "weight": 0.2504432624113475}
+{"frequency": 0.06483593488677405, "name": "hard rock", "weight": 0.2393617021276596}
+{"frequency": 0.07644545221368651, "name": "psychedelic", "weight": 0.2237367021276596}
+{"frequency": 0.05702360944844298, "name": "r&b", "weight": 0.15824468085106383}
+{"frequency": 0.04476116214644301, "name": "rock 'n roll", "weight": 0.15181737588652483}
+{"frequency": 0.024855580836958987, "name": "guitar rock", "weight": 0.14527925531914893}
+{"frequency": 0.019247127961995143, "name": "heavy blues", "weight": 0.13929521276595744}
+{"frequency": 0.08073163291020329, "name": "60s", "weight": 0.1363031914893617}
+{"frequency": 0.04399740705922655, "name": "instrumental", "weight": 0.1061613475177305}

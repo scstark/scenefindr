@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 0.2604956080698156, "name": "bossa nova", "weight": 0.391304347826087}, {"frequency": 0.6009971061438032, "name": "jazz", "weight": 0.29891304347826086}, {"frequency": 0.09332718099501257, "name": "latin jazz", "weight": 0.14130434782608695}]}}

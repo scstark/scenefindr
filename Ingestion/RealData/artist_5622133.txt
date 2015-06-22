@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 0.1978469609727481, "name": "dancehall", "weight": 0.43478260869565216}, {"frequency": 0.19272009378131405, "name": "hardcore", "weight": 0.2608695652173913}]}}

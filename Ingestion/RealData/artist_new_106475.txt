@@ -1,0 +1,22 @@
+{"frequency": 1.0, "name": "hip hop", "weight": 1.0}
+{"frequency": 0.7667707248862953, "name": "rap", "weight": 0.81759557807462}
+{"frequency": 0.19799187609339178, "name": "alternative hip hop", "weight": 0.5768463073852296}
+{"frequency": 0.09152039863389827, "name": "90s", "weight": 0.47443574389682175}
+{"frequency": 0.2441774474950915, "name": "old school", "weight": 0.4296023337939506}
+{"frequency": 0.08260530474669799, "name": "80s", "weight": 0.4282204821126977}
+{"frequency": 0.08977425383974219, "name": "underground rap", "weight": 0.2588668816213726}
+{"frequency": 0.23105952865625587, "name": "instrumental", "weight": 0.25395363119914016}
+{"frequency": 0.41280465485774587, "name": "pop", "weight": 0.24458774758175955}
+{"frequency": 0.10015786122387181, "name": "underground hip hop", "weight": 0.2430523568248119}
+{"frequency": 0.2578507055322011, "name": "house", "weight": 0.20804544756640564}
+{"frequency": 0.23644795212853412, "name": "alternative", "weight": 0.20727775218793182}
+{"frequency": 0.1589812975483362, "name": "funk", "weight": 0.19729771226777215}
+{"frequency": 0.16644568336548654, "name": "soul", "weight": 0.1734991555350837}
+{"frequency": 0.09728945696438743, "name": "downtempo", "weight": 0.1673575925072931}
+{"frequency": 0.04536817569333111, "name": "alternative rap", "weight": 0.15384615384615385}
+{"frequency": 0.1656002716950965, "name": "dance", "weight": 0.14862582527253185}
+{"frequency": 0.07203942035778323, "name": "classic rock", "weight": 0.14294487947182558}
+{"frequency": 0.08187199224947153, "name": "dub", "weight": 0.1300475971134654}
+{"frequency": 0.09266190907592084, "name": "soundtrack", "weight": 0.11730385383079994}
+{"frequency": 0.24100927660954316, "name": "rock", "weight": 0.10978043912175649}
+{"frequency": 0.10710927689988355, "name": "indie", "weight": 0.1019499462613235}

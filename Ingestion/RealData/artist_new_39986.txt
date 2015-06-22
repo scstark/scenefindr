@@ -1,0 +1,9 @@
+{"frequency": 1.0, "name": "dance", "weight": 1.0}
+{"frequency": 0.21120952877486182, "name": "visual kei", "weight": 0.6710526315789473}
+{"frequency": 0.09588965857996488, "name": "italian disco", "weight": 0.40037593984962405}
+{"frequency": 0.5370298176438459, "name": "rock", "weight": 0.2725563909774436}
+{"frequency": 0.0580308791524343, "name": "male vocalist", "weight": 0.17481203007518797}
+{"frequency": 0.23632495437986684, "name": "pop", "weight": 0.15601503759398497}
+{"frequency": 0.0772460886580779, "name": "romantic", "weight": 0.13909774436090225}
+{"frequency": 0.08674997124728384, "name": "r&b", "weight": 0.12218045112781954}
+{"frequency": 0.09748198687906234, "name": "indie", "weight": 0.10338345864661654}

@@ -1,0 +1,6 @@
+{"frequency": 0.26815944134989245, "name": "8-bit", "weight": 1.0}
+{"frequency": 0.561762401087725, "name": "folk", "weight": 0.7817589576547231}
+{"frequency": 1.0, "name": "rock", "weight": 0.7068403908794788}
+{"frequency": 0.08592659158505456, "name": "chiptune", "weight": 0.3289902280130293}
+{"frequency": 0.1288577393704026, "name": "blues", "weight": 0.2182410423452769}
+{"frequency": 0.13128075941313638, "name": "experimental", "weight": 0.21498371335504887}

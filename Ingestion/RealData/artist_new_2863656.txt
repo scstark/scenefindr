@@ -1,0 +1,8 @@
+{"frequency": 0.6708490355926622, "name": "singer-songwriter", "weight": 0.6619718309859155}
+{"frequency": 0.28778381220375376, "name": "country gospel", "weight": 0.647887323943662}
+{"frequency": 0.2786602054675895, "name": "bluegrass", "weight": 0.38028169014084506}
+{"frequency": 0.28738828539030387, "name": "gospel", "weight": 0.30985915492957744}
+{"frequency": 0.3816028011475748, "name": "country", "weight": 0.2676056338028169}
+{"frequency": 0.285397310331288, "name": "punk", "weight": 0.2112676056338028}
+{"frequency": 0.09418548230396624, "name": "country music", "weight": 0.1267605633802817}
+{"frequency": 0.1881605320579473, "name": "folk", "weight": 0.1267605633802817}

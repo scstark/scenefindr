@@ -1,0 +1,10 @@
+{"frequency": 1.0, "name": "punk", "weight": 1.0}
+{"frequency": 0.14398617467268188, "name": "anarcho-punk", "weight": 0.3902053712480253}
+{"frequency": 0.1597170448325004, "name": "thrash metal", "weight": 0.36018957345971564}
+{"frequency": 0.1693771781130356, "name": "hardcore punk", "weight": 0.3412322274881517}
+{"frequency": 0.21498415059299503, "name": "hardcore", "weight": 0.2685624012638231}
+{"frequency": 0.05711007099778865, "name": "peace punk", "weight": 0.22748815165876776}
+{"frequency": 0.0594624191302506, "name": "british punk rock", "weight": 0.2211690363349131}
+{"frequency": 0.06467963812811797, "name": "uk hardcore", "weight": 0.21011058451816747}
+{"frequency": 0.06543414752089487, "name": "uk punk", "weight": 0.20853080568720378}
+{"frequency": 0.1221456942105615, "name": "metal", "weight": 0.11532385466034756}

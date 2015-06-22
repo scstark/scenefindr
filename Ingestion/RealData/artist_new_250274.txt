@@ -1,0 +1,7 @@
+{"frequency": 1.0, "name": "rock", "weight": 0.4856046065259117}
+{"frequency": 0.7443213964082721, "name": "pop", "weight": 0.47024952015355087}
+{"frequency": 0.08152782580455081, "name": "new age", "weight": 0.18809980806142035}
+{"frequency": 0.10198897477666571, "name": "spiritual", "weight": 0.14971209213051823}
+{"frequency": 0.11298231921372953, "name": "instrumental", "weight": 0.1324376199616123}
+{"frequency": 0.12808366868470988, "name": "electronic", "weight": 0.11516314779270634}
+{"frequency": 0.01840063623822128, "name": "90s", "weight": 0.1017274472168906}

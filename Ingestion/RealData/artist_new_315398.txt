@@ -1,0 +1,28 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.2437147537160296, "name": "pop punk", "weight": 0.9734114937715901}
+{"frequency": 0.27374229705762504, "name": "emo", "weight": 0.9729927771380719}
+{"frequency": 0.3070853857390301, "name": "punk", "weight": 0.6614676018004815}
+{"frequency": 0.2546318261167151, "name": "alternative", "weight": 0.49010781953313093}
+{"frequency": 0.1645864773457089, "name": "pop rock", "weight": 0.4300219826232597}
+{"frequency": 0.3207894133038986, "name": "pop", "weight": 0.4173558044593321}
+{"frequency": 0.05036613286790481, "name": "emo pop", "weight": 0.33015806552915317}
+{"frequency": 0.10191170665119148, "name": "hardcore", "weight": 0.2732126033706689}
+{"frequency": 0.11164661715232051, "name": "dance", "weight": 0.22003559091384906}
+{"frequency": 0.044456282035862736, "name": "punk pop", "weight": 0.21584842457866638}
+{"frequency": 0.01760061035216432, "name": "80s", "weight": 0.20035590913849052}
+{"frequency": 0.09144883972765537, "name": "metal", "weight": 0.1853867894902125}
+{"frequency": 0.04771749875310302, "name": "metalcore", "weight": 0.18465403538155553}
+{"frequency": 0.04730757919717277, "name": "alternative rock", "weight": 0.17334868627656233}
+{"frequency": 0.013664841671454911, "name": "00s", "weight": 0.155553229352036}
+{"frequency": 0.08329360224498815, "name": "electronic", "weight": 0.15419240029310163}
+{"frequency": 0.06508573579989156, "name": "rap", "weight": 0.15241285460064902}
+{"frequency": 0.031232970629297332, "name": "screamo", "weight": 0.13503611430964094}
+{"frequency": 0.0323179904857847, "name": "power pop", "weight": 0.13252381450853135}
+{"frequency": 0.019310092996183408, "name": "emo punk", "weight": 0.1301161938658013}
+{"frequency": 0.05599146045695739, "name": "indie", "weight": 0.1170312990683555}
+{"frequency": 0.04108125358163466, "name": "soundtrack", "weight": 0.11420496179210719}
+{"frequency": 0.02520487959136737, "name": "classic rock", "weight": 0.10980843714016539}
+{"frequency": 0.025999089920622293, "name": "new wave", "weight": 0.10750549565581492}
+{"frequency": 0.02621467006381824, "name": "post-hardcore", "weight": 0.10687742070553753}
+{"frequency": 0.047141805312621174, "name": "hip hop", "weight": 0.1035276876373914}
+{"frequency": 0.027524496913197975, "name": "ska", "weight": 0.10310897100387313}

@@ -1,0 +1,3 @@
+{"frequency": 1.0, "name": "country", "weight": 1.0}
+{"frequency": 0.057333749734883206, "name": "country pop", "weight": 0.1506236442516269}
+{"frequency": 0.23640790894765532, "name": "pop", "weight": 0.1502169197396963}

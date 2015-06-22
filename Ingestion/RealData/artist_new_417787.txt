@@ -1,0 +1,28 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.32735766695993057, "name": "alternative", "weight": 0.6300114547537228}
+{"frequency": 0.17187914753720096, "name": "alternative rock", "weight": 0.6296841760759286}
+{"frequency": 0.46823640589578486, "name": "pop", "weight": 0.6090656193748977}
+{"frequency": 0.04532883091783097, "name": "80s", "weight": 0.5158730158730159}
+{"frequency": 0.24213551420497428, "name": "indie", "weight": 0.5059728358697431}
+{"frequency": 0.05709221629929534, "name": "british pop", "weight": 0.329160530191458}
+{"frequency": 0.07142184560910614, "name": "rockabilly", "weight": 0.28923253150057276}
+{"frequency": 0.08230570965559067, "name": "indie rock", "weight": 0.28538700703649156}
+{"frequency": 0.022258217404747465, "name": "90s", "weight": 0.2533136966126657}
+{"frequency": 0.06424005014391344, "name": "indie pop", "weight": 0.24742268041237114}
+{"frequency": 0.03655586514880856, "name": "madchester", "weight": 0.2403861888397971}
+{"frequency": 0.10144979718329837, "name": "punk", "weight": 0.2184585174275896}
+{"frequency": 0.01772173963480304, "name": "00s", "weight": 0.20168548519063983}
+{"frequency": 0.08205532810046143, "name": "soul", "weight": 0.1877761413843888}
+{"frequency": 0.049815947689860335, "name": "post-punk", "weight": 0.18393061692030765}
+{"frequency": 0.06552456976550904, "name": "hardcore", "weight": 0.17558501063655702}
+{"frequency": 0.06663170645694004, "name": "instrumental", "weight": 0.16077565046637213}
+{"frequency": 0.05558243721267683, "name": "singer-songwriter", "weight": 0.15905743740795286}
+{"frequency": 0.07923817205247036, "name": "electronic", "weight": 0.1466208476517755}
+{"frequency": 0.035468573420052066, "name": "new wave", "weight": 0.1466208476517755}
+{"frequency": 0.03826567804091312, "name": "gothic", "weight": 0.14023891343478972}
+{"frequency": 0.01824783650218079, "name": "college rock", "weight": 0.12698412698412698}
+{"frequency": 0.06420531334228002, "name": "folk", "weight": 0.12583865161184749}
+{"frequency": 0.0278166989503308, "name": "classic rock", "weight": 0.12117493045328097}
+{"frequency": 0.046196135299126244, "name": "pop rock", "weight": 0.12068401243658976}
+{"frequency": 0.031268214484785124, "name": "emo", "weight": 0.1111111111111111}
+{"frequency": 0.02258361357585005, "name": "alternative pop", "weight": 0.10857470135820652}

@@ -1,0 +1,10 @@
+{"frequency": 0.37453159791157664, "name": "zydeco", "weight": 0.5729815561255649}
+{"frequency": 1.0, "name": "folk", "weight": 0.4836936606815683}
+{"frequency": 0.3598308451962682, "name": "blues", "weight": 0.2120434835715158}
+{"frequency": 0.34960218366661244, "name": "country", "weight": 0.17662147306705753}
+{"frequency": 0.06223278563129806, "name": "80s", "weight": 0.17478930010993038}
+{"frequency": 0.36482419861802096, "name": "jazz", "weight": 0.16220837913765726}
+{"frequency": 0.05109959711061119, "name": "70s", "weight": 0.14352021497496031}
+{"frequency": 0.28033031545470527, "name": "dance", "weight": 0.13631366801026018}
+{"frequency": 0.1798724880475192, "name": "roots", "weight": 0.1292292659093685}
+{"frequency": 0.06677961284971501, "name": "contemporary folk", "weight": 0.10174667155246121}

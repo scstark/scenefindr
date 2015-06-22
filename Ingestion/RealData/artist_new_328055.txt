@@ -1,0 +1,24 @@
+{"frequency": 0.85761315270477, "name": "industrial", "weight": 1.0}
+{"frequency": 0.7316771929999966, "name": "electronic", "weight": 0.5022653721682848}
+{"frequency": 0.21525422022038684, "name": "industrial rock", "weight": 0.4690399137001079}
+{"frequency": 0.20264798758239977, "name": "industrial metal", "weight": 0.4210355987055016}
+{"frequency": 1.0, "name": "rock", "weight": 0.3709816612729234}
+{"frequency": 0.14776834428880747, "name": "electro-industrial", "weight": 0.29374325782092775}
+{"frequency": 0.3076179962892788, "name": "electronica", "weight": 0.28759439050701185}
+{"frequency": 0.10022287405211384, "name": "industrial dance", "weight": 0.2686084142394822}
+{"frequency": 0.061576723032600235, "name": "90s", "weight": 0.2599784250269687}
+{"frequency": 0.05784634907712869, "name": "80s", "weight": 0.2442286947141316}
+{"frequency": 0.2248075575668716, "name": "techno", "weight": 0.23063646170442287}
+{"frequency": 0.2872745068478718, "name": "metal", "weight": 0.21596548004314994}
+{"frequency": 0.1448158138480293, "name": "heavy metal", "weight": 0.2127292340884574}
+{"frequency": 0.252803543479594, "name": "dance", "weight": 0.18478964401294498}
+{"frequency": 0.3733235508630986, "name": "pop", "weight": 0.18015102481121897}
+{"frequency": 0.09360475371146595, "name": "ebm", "weight": 0.16116504854368932}
+{"frequency": 0.12448769301192925, "name": "noise", "weight": 0.14401294498381878}
+{"frequency": 0.08877183015624755, "name": "new wave", "weight": 0.13613807982740023}
+{"frequency": 0.07870124208530523, "name": "death metal", "weight": 0.12103559870550162}
+{"frequency": 0.0812960252236186, "name": "synthpop", "weight": 0.11877022653721683}
+{"frequency": 0.08707126667267692, "name": "alternative rock", "weight": 0.11833872707659115}
+{"frequency": 0.08513505489333004, "name": "gothic", "weight": 0.11574973031283711}
+{"frequency": 0.1523008851405874, "name": "alternative", "weight": 0.1087378640776699}
+{"frequency": 0.13490110695388557, "name": "punk", "weight": 0.10776699029126213}

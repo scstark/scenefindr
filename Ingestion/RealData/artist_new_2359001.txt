@@ -1,0 +1,15 @@
+{"frequency": 0.7511541073805424, "name": "death metal", "weight": 1.0}
+{"frequency": 1.0, "name": "metal", "weight": 0.651186790505676}
+{"frequency": 0.35538440822386397, "name": "crust", "weight": 0.5624355005159959}
+{"frequency": 0.5907508681583462, "name": "punk", "weight": 0.40763673890608876}
+{"frequency": 0.1525005570489709, "name": "crust punk", "weight": 0.34365325077399383}
+{"frequency": 0.2179920900633058, "name": "hardcore", "weight": 0.18782249742002063}
+{"frequency": 0.25300516641289195, "name": "alternative", "weight": 0.15583075335397317}
+{"frequency": 0.06069975945368741, "name": "death/doom metal", "weight": 0.15273477812177502}
+{"frequency": 0.06476817415057909, "name": "old school death metal", "weight": 0.14654282765737875}
+{"frequency": 0.06462235450102294, "name": "sludge metal", "weight": 0.14654282765737875}
+{"frequency": 0.07238071704803507, "name": "deathgrind", "weight": 0.13519091847265222}
+{"frequency": 0.07434733077533885, "name": "doom metal", "weight": 0.13209494324045407}
+{"frequency": 0.08119312748398386, "name": "sludge", "weight": 0.1238390092879257}
+{"frequency": 0.0854701247718661, "name": "hardcore punk", "weight": 0.11867905056759546}
+{"frequency": 0.08582654845444924, "name": "grindcore", "weight": 0.11764705882352941}

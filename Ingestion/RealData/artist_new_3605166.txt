@@ -1,0 +1,4 @@
+{"frequency": 0.8158046181014841, "name": "classic country", "weight": 1.0}
+{"frequency": 0.7697329311786972, "name": "honky tonk", "weight": 0.8157894736842105}
+{"frequency": 1.0, "name": "country", "weight": 0.40789473684210525}
+{"frequency": 0.15212217853684565, "name": "country music", "weight": 0.11842105263157894}

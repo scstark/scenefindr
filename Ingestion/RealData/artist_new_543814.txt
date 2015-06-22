@@ -1,0 +1,10 @@
+{"frequency": 0.23305489837865256, "name": "progressive metal", "weight": 0.4971590909090909}
+{"frequency": 0.17519522428379533, "name": "dubstep", "weight": 0.29261363636363635}
+{"frequency": 0.12372789218949036, "name": "thrash metal", "weight": 0.2471590909090909}
+{"frequency": 0.12992856324726212, "name": "black metal", "weight": 0.23579545454545456}
+{"frequency": 0.13823686251739853, "name": "progressive rock", "weight": 0.2215909090909091}
+{"frequency": 0.17921652094019, "name": "experimental", "weight": 0.17045454545454544}
+{"frequency": 0.19666068762886876, "name": "electronic", "weight": 0.15056818181818182}
+{"frequency": 0.06779853915992079, "name": "heavy metal", "weight": 0.11079545454545454}
+{"frequency": 0.06905607491586463, "name": "metalcore", "weight": 0.11079545454545454}
+{"frequency": 0.07081365030973794, "name": "hard rock", "weight": 0.10795454545454546}

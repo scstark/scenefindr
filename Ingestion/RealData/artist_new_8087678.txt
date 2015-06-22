@@ -1,0 +1,1 @@
+{"frequency": 1.0, "name": "symphony", "weight": 1.0}

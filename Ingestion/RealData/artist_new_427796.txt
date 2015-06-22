@@ -1,0 +1,7 @@
+{"frequency": 0.9515985174551469, "name": "new age", "weight": 1.0}
+{"frequency": 1.0, "name": "jazz", "weight": 0.3986522433055506}
+{"frequency": 0.5544208899738079, "name": "ambient", "weight": 0.33161908139741086}
+{"frequency": 0.3749415817700671, "name": "electronica", "weight": 0.20907962404681682}
+{"frequency": 0.38894087576199493, "name": "instrumental", "weight": 0.20766093278950168}
+{"frequency": 0.39429872690569295, "name": "classical", "weight": 0.20375953183188508}
+{"frequency": 0.08159068012874085, "name": "smooth jazz", "weight": 0.10143642489803156}

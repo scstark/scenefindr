@@ -1,0 +1,12 @@
+{"frequency": 1.0, "name": "rock", "weight": 0.9376951905059338}
+{"frequency": 0.6010680967173426, "name": "pop", "weight": 0.7331355402873204}
+{"frequency": 0.16841299989528005, "name": "alternative rock", "weight": 0.5785446595877577}
+{"frequency": 0.12831163041603919, "name": "emo", "weight": 0.42754528419737664}
+{"frequency": 0.09625423343664931, "name": "pop rock", "weight": 0.23579013116802}
+{"frequency": 0.12408240731900556, "name": "alternative", "weight": 0.22392254840724546}
+{"frequency": 0.03547086317733183, "name": "emo pop", "weight": 0.21798875702685822}
+{"frequency": 0.057598782033024334, "name": "pop punk", "weight": 0.21564647095565273}
+{"frequency": 0.028015283801253083, "name": "german rock", "weight": 0.16677076826983137}
+{"frequency": 0.025837250819904765, "name": "glam rock", "weight": 0.1363210493441599}
+{"frequency": 0.03247735095837886, "name": "hard rock", "weight": 0.11242973141786383}
+{"frequency": 0.050962955253862297, "name": "punk", "weight": 0.10290443472829482}

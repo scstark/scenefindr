@@ -1,0 +1,9 @@
+{"frequency": 1.0, "name": "blues", "weight": 1.0}
+{"frequency": 0.9919808291826367, "name": "rock", "weight": 0.41543592186755596}
+{"frequency": 0.2778305390065797, "name": "americana", "weight": 0.40352548832777513}
+{"frequency": 0.22171140227273425, "name": "soul", "weight": 0.21248213434969032}
+{"frequency": 0.06931227138287978, "name": "acoustic blues", "weight": 0.1557884707003335}
+{"frequency": 0.07919299669895523, "name": "blues-rock", "weight": 0.1434016198189614}
+{"frequency": 0.04495476332069534, "name": "roots rock", "weight": 0.10338256312529776}
+{"frequency": 0.04519893940790054, "name": "southern rock", "weight": 0.10242972844211529}
+{"frequency": 0.021391058945603704, "name": "50s", "weight": 0.10195331110052405}

@@ -1,0 +1,19 @@
+{"frequency": 1.0, "name": "psychedelic", "weight": 0.8926092282564312}
+{"frequency": 0.37860877161089773, "name": "noise", "weight": 0.3601469987750102}
+{"frequency": 0.27752583890343835, "name": "drone", "weight": 0.35933033891384236}
+{"frequency": 0.2626381654295366, "name": "psychedelic rock", "weight": 0.347080440996325}
+{"frequency": 0.2812992000659906, "name": "lo-fi", "weight": 0.3246222948142099}
+{"frequency": 0.18845001965675529, "name": "garage rock", "weight": 0.28501429154757046}
+{"frequency": 0.9322314010320888, "name": "rock", "weight": 0.2841976316864026}
+{"frequency": 0.3436203399518278, "name": "ambient", "weight": 0.2833809718252348}
+{"frequency": 0.27248392882344197, "name": "minimal", "weight": 0.28174765210289915}
+{"frequency": 0.11321086688151626, "name": "drone rock", "weight": 0.27970600244997956}
+{"frequency": 0.48757049010583026, "name": "electronic", "weight": 0.2752143732135566}
+{"frequency": 0.2562989203789261, "name": "trance", "weight": 0.2384646794610045}
+{"frequency": 0.12079318359250207, "name": "space rock", "weight": 0.21600653327888933}
+{"frequency": 0.1889197835792609, "name": "dub", "weight": 0.2008983258472846}
+{"frequency": 0.0401186577474366, "name": "00s", "weight": 0.13924050632911392}
+{"frequency": 0.2101461440695569, "name": "alternative", "weight": 0.12331563903634137}
+{"frequency": 0.0629926300247665, "name": "noise rock", "weight": 0.10412413229889751}
+{"frequency": 0.06372501052434404, "name": "experimental rock", "weight": 0.1037158023683136}
+{"frequency": 0.06459084474909105, "name": "kraut rock", "weight": 0.10208248264597795}

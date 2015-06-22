@@ -1,0 +1,17 @@
+{"frequency": 0.9136034530517085, "name": "hip hop", "weight": 0.6043820125452779}
+{"frequency": 0.7713923639012005, "name": "rap", "weight": 0.5441293400477074}
+{"frequency": 0.518881678950975, "name": "soul", "weight": 0.35780545984627615}
+{"frequency": 0.753501995360956, "name": "pop", "weight": 0.2953441116706423}
+{"frequency": 0.0974771846312885, "name": "east coast rap", "weight": 0.25161233324498633}
+{"frequency": 0.2604290605684404, "name": "r&b", "weight": 0.2177754218570545}
+{"frequency": 0.2671833169656397, "name": "hardcore", "weight": 0.21574344023323616}
+{"frequency": 0.0940272702623026, "name": "east coast hip hop", "weight": 0.2130046823924375}
+{"frequency": 0.08085437403279988, "name": "gangster rap", "weight": 0.17704744235356482}
+{"frequency": 0.0651190633083271, "name": "new york rap", "weight": 0.1729834791059281}
+{"frequency": 0.2547836084298689, "name": "metal", "weight": 0.15557911476278824}
+{"frequency": 0.48581335114135527, "name": "rock", "weight": 0.14639102394204434}
+{"frequency": 0.17163847928614276, "name": "soundtrack", "weight": 0.14374061312836822}
+{"frequency": 0.04065234868966703, "name": "80s", "weight": 0.1394116087993639}
+{"frequency": 0.19923543077269987, "name": "indie", "weight": 0.125452778514003}
+{"frequency": 0.13720575083631648, "name": "funk", "weight": 0.11264245958123509}
+{"frequency": 0.06659081381428182, "name": "pop rap", "weight": 0.10142238713667286}

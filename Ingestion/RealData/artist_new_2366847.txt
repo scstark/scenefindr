@@ -1,0 +1,6 @@
+{"frequency": 1.0, "name": "pop", "weight": 1.0}
+{"frequency": 0.31544263940368356, "name": "singer-songwriter", "weight": 0.6939655172413793}
+{"frequency": 0.31978132339725207, "name": "pop rock", "weight": 0.6422413793103449}
+{"frequency": 0.25040994039630726, "name": "dance", "weight": 0.3793103448275862}
+{"frequency": 0.4261127316960514, "name": "rock", "weight": 0.3275862068965517}
+{"frequency": 0.10468100426984481, "name": "latin", "weight": 0.21982758620689655}

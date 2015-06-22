@@ -1,0 +1,10 @@
+{"frequency": 1.0, "name": "funk", "weight": 1.0}
+{"frequency": 0.9346479486799159, "name": "r&b", "weight": 0.9520015737188945}
+{"frequency": 0.7003774627597448, "name": "soul", "weight": 0.5882757942362545}
+{"frequency": 0.08377793165198005, "name": "70s", "weight": 0.34995573915609324}
+{"frequency": 0.6796344620326934, "name": "pop", "weight": 0.3244811645519819}
+{"frequency": 0.28110304596370495, "name": "disco", "weight": 0.3064817546965673}
+{"frequency": 0.36456330870602743, "name": "jazz", "weight": 0.24107406314547064}
+{"frequency": 0.04775200823318146, "name": "90s", "weight": 0.1994688698731189}
+{"frequency": 0.04532673387096537, "name": "80s", "weight": 0.18933805449001673}
+{"frequency": 0.044515701232825285, "name": "southern soul", "weight": 0.11104553949050851}

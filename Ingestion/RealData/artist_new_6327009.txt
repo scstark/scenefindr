@@ -1,0 +1,12 @@
+{"frequency": 0.3959250706995246, "name": "edm", "weight": 0.8620309050772627}
+{"frequency": 0.32321804269419, "name": "grime", "weight": 0.6821192052980133}
+{"frequency": 0.49428872862251483, "name": "remix", "weight": 0.6821192052980133}
+{"frequency": 0.22765211418550158, "name": "noise", "weight": 0.3079470198675497}
+{"frequency": 0.1256734011578702, "name": "bounce", "weight": 0.282560706401766}
+{"frequency": 0.32025786801251166, "name": "dance", "weight": 0.2737306843267108}
+{"frequency": 0.356240383078532, "name": "house", "weight": 0.2737306843267108}
+{"frequency": 0.2837442921359314, "name": "club", "weight": 0.271523178807947}
+{"frequency": 0.14345407666538765, "name": "dubstep", "weight": 0.25055187637969095}
+{"frequency": 0.1555658440787352, "name": "electro", "weight": 0.17660044150110377}
+{"frequency": 0.08908397913983333, "name": "disco", "weight": 0.11479028697571744}
+{"frequency": 0.04153957594285989, "name": "bass music", "weight": 0.11037527593818984}

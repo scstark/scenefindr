@@ -1,0 +1,16 @@
+{"frequency": 0.6334218464739879, "name": "new age", "weight": 1.0}
+{"frequency": 1.0, "name": "classical", "weight": 0.7763423496164715}
+{"frequency": 0.7745479824893245, "name": "folk", "weight": 0.5046427129592249}
+{"frequency": 0.4706018953292329, "name": "instrumental", "weight": 0.3774727492935002}
+{"frequency": 0.22466045570713797, "name": "world music", "weight": 0.30964876867178037}
+{"frequency": 0.11767962939510118, "name": "world fusion", "weight": 0.25393621316108195}
+{"frequency": 0.28124685986559067, "name": "ambient", "weight": 0.2527250706499798}
+{"frequency": 0.22154886301792368, "name": "soundtrack", "weight": 0.20468308437626162}
+{"frequency": 0.05468391216394491, "name": "space music", "weight": 0.13362939039160274}
+{"frequency": 0.055930880197417196, "name": "contemporary classical music", "weight": 0.13161081953976583}
+{"frequency": 0.05843433029022314, "name": "modern classical", "weight": 0.12716996366572467}
+{"frequency": 0.06394824525519278, "name": "indian classical", "weight": 0.11949939442874445}
+{"frequency": 0.06515115389639264, "name": "traditional folk", "weight": 0.11788453774727493}
+{"frequency": 0.0665735615391725, "name": "celtic folk", "weight": 0.11586596689543803}
+{"frequency": 0.0678439678537011, "name": "neoclassical", "weight": 0.11425111021396851}
+{"frequency": 0.07826355222467948, "name": "celtic", "weight": 0.10092854259184497}

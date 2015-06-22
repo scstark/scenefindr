@@ -1,0 +1,9 @@
+{"frequency": 0.6624030472722494, "name": "pop", "weight": 0.35294117647058826}
+{"frequency": 0.7332874661195103, "name": "rock", "weight": 0.30030959752321984}
+{"frequency": 0.27375647276439924, "name": "folk", "weight": 0.21981424148606812}
+{"frequency": 0.2852698047806739, "name": "jazz", "weight": 0.21052631578947367}
+{"frequency": 0.0794874663597306, "name": "jazz vocal", "weight": 0.19195046439628483}
+{"frequency": 0.07880017881273699, "name": "vocal jazz", "weight": 0.19195046439628483}
+{"frequency": 0.09009102251605393, "name": "folk-pop", "weight": 0.17337461300309598}
+{"frequency": 0.10314775098587002, "name": "alternative rock", "weight": 0.15479876160990713}
+{"frequency": 0.13293851526085035, "name": "country", "weight": 0.11145510835913312}

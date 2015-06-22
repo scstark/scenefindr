@@ -1,0 +1,8 @@
+{"frequency": 0.3753076115246951, "name": "bossa nova", "weight": 0.5577415227127319}
+{"frequency": 0.7652391254749222, "name": "jazz", "weight": 0.3765195137555982}
+{"frequency": 0.14529779085863867, "name": "brazilian pop music", "weight": 0.36148432501599487}
+{"frequency": 0.2339937267322474, "name": "samba", "weight": 0.30230326295585414}
+{"frequency": 0.125297167884969, "name": "brazilian jazz", "weight": 0.22728726807421626}
+{"frequency": 0.18894150110971056, "name": "electronica", "weight": 0.1300383877159309}
+{"frequency": 0.1287401990997063, "name": "fusion", "weight": 0.11212412028150992}
+{"frequency": 0.13753268619586573, "name": "singer-songwriter", "weight": 0.10748560460652591}

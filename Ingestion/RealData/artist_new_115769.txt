@@ -1,0 +1,14 @@
+{"frequency": 0.9830811290592794, "name": "death metal", "weight": 1.0}
+{"frequency": 0.4419713678637856, "name": "deathgrind", "weight": 0.6305402241177455}
+{"frequency": 0.39534906796940167, "name": "goregrind", "weight": 0.5449071751128951}
+{"frequency": 0.477043287644719, "name": "grindcore", "weight": 0.4997491219267436}
+{"frequency": 1.0, "name": "metal", "weight": 0.49724034119417965}
+{"frequency": 0.1129789262460049, "name": "gore metal", "weight": 0.25422311423314936}
+{"frequency": 0.2948085503106603, "name": "hardcore", "weight": 0.1938451246027764}
+{"frequency": 0.12843871554437378, "name": "extreme metal", "weight": 0.18079946479344372}
+{"frequency": 0.05875442957799701, "name": "brutal death metal", "weight": 0.16407425990968388}
+{"frequency": 0.07950358265727064, "name": "progressive death metal", "weight": 0.13697942799799298}
+{"frequency": 0.11586910809078789, "name": "sludge", "weight": 0.1348051513631042}
+{"frequency": 0.48735557873350915, "name": "rock", "weight": 0.11958521491888276}
+{"frequency": 0.09857104903027444, "name": "death core", "weight": 0.11690918213748118}
+{"frequency": 0.1098251571985384, "name": "heavy metal", "weight": 0.10670680715838769}

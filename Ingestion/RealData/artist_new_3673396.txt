@@ -1,0 +1,12 @@
+{"frequency": 0.9584072695648014, "name": "edm", "weight": 1.0}
+{"frequency": 1.0, "name": "house", "weight": 0.36823104693140796}
+{"frequency": 0.7226499197954157, "name": "electronic", "weight": 0.2779783393501805}
+{"frequency": 0.12758748352480564, "name": "intelligent dance music", "weight": 0.22021660649819494}
+{"frequency": 0.16863658750223529, "name": "progressive house", "weight": 0.18411552346570398}
+{"frequency": 0.18252590098391586, "name": "electro house", "weight": 0.17328519855595667}
+{"frequency": 0.18255383379344423, "name": "tech house", "weight": 0.16967509025270758}
+{"frequency": 0.20233114223004223, "name": "downtempo", "weight": 0.1588447653429603}
+{"frequency": 0.23234623433112017, "name": "techno", "weight": 0.13357400722021662}
+{"frequency": 0.16006004940590127, "name": "dance music", "weight": 0.1263537906137184}
+{"frequency": 0.24118502592833393, "name": "electronica", "weight": 0.1263537906137184}
+{"frequency": 0.2597851484359927, "name": "club", "weight": 0.11913357400722022}

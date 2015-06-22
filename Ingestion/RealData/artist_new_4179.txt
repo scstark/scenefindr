@@ -1,0 +1,19 @@
+{"frequency": 0.9854720954879744, "name": "punk", "weight": 1.0}
+{"frequency": 0.5890810344846319, "name": "hardcore", "weight": 0.7438685044975085}
+{"frequency": 0.3116508053845351, "name": "hardcore punk", "weight": 0.6345693392868699}
+{"frequency": 1.0, "name": "rock", "weight": 0.4712353588300007}
+{"frequency": 0.1730097773225481, "name": "post-hardcore", "weight": 0.33223322332233224}
+{"frequency": 0.1671708089931749, "name": "indie rock", "weight": 0.27315084449621435}
+{"frequency": 0.4283072496948669, "name": "pop", "weight": 0.2625380185077331}
+{"frequency": 0.21591970358442544, "name": "experimental", "weight": 0.23451756940399923}
+{"frequency": 0.24995598142743658, "name": "alternative", "weight": 0.22668737461981492}
+{"frequency": 0.19235493763563344, "name": "indie", "weight": 0.18941305895295413}
+{"frequency": 0.07680398434051568, "name": "post-punk", "weight": 0.13363101015983953}
+{"frequency": 0.02400025270232562, "name": "00s", "weight": 0.12871287128712872}
+{"frequency": 0.05088513710108648, "name": "experimental rock", "weight": 0.1279363230440691}
+{"frequency": 0.05019168915750885, "name": "garage rock", "weight": 0.11725878470199962}
+{"frequency": 0.0725144879729917, "name": "rock 'n roll", "weight": 0.11589982527664532}
+{"frequency": 0.030651909788591107, "name": "progressive hardcore", "weight": 0.11395845466899632}
+{"frequency": 0.058021175185140335, "name": "heavy metal", "weight": 0.1082637675532259}
+{"frequency": 0.06208215382637245, "name": "hard rock", "weight": 0.10800491813887271}
+{"frequency": 0.0362966151293927, "name": "punk hardcore", "weight": 0.10353976574128002}

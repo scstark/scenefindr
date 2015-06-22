@@ -1,0 +1,13 @@
+{"frequency": 0.4413389352773487, "name": "blues", "weight": 0.8125836680053548}
+{"frequency": 1.0, "name": "rock", "weight": 0.7684069611780455}
+{"frequency": 0.1398109153980291, "name": "cowpunk", "weight": 0.7175368139223561}
+{"frequency": 0.2375912227065641, "name": "americana", "weight": 0.6358768406961178}
+{"frequency": 0.233326002158201, "name": "roots", "weight": 0.5247657295850067}
+{"frequency": 0.1620261167629926, "name": "alternative country", "weight": 0.5220883534136547}
+{"frequency": 0.15517042534620962, "name": "rockabilly", "weight": 0.4859437751004016}
+{"frequency": 0.2677198440035886, "name": "soul", "weight": 0.4725568942436412}
+{"frequency": 0.22102152856992058, "name": "country", "weight": 0.34805890227576974}
+{"frequency": 0.08630084888142674, "name": "alternative rock", "weight": 0.24497991967871485}
+{"frequency": 0.11592058452404502, "name": "folk", "weight": 0.1753681392235609}
+{"frequency": 0.11643929495517316, "name": "alternative", "weight": 0.17269076305220885}
+{"frequency": 0.03065285245238878, "name": "outlaw country", "weight": 0.1606425702811245}

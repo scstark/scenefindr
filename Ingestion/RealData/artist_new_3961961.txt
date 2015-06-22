@@ -1,0 +1,4 @@
+{"frequency": 1.0, "name": "reggaeton", "weight": 1.0}
+{"frequency": 0.7075576460853957, "name": "rap", "weight": 0.3303194695599759}
+{"frequency": 0.13435983265907267, "name": "latin pop", "weight": 0.14436407474382157}
+{"frequency": 0.26641616560629044, "name": "hip hop", "weight": 0.1166365280289331}

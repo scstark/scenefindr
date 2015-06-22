@@ -1,0 +1,4 @@
+{"frequency": 0.7548228004024484, "name": "symphony", "weight": 0.8739255014326648}
+{"frequency": 0.10689042884645182, "name": "irish folk", "weight": 0.2148997134670487}
+{"frequency": 0.2933772910110967, "name": "folk", "weight": 0.18911174785100288}
+{"frequency": 0.16227843151363414, "name": "opera", "weight": 0.16905444126074498}

@@ -1,0 +1,18 @@
+{"frequency": 1.0, "name": "rap", "weight": 0.7301059630168294}
+{"frequency": 0.9061100352678497, "name": "hip hop", "weight": 0.6204030750051943}
+{"frequency": 0.28126295601987866, "name": "horrorcore", "weight": 0.5125701225846665}
+{"frequency": 0.1822878088554622, "name": "southern rap", "weight": 0.40889258258882194}
+{"frequency": 0.11344815440972049, "name": "90s", "weight": 0.4026594639517972}
+{"frequency": 0.16861303098989402, "name": "gangster rap", "weight": 0.38209017244961563}
+{"frequency": 0.06872452695043907, "name": "80s", "weight": 0.2439227093289009}
+{"frequency": 0.09050333346262014, "name": "houston rap", "weight": 0.21919800540203616}
+{"frequency": 0.22057687988494856, "name": "funk", "weight": 0.18740910035321007}
+{"frequency": 0.21993495395735518, "name": "hardcore", "weight": 0.18387699979222938}
+{"frequency": 0.05458612680778172, "name": "dirty south rap", "weight": 0.17369623935175565}
+{"frequency": 0.06684429865318298, "name": "old school rap", "weight": 0.15354248909204238}
+{"frequency": 0.07224812355344029, "name": "hardcore rap", "weight": 0.14585497610637857}
+{"frequency": 0.343719043764347, "name": "pop", "weight": 0.13941408684811968}
+{"frequency": 0.1924754435109866, "name": "soul", "weight": 0.1373363806357781}
+{"frequency": 0.11315561193105841, "name": "old school", "weight": 0.1362975275296073}
+{"frequency": 0.3985357808727221, "name": "rock", "weight": 0.12424683149802618}
+{"frequency": 0.1356781653894266, "name": "soundtrack", "weight": 0.11759817161853314}

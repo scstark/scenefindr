@@ -1,0 +1,7 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.16197422023773658, "name": "classic rock", "weight": 0.7094339622641509}
+{"frequency": 0.23438844306911563, "name": "hip hop", "weight": 0.5169811320754717}
+{"frequency": 0.09144064830622432, "name": "hard rock", "weight": 0.33962264150943394}
+{"frequency": 0.11396969025105554, "name": "rap", "weight": 0.2679245283018868}
+{"frequency": 0.12219787905009978, "name": "dance", "weight": 0.24150943396226415}
+{"frequency": 0.03544119951697024, "name": "male vocalist", "weight": 0.21132075471698114}

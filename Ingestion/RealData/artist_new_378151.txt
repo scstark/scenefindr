@@ -1,0 +1,8 @@
+{"frequency": 1.0, "name": "soul", "weight": 1.0}
+{"frequency": 0.6928348289975217, "name": "r&b", "weight": 0.840176450627757}
+{"frequency": 0.36246214394434134, "name": "neo soul", "weight": 0.7667119104173736}
+{"frequency": 0.2776606584781408, "name": "hip hop", "weight": 0.2663725822870716}
+{"frequency": 0.18540266878408387, "name": "funk", "weight": 0.22073294876145233}
+{"frequency": 0.178133650224665, "name": "rap", "weight": 0.18221920597217509}
+{"frequency": 0.20968820142625952, "name": "jazz", "weight": 0.16508313539192399}
+{"frequency": 0.08699714430647958, "name": "romantic", "weight": 0.13488293179504582}

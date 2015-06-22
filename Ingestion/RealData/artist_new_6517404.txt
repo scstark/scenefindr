@@ -1,0 +1,12 @@
+{"frequency": 0.43617221234049947, "name": "remix", "weight": 0.6271186440677966}
+{"frequency": 0.5272580202561458, "name": "club", "weight": 0.5254237288135594}
+{"frequency": 0.8362414003439973, "name": "pop", "weight": 0.4915254237288136}
+{"frequency": 0.4845567916723606, "name": "indie", "weight": 0.4576271186440678}
+{"frequency": 0.08567806119937206, "name": "70s", "weight": 0.4406779661016949}
+{"frequency": 0.9003885698945645, "name": "rock", "weight": 0.4067796610169492}
+{"frequency": 0.21804813445167406, "name": "swing", "weight": 0.3559322033898305}
+{"frequency": 0.25626190065671206, "name": "psychedelic", "weight": 0.3389830508474576}
+{"frequency": 0.38115423869243065, "name": "house", "weight": 0.3050847457627119}
+{"frequency": 0.22126394163658547, "name": "trance", "weight": 0.3050847457627119}
+{"frequency": 0.23811808630485948, "name": "electronica", "weight": 0.2711864406779661}
+{"frequency": 0.08524253441794102, "name": "heavy metal", "weight": 0.15254237288135594}

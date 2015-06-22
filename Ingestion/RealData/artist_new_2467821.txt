@@ -1,0 +1,2 @@
+{"frequency": 0.37025101217643036, "name": "00s", "weight": 1.0}
+{"frequency": 1.0, "name": "jazz", "weight": 0.425531914893617}

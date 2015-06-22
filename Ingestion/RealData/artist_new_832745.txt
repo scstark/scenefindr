@@ -1,0 +1,12 @@
+{"frequency": 0.9481087015319996, "name": "rap", "weight": 1.0}
+{"frequency": 1.0, "name": "hip hop", "weight": 0.9891368753703338}
+{"frequency": 0.20128082473575995, "name": "r&b", "weight": 0.2516294686944499}
+{"frequency": 0.1250937977667515, "name": "dubstep", "weight": 0.22694054908157218}
+{"frequency": 0.05901824672134328, "name": "alternative hip hop", "weight": 0.17005727829350187}
+{"frequency": 0.2790807550979218, "name": "pop", "weight": 0.16353940351570215}
+{"frequency": 0.35388285132805736, "name": "rock", "weight": 0.1593916650207387}
+{"frequency": 0.06558779266993685, "name": "underground hip hop", "weight": 0.15741655145170846}
+{"frequency": 0.12113996110058406, "name": "experimental", "weight": 0.12581473434722495}
+{"frequency": 0.136518684649141, "name": "jazz", "weight": 0.1108038712225953}
+{"frequency": 0.020647921872521516, "name": "00s", "weight": 0.10586608730001976}
+{"frequency": 0.022128243289842284, "name": "dirty south rap", "weight": 0.10171834880505629}

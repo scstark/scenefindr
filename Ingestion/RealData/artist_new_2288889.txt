@@ -1,0 +1,8 @@
+{"frequency": 1.0, "name": "electronic", "weight": 1.0}
+{"frequency": 0.4910270662087353, "name": "punk", "weight": 0.5714285714285714}
+{"frequency": 0.20316299588456557, "name": "lounge", "weight": 0.36813186813186816}
+{"frequency": 0.22921656764406856, "name": "electro", "weight": 0.3241758241758242}
+{"frequency": 0.09969297655220921, "name": "indie rock", "weight": 0.18681318681318682}
+{"frequency": 0.10768767999129611, "name": "psychedelic", "weight": 0.17032967032967034}
+{"frequency": 0.11909907848191559, "name": "experimental", "weight": 0.14835164835164835}
+{"frequency": 0.04670787751740001, "name": "deep house", "weight": 0.12637362637362637}

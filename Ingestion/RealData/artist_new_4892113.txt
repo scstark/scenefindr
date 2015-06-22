@@ -1,0 +1,5 @@
+{"frequency": 0.3360144136871162, "name": "gypsy jazz", "weight": 0.5254237288135594}
+{"frequency": 0.4811805095667274, "name": "blues", "weight": 0.2711864406779661}
+{"frequency": 0.15093527085580216, "name": "dance music", "weight": 0.13559322033898305}
+{"frequency": 0.15504384443477365, "name": "hard rock", "weight": 0.13559322033898305}
+{"frequency": 0.31909792519430935, "name": "jazz", "weight": 0.13559322033898305}

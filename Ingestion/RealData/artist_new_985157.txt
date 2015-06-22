@@ -1,0 +1,12 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.29563895989242883, "name": "psychedelic", "weight": 0.8652612282309807}
+{"frequency": 0.09476249560154415, "name": "stoner rock", "weight": 0.5609532538955087}
+{"frequency": 0.04324951464265197, "name": "70s", "weight": 0.4922089825847846}
+{"frequency": 0.10386081264805298, "name": "psychedelic rock", "weight": 0.45004582951420713}
+{"frequency": 0.16160623491462286, "name": "blues", "weight": 0.38588450962419796}
+{"frequency": 0.08288682237434236, "name": "blues-rock", "weight": 0.35838680109990834}
+{"frequency": 0.04862451555034009, "name": "garage rock", "weight": 0.24106324472960586}
+{"frequency": 0.049911457560782094, "name": "psychedelia", "weight": 0.23648029330889092}
+{"frequency": 0.04987554721721043, "name": "sludge", "weight": 0.23648029330889092}
+{"frequency": 0.08631973228135166, "name": "60s", "weight": 0.1457378551787351}
+{"frequency": 0.012644643716678942, "name": "00s", "weight": 0.14390467461044912}

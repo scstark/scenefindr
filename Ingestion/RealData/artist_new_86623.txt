@@ -1,0 +1,22 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.4418824683279291, "name": "pop", "weight": 0.5732023224653864}
+{"frequency": 0.21705398249492133, "name": "blues", "weight": 0.5179991067440822}
+{"frequency": 0.24743819396718364, "name": "jazz", "weight": 0.4454667262170612}
+{"frequency": 0.07492171424963011, "name": "adult contemporary", "weight": 0.3940151853506029}
+{"frequency": 0.1665430555502565, "name": "soul", "weight": 0.38088432335864225}
+{"frequency": 0.1358665722638176, "name": "r&b", "weight": 0.37659669495310405}
+{"frequency": 0.051862190941602, "name": "soft rock", "weight": 0.3074586869138008}
+{"frequency": 0.025702428234313998, "name": "70s", "weight": 0.2919160339437249}
+{"frequency": 0.059316342436077384, "name": "jazz rock", "weight": 0.2711031710585083}
+{"frequency": 0.08283453116922679, "name": "disco", "weight": 0.24573470299240732}
+{"frequency": 0.020472283001326533, "name": "80s", "weight": 0.23251451540866458}
+{"frequency": 0.051428472267132916, "name": "classic rock", "weight": 0.22367128182224208}
+{"frequency": 0.032118458902207526, "name": "blue-eyed soul", "weight": 0.21322018758374275}
+{"frequency": 0.04138173628672728, "name": "blues-rock", "weight": 0.17811523001339885}
+{"frequency": 0.059298244653294925, "name": "singer-songwriter", "weight": 0.16909334524341224}
+{"frequency": 0.02791491505747083, "name": "smooth jazz", "weight": 0.15649843680214381}
+{"frequency": 0.013000646848654233, "name": "90s", "weight": 0.14765520321572131}
+{"frequency": 0.053019509457124706, "name": "pop rock", "weight": 0.13845466726217062}
+{"frequency": 0.048918825731786714, "name": "soundtrack", "weight": 0.13550692273336312}
+{"frequency": 0.016315149911819385, "name": "album rock", "weight": 0.10701205895489058}
+{"frequency": 0.016370659693433813, "name": "vocal pop", "weight": 0.1066547565877624}

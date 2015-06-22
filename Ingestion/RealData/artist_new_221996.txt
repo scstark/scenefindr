@@ -1,0 +1,15 @@
+{"frequency": 0.1568067713518941, "name": "surf revival", "weight": 0.6525612472160356}
+{"frequency": 0.19371510933656624, "name": "surf music", "weight": 0.5723830734966593}
+{"frequency": 0.21177830487427324, "name": "garage punk", "weight": 0.534521158129176}
+{"frequency": 0.5209074109048657, "name": "punk", "weight": 0.49443207126948774}
+{"frequency": 1.0, "name": "rock", "weight": 0.43875278396436523}
+{"frequency": 0.40848743196336906, "name": "instrumental", "weight": 0.43429844097995546}
+{"frequency": 0.08599958932177917, "name": "garage rock revival", "weight": 0.30957683741648107}
+{"frequency": 0.08795891006738789, "name": "mod revival", "weight": 0.3051224944320713}
+{"frequency": 0.11000058046057039, "name": "honky tonk", "weight": 0.2583518930957684}
+{"frequency": 0.12682793591014585, "name": "new wave", "weight": 0.23162583518930957}
+{"frequency": 0.13465910535496656, "name": "alternative rock", "weight": 0.2182628062360802}
+{"frequency": 0.1379207220588605, "name": "indie rock", "weight": 0.21158129175946547}
+{"frequency": 0.1590626134673765, "name": "pop rock", "weight": 0.18262806236080179}
+{"frequency": 0.17833615333325223, "name": "country", "weight": 0.1603563474387528}
+{"frequency": 0.21026806578180676, "name": "pop", "weight": 0.12026726057906459}

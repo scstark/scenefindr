@@ -1,0 +1,16 @@
+{"frequency": 0.5951327668927954, "name": "christian", "weight": 0.8421052631578947}
+{"frequency": 0.8336308307559157, "name": "pop", "weight": 0.8157894736842105}
+{"frequency": 1.0, "name": "rock", "weight": 0.7894736842105263}
+{"frequency": 0.4940039783739411, "name": "blues", "weight": 0.5789473684210527}
+{"frequency": 0.337523312047782, "name": "alternative", "weight": 0.4473684210526316}
+{"frequency": 0.32716233574572984, "name": "folk", "weight": 0.39473684210526316}
+{"frequency": 0.24054442751549532, "name": "romantic", "weight": 0.39473684210526316}
+{"frequency": 0.24688414736506964, "name": "noise", "weight": 0.3684210526315789}
+{"frequency": 0.31625775554467045, "name": "dance", "weight": 0.34210526315789475}
+{"frequency": 0.23968465017953222, "name": "break", "weight": 0.3157894736842105}
+{"frequency": 0.1607251841076392, "name": "dubstep", "weight": 0.3157894736842105}
+{"frequency": 0.2459166532446108, "name": "indie", "weight": 0.3157894736842105}
+{"frequency": 0.1547172081306943, "name": "alternative rock", "weight": 0.2631578947368421}
+{"frequency": 0.24401289095938816, "name": "club", "weight": 0.2631578947368421}
+{"frequency": 0.15512272013299025, "name": "symphony", "weight": 0.23684210526315788}
+{"frequency": 0.15795041335252497, "name": "instrumental", "weight": 0.21052631578947367}

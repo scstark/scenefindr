@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 0.6800781449356198, "name": "bluegrass", "weight": 0.807909604519774}, {"frequency": 0.9493764942150604, "name": "country", "weight": 0.5819209039548022}, {"frequency": 0.24068011840429923, "name": "folk", "weight": 0.14124293785310735}]}}

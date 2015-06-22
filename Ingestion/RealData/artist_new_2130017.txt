@@ -1,0 +1,11 @@
+{"frequency": 1.0, "name": "jazz", "weight": 0.5849056603773585}
+{"frequency": 0.39671486329816863, "name": "dance music", "weight": 0.49056603773584906}
+{"frequency": 0.6774598620784212, "name": "dance", "weight": 0.4339622641509434}
+{"frequency": 0.2112815523376408, "name": "latin jazz", "weight": 0.37735849056603776}
+{"frequency": 0.21106616676175505, "name": "latin music", "weight": 0.3584905660377358}
+{"frequency": 0.20403971391735629, "name": "latin pop", "weight": 0.3584905660377358}
+{"frequency": 0.12369368512206622, "name": "flamenco", "weight": 0.18867924528301888}
+{"frequency": 0.12699873495828953, "name": "salsa", "weight": 0.18867924528301888}
+{"frequency": 0.1239165517252167, "name": "tango", "weight": 0.18867924528301888}
+{"frequency": 0.13066219400983264, "name": "romantic", "weight": 0.1509433962264151}
+{"frequency": 0.12841067684050103, "name": "swing", "weight": 0.1509433962264151}

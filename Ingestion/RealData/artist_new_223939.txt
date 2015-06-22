@@ -1,0 +1,6 @@
+{"frequency": 0.22170203403775618, "name": "operatic pop", "weight": 0.6448598130841121}
+{"frequency": 0.5726948540482614, "name": "opera", "weight": 0.616822429906542}
+{"frequency": 0.7463005172389325, "name": "pop", "weight": 0.3302180685358255}
+{"frequency": 0.06655335615216093, "name": "rock steady", "weight": 0.14641744548286603}
+{"frequency": 0.09047483181894865, "name": "ska", "weight": 0.11526479750778816}
+{"frequency": 0.09973323875788981, "name": "reggae", "weight": 0.102803738317757}

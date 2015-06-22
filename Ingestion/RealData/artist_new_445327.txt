@@ -1,0 +1,20 @@
+{"frequency": 1.0, "name": "pop", "weight": 1.0}
+{"frequency": 0.2339016803369463, "name": "new wave", "weight": 0.7433381782945736}
+{"frequency": 0.30775358595400654, "name": "soul", "weight": 0.5414244186046512}
+{"frequency": 0.6506977048117989, "name": "rock", "weight": 0.5002422480620154}
+{"frequency": 0.04964450853908672, "name": "80s", "weight": 0.43435077519379844}
+{"frequency": 0.17688163548662067, "name": "reggae", "weight": 0.4120639534883721}
+{"frequency": 0.2138370185240365, "name": "club", "weight": 0.3626453488372093}
+{"frequency": 0.058715407845372526, "name": "soft rock", "weight": 0.26804748062015504}
+{"frequency": 0.047267141569655655, "name": "blue-eyed soul", "weight": 0.24212693798449614}
+{"frequency": 0.026165120169685536, "name": "70s", "weight": 0.22892441860465115}
+{"frequency": 0.09559042531049776, "name": "pop rock", "weight": 0.19198158914728683}
+{"frequency": 0.12426196243098218, "name": "dance", "weight": 0.1882267441860465}
+{"frequency": 0.04286960491701048, "name": "glam rock", "weight": 0.1854408914728682}
+{"frequency": 0.0600515311462231, "name": "synthpop", "weight": 0.18180717054263565}
+{"frequency": 0.06110638746676872, "name": "post-punk", "weight": 0.17344961240310078}
+{"frequency": 0.0557378484296832, "name": "ballad", "weight": 0.16266957364341086}
+{"frequency": 0.01835711598134849, "name": "90s", "weight": 0.16061046511627908}
+{"frequency": 0.05541783302396437, "name": "rock 'n roll", "weight": 0.14450096899224807}
+{"frequency": 0.05197941850507619, "name": "disco", "weight": 0.1187015503875969}
+{"frequency": 0.03175941235456928, "name": "dance pop", "weight": 0.11470445736434108}

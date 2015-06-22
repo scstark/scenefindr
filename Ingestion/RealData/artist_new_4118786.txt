@@ -1,0 +1,2 @@
+{"frequency": 0.5463280379802036, "name": "grindcore", "weight": 1.0}
+{"frequency": 1.0, "name": "rock", "weight": 0.4262295081967213}

@@ -1,0 +1,8 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.18402903303082016, "name": "roots", "weight": 0.5358255451713395}
+{"frequency": 0.20676343471007133, "name": "blues", "weight": 0.4937694704049844}
+{"frequency": 0.23039151768965782, "name": "folk", "weight": 0.4517133956386293}
+{"frequency": 0.08471929523519048, "name": "jam band", "weight": 0.4392523364485981}
+{"frequency": 0.07607402032052724, "name": "psychedelic", "weight": 0.22274143302180685}
+{"frequency": 0.10655403940684668, "name": "pop", "weight": 0.13862928348909656}
+{"frequency": 0.0325765715854047, "name": "bluegrass", "weight": 0.1292834890965732}

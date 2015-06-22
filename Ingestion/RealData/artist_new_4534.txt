@@ -1,0 +1,3 @@
+{"frequency": 0.5110564957740602, "name": "classical", "weight": 0.4889589905362776}
+{"frequency": 0.13036378056015396, "name": "easy listening", "weight": 0.2902208201892745}
+{"frequency": 0.09115485506261425, "name": "ambient", "weight": 0.10094637223974763}

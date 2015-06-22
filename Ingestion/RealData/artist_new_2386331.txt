@@ -1,0 +1,4 @@
+{"frequency": 1.0, "name": "folk", "weight": 1.0}
+{"frequency": 0.30246548753413915, "name": "singer-songwriter", "weight": 0.44166666666666665}
+{"frequency": 0.6861494694065164, "name": "rock", "weight": 0.35}
+{"frequency": 0.4143782442681371, "name": "pop", "weight": 0.275}

@@ -1,0 +1,2 @@
+{"frequency": 0.23990363629894934, "name": "swing", "weight": 0.2857142857142857}
+{"frequency": 0.22613067120873018, "name": "lounge", "weight": 0.25}

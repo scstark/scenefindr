@@ -1,0 +1,6 @@
+{"frequency": 1.0, "name": "jazz", "weight": 1.0}
+{"frequency": 0.1008506606064858, "name": "vocal jazz", "weight": 0.33489242282507015}
+{"frequency": 0.13678361443257991, "name": "cabaret", "weight": 0.32787652011225443}
+{"frequency": 0.059453100909823475, "name": "jazz vocal", "weight": 0.19550982226379796}
+{"frequency": 0.1039729690198688, "name": "blues", "weight": 0.13797942001870908}
+{"frequency": 0.0988946999938805, "name": "soul", "weight": 0.12581852198316185}

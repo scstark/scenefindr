@@ -1,0 +1,9 @@
+{"frequency": 0.469751354480005, "name": "oi", "weight": 1.0}
+{"frequency": 1.0, "name": "punk", "weight": 0.89885543667579}
+{"frequency": 0.825879094646277, "name": "rock", "weight": 0.34473749688977356}
+{"frequency": 0.10881892692333626, "name": "street punk", "weight": 0.29883055486439414}
+{"frequency": 0.033678490693820645, "name": "80s", "weight": 0.15999004727544167}
+{"frequency": 0.08693670697531349, "name": "heavy metal", "weight": 0.14369246081114706}
+{"frequency": 0.028414590031701898, "name": "70s", "weight": 0.1349838268225927}
+{"frequency": 0.031308281216646305, "name": "british punk rock", "weight": 0.1042547897486937}
+{"frequency": 0.11883831879306482, "name": "metal", "weight": 0.10052251803931327}

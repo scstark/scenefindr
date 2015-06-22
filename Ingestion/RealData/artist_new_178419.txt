@@ -1,0 +1,18 @@
+{"frequency": 0.601647321377494, "name": "flamenco", "weight": 0.8939960413459423}
+{"frequency": 0.6125315060848511, "name": "latin", "weight": 0.5322190455245217}
+{"frequency": 0.8870098745931952, "name": "pop", "weight": 0.36606553771717615}
+{"frequency": 0.21181138668954175, "name": "rumba", "weight": 0.36551572465361776}
+{"frequency": 0.05974033013160768, "name": "80s", "weight": 0.21585660875302398}
+{"frequency": 0.2462357113233165, "name": "dance", "weight": 0.15394765779634925}
+{"frequency": 0.11147592336804074, "name": "world music", "weight": 0.14680008797009017}
+{"frequency": 0.09597588668731738, "name": "salsa", "weight": 0.13888277985484934}
+{"frequency": 0.22332854239938152, "name": "electronic", "weight": 0.13074554651418518}
+{"frequency": 0.4022828584703562, "name": "rock", "weight": 0.12799648119639323}
+{"frequency": 0.0337503952737394, "name": "90s", "weight": 0.12194853749725093}
+{"frequency": 0.20540524535275378, "name": "jazz", "weight": 0.1176599956014955}
+{"frequency": 0.15626428292987618, "name": "classical", "weight": 0.11579063118539697}
+{"frequency": 0.03934840153236628, "name": "contemporary flamenco", "weight": 0.11216186496591159}
+{"frequency": 0.0426146903487801, "name": "ethnic fusion", "weight": 0.10644380910490434}
+{"frequency": 0.042723044419755586, "name": "spanish folk", "weight": 0.10644380910490434}
+{"frequency": 0.17063278427821604, "name": "folk", "weight": 0.10622388387948098}
+{"frequency": 0.1568848172204938, "name": "country", "weight": 0.10226522982186056}

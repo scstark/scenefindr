@@ -1,0 +1,20 @@
+{"frequency": 1.0, "name": "folk", "weight": 1.0}
+{"frequency": 0.40907617427302323, "name": "singer-songwriter", "weight": 0.5972793419803859}
+{"frequency": 0.2818606588553305, "name": "gothic", "weight": 0.5270484024043024}
+{"frequency": 0.4980834957519644, "name": "alternative", "weight": 0.4890857323631762}
+{"frequency": 0.3615535416959772, "name": "experimental", "weight": 0.4251819044606137}
+{"frequency": 0.13422657839076374, "name": "gothic rock", "weight": 0.38816830117051565}
+{"frequency": 0.20716214328461516, "name": "indie rock", "weight": 0.3664979436887061}
+{"frequency": 0.15600611814874954, "name": "drone", "weight": 0.3377095855741854}
+{"frequency": 0.1203902176022854, "name": "neofolk", "weight": 0.31967731730465043}
+{"frequency": 0.30031296734870583, "name": "metal", "weight": 0.3105030053780449}
+{"frequency": 0.5617547953997553, "name": "rock", "weight": 0.286618158810503}
+{"frequency": 0.0409974460592711, "name": "dark ambient", "weight": 0.23805757671622904}
+{"frequency": 0.08698519673162794, "name": "experimental rock", "weight": 0.23679215438152484}
+{"frequency": 0.1102045396663488, "name": "lo-fi", "weight": 0.21274913002214488}
+{"frequency": 0.10789618543035881, "name": "post-punk", "weight": 0.20325846251186333}
+{"frequency": 0.1648291216943334, "name": "indie", "weight": 0.17573552673204682}
+{"frequency": 0.09524264186615818, "name": "noise", "weight": 0.15153432458082886}
+{"frequency": 0.047526345879717775, "name": "noise rock", "weight": 0.13144574501739956}
+{"frequency": 0.06922170770910836, "name": "alternative rock", "weight": 0.12938943372350523}
+{"frequency": 0.07838532025764204, "name": "psychedelic", "weight": 0.1170515659601392}

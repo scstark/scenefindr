@@ -1,0 +1,2 @@
+{"frequency": 1.0, "name": "country", "weight": 1.0}
+{"frequency": 0.10667073629293546, "name": "texas country", "weight": 0.35170603674540685}

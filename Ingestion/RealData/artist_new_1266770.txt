@@ -1,0 +1,7 @@
+{"frequency": 0.6647275192091844, "name": "rockabilly", "weight": 1.0}
+{"frequency": 0.2784289297800012, "name": "pop punk", "weight": 0.41304347826086957}
+{"frequency": 1.0, "name": "rock", "weight": 0.3695652173913043}
+{"frequency": 0.4589606799349226, "name": "pop", "weight": 0.2210144927536232}
+{"frequency": 0.13824955753232687, "name": "power pop", "weight": 0.21014492753623187}
+{"frequency": 0.1747118322945892, "name": "electronica", "weight": 0.16304347826086957}
+{"frequency": 0.1867497975228549, "name": "hip hop", "weight": 0.15217391304347827}

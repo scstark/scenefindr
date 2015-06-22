@@ -1,0 +1,6 @@
+{"frequency": 0.1912755077579784, "name": "surf music", "weight": 1.0}
+{"frequency": 0.4996278546481803, "name": "instrumental", "weight": 0.9405940594059405}
+{"frequency": 0.2549929622288559, "name": "rockabilly", "weight": 0.806930693069307}
+{"frequency": 1.0, "name": "rock", "weight": 0.7772277227722773}
+{"frequency": 0.014472917013472886, "name": "90s", "weight": 0.12871287128712872}
+{"frequency": 0.014794681750743954, "name": "surf revival", "weight": 0.10891089108910891}

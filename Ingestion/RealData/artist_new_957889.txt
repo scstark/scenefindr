@@ -1,0 +1,4 @@
+{"frequency": 0.5343813581178916, "name": "folk", "weight": 0.5580110497237569}
+{"frequency": 1.0, "name": "rock", "weight": 0.5303867403314917}
+{"frequency": 0.3989987570554028, "name": "country", "weight": 0.43370165745856354}
+{"frequency": 0.15106461375430907, "name": "indie", "weight": 0.1685082872928177}

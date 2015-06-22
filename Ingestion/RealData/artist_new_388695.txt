@@ -1,0 +1,19 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.6002225972780153, "name": "pop", "weight": 0.7807486631016043}
+{"frequency": 0.2591499474005315, "name": "psychedelic", "weight": 0.7584670231729055}
+{"frequency": 0.2484046952856492, "name": "indie", "weight": 0.5190730837789661}
+{"frequency": 0.24814317382118645, "name": "jazz", "weight": 0.4470588235294118}
+{"frequency": 0.06208315195570483, "name": "surf music", "weight": 0.41532976827094475}
+{"frequency": 0.14302836338122388, "name": "soundtrack", "weight": 0.39750445632798576}
+{"frequency": 0.054740080290016785, "name": "psychedelia", "weight": 0.25935828877005346}
+{"frequency": 0.11198515651753474, "name": "experimental", "weight": 0.25811051693404635}
+{"frequency": 0.05076870997915565, "name": "garage rock", "weight": 0.2516934046345811}
+{"frequency": 0.09854931932410488, "name": "instrumental", "weight": 0.2377896613190731}
+{"frequency": 0.053066668632853115, "name": "psychedelic rock", "weight": 0.22994652406417113}
+{"frequency": 0.052704271317166776, "name": "classic rock", "weight": 0.22959001782531194}
+{"frequency": 0.10818176241036924, "name": "alternative", "weight": 0.20819964349376113}
+{"frequency": 0.0562406365192686, "name": "indie rock", "weight": 0.19500891265597148}
+{"frequency": 0.06038847077661363, "name": "funk", "weight": 0.16452762923351158}
+{"frequency": 0.01909882715174589, "name": "garage rock revival", "weight": 0.15561497326203208}
+{"frequency": 0.06384562824043662, "name": "folk", "weight": 0.12513368983957218}
+{"frequency": 0.03002083139924511, "name": "alternative rock", "weight": 0.10998217468805704}

@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 1.0, "name": "polka", "weight": 1.0}, {"frequency": 0.872587794340666, "name": "folk", "weight": 0.3}, {"frequency": 0.12043542432884917, "name": "traditional folk", "weight": 0.11538461538461539}]}}

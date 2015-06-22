@@ -1,0 +1,16 @@
+{"frequency": 1.0, "name": "ska", "weight": 1.0}
+{"frequency": 0.5585403227085585, "name": "reggae", "weight": 0.4519127636753665}
+{"frequency": 0.9377628903983293, "name": "rock", "weight": 0.25038731974734835}
+{"frequency": 0.09307239333216229, "name": "traditional ska", "weight": 0.2029555476105351}
+{"frequency": 0.39032392938382565, "name": "alternative", "weight": 0.2005720414730068}
+{"frequency": 0.3130461755934263, "name": "soul", "weight": 0.1912763675366464}
+{"frequency": 0.19007179389445697, "name": "dub", "weight": 0.17697533071147659}
+{"frequency": 0.08677581856493423, "name": "ska revival", "weight": 0.17685615540460017}
+{"frequency": 0.22593092988142008, "name": "punk", "weight": 0.12990108449529258}
+{"frequency": 0.3681864526321773, "name": "pop", "weight": 0.12787510427839352}
+{"frequency": 0.19402831463205242, "name": "blues", "weight": 0.12370396853771898}
+{"frequency": 0.1351503914026385, "name": "rock 'n roll", "weight": 0.12239304016207841}
+{"frequency": 0.17758197606110138, "name": "instrumental", "weight": 0.1144082946013586}
+{"frequency": 0.1464203818891876, "name": "roots", "weight": 0.11381241806697652}
+{"frequency": 0.04898778579065695, "name": "ska rocksteady", "weight": 0.11071386008818973}
+{"frequency": 0.1977571616927724, "name": "country", "weight": 0.10809200333690859}

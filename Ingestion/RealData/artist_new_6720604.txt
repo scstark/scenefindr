@@ -1,0 +1,4 @@
+{"frequency": 0.5238875780934973, "name": "r&b", "weight": 1.0}
+{"frequency": 1.0, "name": "pop", "weight": 0.8947368421052632}
+{"frequency": 0.02734148201552114, "name": "contemporary r&b", "weight": 0.12753036437246965}
+{"frequency": 0.029749817414141008, "name": "male vocalist", "weight": 0.1214574898785425}

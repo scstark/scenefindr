@@ -1,0 +1,5 @@
+{"frequency": 1.0, "name": "blues", "weight": 1.0}
+{"frequency": 0.10798107539975793, "name": "contemporary blues", "weight": 0.3116038998279488}
+{"frequency": 0.16674612650251733, "name": "blues-rock", "weight": 0.3020454979927356}
+{"frequency": 0.5163312142009234, "name": "rock", "weight": 0.2162110495125215}
+{"frequency": 0.045072289226383594, "name": "80s", "weight": 0.21487287325559168}

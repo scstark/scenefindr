@@ -1,0 +1,3 @@
+{"frequency": 0.5962182114792163, "name": "singer-songwriter", "weight": 0.3235294117647059}
+{"frequency": 0.3261638611622707, "name": "blues", "weight": 0.14705882352941177}
+{"frequency": 0.3402186422798978, "name": "soul", "weight": 0.14705882352941177}

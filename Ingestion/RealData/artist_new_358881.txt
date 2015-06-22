@@ -1,0 +1,14 @@
+{"frequency": 0.8035669195964122, "name": "folk", "weight": 1.0}
+{"frequency": 0.30995285982821524, "name": "americana", "weight": 0.6825284090909091}
+{"frequency": 1.0, "name": "rock", "weight": 0.6349431818181818}
+{"frequency": 0.3786636873554093, "name": "country", "weight": 0.4921875}
+{"frequency": 0.18449648018233916, "name": "singer-songwriter", "weight": 0.3352272727272727}
+{"frequency": 0.10289541114459395, "name": "folk rock", "weight": 0.24786931818181818}
+{"frequency": 0.27861762384332434, "name": "pop", "weight": 0.23011363636363635}
+{"frequency": 0.054795379910622694, "name": "roots rock", "weight": 0.19105113636363635}
+{"frequency": 0.0919138681249304, "name": "reggae", "weight": 0.1768465909090909}
+{"frequency": 0.06875096831112841, "name": "swing", "weight": 0.15767045454545456}
+{"frequency": 0.1011852011645785, "name": "blues", "weight": 0.1534090909090909}
+{"frequency": 0.017495009531546108, "name": "90s", "weight": 0.12642045454545456}
+{"frequency": 0.020867260814281304, "name": "children music", "weight": 0.11434659090909091}
+{"frequency": 0.02476374472909695, "name": "vocal pop", "weight": 0.10298295454545454}

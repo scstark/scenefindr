@@ -1,0 +1,22 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.09778043343214277, "name": "christian rock", "weight": 0.5346643802057814}
+{"frequency": 0.14545765720523185, "name": "alternative rock", "weight": 0.5328882900538952}
+{"frequency": 0.15403084283856686, "name": "christian", "weight": 0.4082557569818716}
+{"frequency": 0.22407004715786305, "name": "pop", "weight": 0.2914625183733464}
+{"frequency": 0.13645701157786322, "name": "alternative", "weight": 0.26261636452719256}
+{"frequency": 0.08541437033629716, "name": "soundtrack", "weight": 0.23738363547280744}
+{"frequency": 0.046168028322215546, "name": "hard rock", "weight": 0.17044341009309164}
+{"frequency": 0.03084096635998481, "name": "christian music", "weight": 0.16468642822146007}
+{"frequency": 0.026977853195739792, "name": "ccm", "weight": 0.15066144047035768}
+{"frequency": 0.025172890529934596, "name": "contemporary christian", "weight": 0.1412297893189613}
+{"frequency": 0.02852645542401122, "name": "modern rock", "weight": 0.1386575208231259}
+{"frequency": 0.012070575835729904, "name": "90s", "weight": 0.13737138657520823}
+{"frequency": 0.044534313050976375, "name": "spiritual", "weight": 0.1346153846153846}
+{"frequency": 0.02451932238212964, "name": "post-grunge", "weight": 0.12261146496815287}
+{"frequency": 0.05127203673699904, "name": "blues", "weight": 0.12242773150416462}
+{"frequency": 0.04222178840956639, "name": "pop rock", "weight": 0.11030132288094072}
+{"frequency": 0.0264701368916172, "name": "power pop", "weight": 0.10852523272905439}
+{"frequency": 0.0572931628498707, "name": "electronic", "weight": 0.10601420872121509}
+{"frequency": 0.05138044155911136, "name": "dance", "weight": 0.10123713865752082}
+{"frequency": 0.015096189384226789, "name": "worship music", "weight": 0.10044096031357178}
+{"frequency": 0.008798658732467083, "name": "80s", "weight": 0.10013473787359138}

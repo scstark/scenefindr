@@ -1,0 +1,23 @@
+{"frequency": 0.37398852986435804, "name": "lo-fi", "weight": 1.0}
+{"frequency": 0.47228576548791457, "name": "psychedelic", "weight": 0.9768339768339769}
+{"frequency": 0.21856779326483275, "name": "psychedelic pop", "weight": 0.9745817245817245}
+{"frequency": 1.0, "name": "pop", "weight": 0.9192406692406693}
+{"frequency": 0.20238835089318868, "name": "drone", "weight": 0.6068211068211068}
+{"frequency": 0.23937076205355515, "name": "indie rock", "weight": 0.5865508365508365}
+{"frequency": 0.15051138463732322, "name": "dream pop", "weight": 0.5833333333333334}
+{"frequency": 0.34294516627018795, "name": "indie", "weight": 0.5064350064350064}
+{"frequency": 0.25877047525882996, "name": "experimental", "weight": 0.4214929214929215}
+{"frequency": 0.1896597383719389, "name": "noise", "weight": 0.41795366795366795}
+{"frequency": 0.5631944504153718, "name": "rock", "weight": 0.398005148005148}
+{"frequency": 0.2732402804284808, "name": "alternative", "weight": 0.3716216216216216}
+{"frequency": 0.10589502584207174, "name": "psychedelia", "weight": 0.35456885456885456}
+{"frequency": 0.06227166215481147, "name": "surf music", "weight": 0.2944015444015444}
+{"frequency": 0.21381942929866113, "name": "electronic", "weight": 0.2796010296010296}
+{"frequency": 0.13407064000946187, "name": "ambient", "weight": 0.25611325611325614}
+{"frequency": 0.13965353402219827, "name": "electronica", "weight": 0.2487129987129987}
+{"frequency": 0.07593295256149223, "name": "alternative rock", "weight": 0.19658944658944658}
+{"frequency": 0.01952271404082083, "name": "00s", "weight": 0.15701415701415702}
+{"frequency": 0.029148624695433247, "name": "male vocalist", "weight": 0.12226512226512226}
+{"frequency": 0.02934237706637391, "name": "space rock", "weight": 0.12162162162162163}
+{"frequency": 0.03097635035520426, "name": "experimental rock", "weight": 0.1167953667953668}
+{"frequency": 0.03467349228449659, "name": "psychedelic rock", "weight": 0.10617760617760617}

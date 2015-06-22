@@ -1,0 +1,10 @@
+{"frequency": 0.5187356567363405, "name": "crust", "weight": 1.0}
+{"frequency": 1.0, "name": "punk", "weight": 0.8426626323751891}
+{"frequency": 0.28816171869749596, "name": "crust punk", "weight": 0.7912254160363086}
+{"frequency": 0.15327768738714723, "name": "anarcho-punk", "weight": 0.3494704992435703}
+{"frequency": 0.28277135765837863, "name": "hardcore", "weight": 0.29652042360060515}
+{"frequency": 0.26708889243450024, "name": "metal", "weight": 0.2118003025718608}
+{"frequency": 0.05834396276982482, "name": "crustcore", "weight": 0.15128593040847202}
+{"frequency": 0.06063371357670214, "name": "american punk", "weight": 0.14523449319213314}
+{"frequency": 0.06952983232000487, "name": "thrash metal", "weight": 0.13161875945537066}
+{"frequency": 0.07426218550136714, "name": "hardcore punk", "weight": 0.12556732223903178}

@@ -1,0 +1,6 @@
+{"frequency": 0.4451089967635366, "name": "alternative rock", "weight": 0.9041916167664671}
+{"frequency": 1.0, "name": "rock", "weight": 0.5544910179640719}
+{"frequency": 0.4330762059184094, "name": "indie", "weight": 0.5017964071856288}
+{"frequency": 0.4561982659281858, "name": "alternative", "weight": 0.4868263473053892}
+{"frequency": 0.1600908082124729, "name": "soundtrack", "weight": 0.2467065868263473}
+{"frequency": 0.07568173093800418, "name": "indie rock", "weight": 0.14550898203592813}

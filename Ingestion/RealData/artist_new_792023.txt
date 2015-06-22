@@ -1,0 +1,15 @@
+{"frequency": 1.0, "name": "hip hop", "weight": 1.0}
+{"frequency": 0.5759279453086918, "name": "funk", "weight": 0.7147335423197492}
+{"frequency": 0.48067779793474863, "name": "rap", "weight": 0.512539184952978}
+{"frequency": 0.13033310773704612, "name": "liquid funk", "weight": 0.4890282131661442}
+{"frequency": 0.14496086300417754, "name": "west coast hip hop", "weight": 0.45768025078369906}
+{"frequency": 0.35587345779238144, "name": "r&b", "weight": 0.4498432601880878}
+{"frequency": 0.1527428733280359, "name": "underground rap", "weight": 0.44043887147335425}
+{"frequency": 0.3879486072230445, "name": "soul", "weight": 0.4043887147335423}
+{"frequency": 0.18319584779871337, "name": "drum and bass", "weight": 0.3824451410658307}
+{"frequency": 0.053214805439490726, "name": "80s", "weight": 0.27586206896551724}
+{"frequency": 0.07185134914013552, "name": "indie hip hop", "weight": 0.22884012539184953}
+{"frequency": 0.0839668551739259, "name": "underground hip hop", "weight": 0.20376175548589343}
+{"frequency": 0.09670550355535383, "name": "breakbeat", "weight": 0.1833855799373041}
+{"frequency": 0.11006047907017723, "name": "fusion", "weight": 0.15987460815047022}
+{"frequency": 0.14133197616837082, "name": "electronic", "weight": 0.11912225705329153}

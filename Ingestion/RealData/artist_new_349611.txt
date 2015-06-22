@@ -1,0 +1,3 @@
+{"frequency": 0.8649122613382206, "name": "folk", "weight": 0.6538461538461539}
+{"frequency": 0.2384946654589528, "name": "psychedelic", "weight": 0.2692307692307692}
+{"frequency": 0.2800863820531138, "name": "country", "weight": 0.22115384615384615}

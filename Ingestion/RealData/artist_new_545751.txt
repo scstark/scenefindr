@@ -1,0 +1,4 @@
+{"frequency": 0.9669303981313428, "name": "electronic", "weight": 0.75}
+{"frequency": 0.4666166348145566, "name": "modern rock", "weight": 0.6}
+{"frequency": 0.4413833531657792, "name": "house", "weight": 0.3}
+{"frequency": 0.49051272882435665, "name": "rock", "weight": 0.25}

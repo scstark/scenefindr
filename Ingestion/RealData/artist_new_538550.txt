@@ -1,0 +1,6 @@
+{"frequency": 1.0, "name": "reggae", "weight": 1.0}
+{"frequency": 0.3195313795689028, "name": "roots", "weight": 0.306973971786211}
+{"frequency": 0.18179659172440396, "name": "reggae rock", "weight": 0.28670772898867475}
+{"frequency": 0.8435134112699921, "name": "rock", "weight": 0.2783628054838069}
+{"frequency": 0.0591239306516773, "name": "roots reggae", "weight": 0.1166302404132724}
+{"frequency": 0.062058242670738985, "name": "roots rock", "weight": 0.11245777866083846}

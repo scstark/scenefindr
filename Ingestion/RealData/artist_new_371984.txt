@@ -1,0 +1,9 @@
+{"frequency": 1.0, "name": "house", "weight": 1.0}
+{"frequency": 0.7387452876048121, "name": "dance", "weight": 0.82174688057041}
+{"frequency": 0.39504567212337677, "name": "techno", "weight": 0.6167557932263814}
+{"frequency": 0.19508939312346316, "name": "progressive house", "weight": 0.5784313725490197}
+{"frequency": 0.3241946956234189, "name": "club", "weight": 0.4037433155080214}
+{"frequency": 0.20359774438008593, "name": "electronica", "weight": 0.2896613190730838}
+{"frequency": 0.13919979713485703, "name": "trance", "weight": 0.23975044563279857}
+{"frequency": 0.22694791123103336, "name": "electronic", "weight": 0.23707664884135474}
+{"frequency": 0.06672203284376775, "name": "progressive trance", "weight": 0.21390374331550802}

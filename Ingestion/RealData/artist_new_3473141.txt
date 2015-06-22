@@ -1,0 +1,12 @@
+{"frequency": 0.42058675779962507, "name": "chamber pop", "weight": 1.0}
+{"frequency": 0.6888183128395705, "name": "indie rock", "weight": 0.8352941176470589}
+{"frequency": 1.0, "name": "indie", "weight": 0.7294117647058823}
+{"frequency": 0.552455474641465, "name": "house", "weight": 0.3411764705882353}
+{"frequency": 0.3822375681889532, "name": "blues", "weight": 0.3176470588235294}
+{"frequency": 0.2719848493513255, "name": "lounge", "weight": 0.3176470588235294}
+{"frequency": 0.22687741242385778, "name": "disco", "weight": 0.23529411764705882}
+{"frequency": 0.23001536785036847, "name": "club", "weight": 0.17647058823529413}
+{"frequency": 0.038480016850928216, "name": "80s", "weight": 0.15294117647058825}
+{"frequency": 0.4070571725322593, "name": "rock", "weight": 0.1411764705882353}
+{"frequency": 0.14456342815460743, "name": "classical", "weight": 0.11764705882352941}
+{"frequency": 0.18787262330843107, "name": "jazz", "weight": 0.11764705882352941}

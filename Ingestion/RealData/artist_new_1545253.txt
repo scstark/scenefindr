@@ -1,0 +1,9 @@
+{"frequency": 1.0, "name": "metal", "weight": 1.0}
+{"frequency": 0.30137451633309253, "name": "black metal", "weight": 0.654300168634064}
+{"frequency": 0.5040966284063914, "name": "experimental", "weight": 0.5733558178752108}
+{"frequency": 0.32432188530647627, "name": "instrumental", "weight": 0.38617200674536256}
+{"frequency": 0.10178462019148606, "name": "experimental metal", "weight": 0.2934232715008432}
+{"frequency": 0.15524997916432542, "name": "post rock", "weight": 0.2934232715008432}
+{"frequency": 0.17862615340226365, "name": "noise", "weight": 0.2748735244519393}
+{"frequency": 0.11759480087066562, "name": "drone", "weight": 0.24620573355817876}
+{"frequency": 0.12262634667748973, "name": "ambient", "weight": 0.163575042158516}

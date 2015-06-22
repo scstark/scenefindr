@@ -1,0 +1,2 @@
+{"frequency": 0.41246161926403163, "name": "jam band", "weight": 0.5869565217391305}
+{"frequency": 0.17928893390061285, "name": "christian", "weight": 0.13043478260869565}

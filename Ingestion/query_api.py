@@ -1,6 +1,6 @@
 import requests
 import json
-
+import time
 
 token = ''
 #query all events in SF Metro Area
@@ -8,44 +8,53 @@ def parse_artists( data ):
 	thing0 = data['resultsPage']
 	thing = thing0['results']
 	thing1 = thing['event']
-	thing2=thing1[0]
-	#print thing2.keys()
-	thing3 = thing2['performance']
-	#print thing3
-	#for j in thing3:
-	print len(thing3)
-	for i in range( len(thing3) ):
-		thing4 = thing3[i]
-		#print thing4
-	#thing4 = thing3['artist']
-		thing5 = thing4['artist']
-		print thing5
-	#	thing4 = thing3['artist']
-		artName= thing5['displayName']
-		artID= str( thing5['id'] ) 
-		filename = 'RealData/artist_%s_%s.txt' % (artID, artName.replace(" ","") )
-		print 'writing to file %s' % filename
-		writer = open( filename, 'w' )
-		#write artist distribution file
-		key = ''
-		pt = 'http://developer.echonest.com/api/v4/artist/terms?'
-		qp = {'api_key': key, 'name': artName, 'format': 'json' }#, 'bucket': 'id:songkick' }
-		result = requests.get( pt, params= qp )
-		print result
-		LALALA = result.json()
-		writer.write( json.dumps( LALALA ) )
-		#writer.write( result )
-		writer.close()
+	for i in range( len(thing1) ):
+		thing2=thing1[i]
+		#print thing2.keys()
+		thing3 = thing2['performance']
+		#print thing3
+		#for j in thing3:
+		print 'length of thing3: %s' % int(len(thing3))
+		#for i in range( len(thing3) ):
+		if len(thing3) >0:
+			thing4 = thing3[0]
+			#print thing4
+			#thing4 = thing3['artist']
+			thing5 = thing4['artist']
+			print thing5
+			#	thing4 = thing3['artist']
+			artName= thing5['displayName']
+			artID= str( thing5['id'] ) 
+			filename = 'RealData/artist_%s.txt' % artID
+			#print 'writing to file %s' % filename
+			#writer = open( filename, 'w' )
+			#write artist distribution file
+			key = ''
+			#query EchoNest for artist TF
+			pt = 'http://developer.echonest.com/api/v4/artist/terms?'
+			qp = {'api_key': key, 'name': artName, 'format': 'json' }#, 'bucket': 'id:songkick' }
+			result = requests.get( pt, params= qp )
+			print 'result is %s' % result
+			if '429' in str( result ):
+				print 'rate limited. retrying in 60s'
+				time.sleep(60) #wait out the timeout - a minute
+				result = requests.get( pt, params = qp ) #retry requests
+			writer = open( filename, 'w' )
+			LALALA = result.json()
+			writer.write( json.dumps( LALALA ) )
+			print 'writing to file %s' % filename
+			#writer.write( result )
+			writer.close()
 
-point = 'http://developer.echonest.com/api/v4/artist/terms?'
-apkey = ''
-querparams = {'api_key': apkey, 'name': 'weezer', 'format': 'json' }
+#point = 'http://developer.echonest.com/api/v4/artist/terms?'
+#apkey = ''
+#querparams = {'api_key': apkey, 'name': 'weezer', 'format': 'json' }
 
-my_result = requests.get(point, params = querparams )
-flufflyDuckling = my_result.json()
-fw = open( 'RealData/weezer_res.txt','w')
-fw.write( json.dumps(  flufflyDuckling ) )
-fw.close()
+#my_result = requests.get(point, params = querparams )
+#flufflyDuckling = my_result.json()
+#fw = open( 'RealData/weezer_res.txt','w')
+#fw.write( json.dumps(  flufflyDuckling ) )
+#fw.close()
 
 for i in range(1,24):
 	query_params = { 'apikey': token,
@@ -62,12 +71,12 @@ for i in range(1,24):
 	
 	#get artist information
 	#go to 'performance:artist:id' and get their distributions from echonest
-	parse_artists( full_data )
+	#parse_artists( full_data )
 	
 	file_name = "RealData/%s_events_%s.txt" % (query_params['location'],query_params['page'])
 	#print full_data['resultsPage']
 	file_writer = open(file_name, 'w' )
-
+	#data = full_data['resultsPage']['results']['event']
 	file_writer.write( json.dumps( full_data ) + '\n' )
 	file_writer.close()
 

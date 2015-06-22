@@ -1,0 +1,22 @@
+{"frequency": 0.46893844813317215, "name": "power metal", "weight": 1.0}
+{"frequency": 1.0, "name": "metal", "weight": 0.7934068512435476}
+{"frequency": 0.2527108737645824, "name": "speed metal", "weight": 0.6285781323322384}
+{"frequency": 0.3667077483143894, "name": "heavy metal", "weight": 0.5685124354763023}
+{"frequency": 0.9678274689994447, "name": "rock", "weight": 0.3789300797747536}
+{"frequency": 0.12308819166176203, "name": "progressive metal", "weight": 0.24847489441576726}
+{"frequency": 0.06063767191962826, "name": "epic power metal", "weight": 0.2227827311121539}
+{"frequency": 0.10635430132528449, "name": "thrash metal", "weight": 0.20143125293289535}
+{"frequency": 0.07267351700653255, "name": "symphonic metal", "weight": 0.18547630220553732}
+{"frequency": 0.14942692458749143, "name": "opera", "weight": 0.18524167057719382}
+{"frequency": 0.11216686384970333, "name": "hard rock", "weight": 0.16213045518535898}
+{"frequency": 0.18467974649742483, "name": "folk", "weight": 0.14171750351947443}
+{"frequency": 0.044384839993664764, "name": "melodic power metal", "weight": 0.13549976536837166}
+{"frequency": 0.029540645848328065, "name": "80s", "weight": 0.1316283435007039}
+{"frequency": 0.05210214639376279, "name": "folk metal", "weight": 0.12599718442045987}
+{"frequency": 0.037745987797014796, "name": "epic metal", "weight": 0.11250586579070859}
+{"frequency": 0.06524625879223304, "name": "black metal", "weight": 0.11238854997653684}
+{"frequency": 0.04064192948747819, "name": "classic metal", "weight": 0.10781323322383857}
+{"frequency": 0.07067318475151275, "name": "celtic", "weight": 0.10734396996715158}
+{"frequency": 0.041620659835713426, "name": "german metal", "weight": 0.10640544345377757}
+{"frequency": 0.03135440396242563, "name": "neo classical metal", "weight": 0.1020647583294228}
+{"frequency": 0.11046835535485584, "name": "classical", "weight": 0.10100891600187706}

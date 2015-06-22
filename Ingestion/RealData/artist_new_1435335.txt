@@ -1,0 +1,9 @@
+{"frequency": 0.9295920384171181, "name": "hip hop", "weight": 1.0}
+{"frequency": 0.5918121182623355, "name": "rap", "weight": 0.6788749617853868}
+{"frequency": 1.0, "name": "pop", "weight": 0.6363803118312442}
+{"frequency": 0.41729355651041, "name": "r&b", "weight": 0.5674717211861816}
+{"frequency": 0.22116903699075877, "name": "dance", "weight": 0.2132069703454601}
+{"frequency": 0.07159474458164035, "name": "dance pop", "weight": 0.1644145521247325}
+{"frequency": 0.06430612925604316, "name": "electropop", "weight": 0.13035768878018955}
+{"frequency": 0.034781385672578075, "name": "female rap", "weight": 0.12344848670131459}
+{"frequency": 0.12633081967900447, "name": "electronic", "weight": 0.11427697951696729}

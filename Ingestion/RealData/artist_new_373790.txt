@@ -1,0 +1,11 @@
+{"frequency": 1.0, "name": "instrumental", "weight": 1.0}
+{"frequency": 0.8430652861072173, "name": "indie", "weight": 0.7317073170731707}
+{"frequency": 0.39274802263453046, "name": "post rock", "weight": 0.6260162601626016}
+{"frequency": 0.41131976427413447, "name": "indie rock", "weight": 0.5934959349593496}
+{"frequency": 0.09111253197665252, "name": "90s", "weight": 0.43089430894308944}
+{"frequency": 0.14694988334363152, "name": "indie pop", "weight": 0.23577235772357724}
+{"frequency": 0.16733565178347912, "name": "psychedelic", "weight": 0.2032520325203252}
+{"frequency": 0.45311914325069463, "name": "rock", "weight": 0.18699186991869918}
+{"frequency": 0.18707860834098605, "name": "experimental", "weight": 0.17886178861788618}
+{"frequency": 0.13172271126778762, "name": "noise", "weight": 0.17073170731707318}
+{"frequency": 0.20414385581425828, "name": "alternative", "weight": 0.16260162601626016}

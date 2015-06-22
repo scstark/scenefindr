@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 1.0, "name": "reggae", "weight": 1.0}, {"frequency": 0.15467930917103567, "name": "roots reggae", "weight": 0.30560271646859083}, {"frequency": 0.25036556727542914, "name": "roots", "weight": 0.24052065647990944}]}}

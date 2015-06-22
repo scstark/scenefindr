@@ -1,0 +1,10 @@
+{"frequency": 1.0, "name": "alternative", "weight": 1.0}
+{"frequency": 0.9687471167110061, "name": "pop", "weight": 0.6547619047619048}
+{"frequency": 0.260576834775387, "name": "alternative rock", "weight": 0.49603174603174605}
+{"frequency": 0.3508189466992116, "name": "electronic", "weight": 0.3373015873015873}
+{"frequency": 0.12888581026315452, "name": "indie pop", "weight": 0.25793650793650796}
+{"frequency": 0.17177285569359133, "name": "indie", "weight": 0.1865079365079365}
+{"frequency": 0.10732862863302506, "name": "r&b", "weight": 0.15476190476190477}
+{"frequency": 0.05329302762853169, "name": "cabaret", "weight": 0.11904761904761904}
+{"frequency": 0.10445792044634941, "name": "country", "weight": 0.1111111111111111}
+{"frequency": 0.0523050610671841, "name": "ballad", "weight": 0.10317460317460317}

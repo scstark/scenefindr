@@ -1,0 +1,20 @@
+{"frequency": 1.0, "name": "dance", "weight": 1.0}
+{"frequency": 0.8777906711110864, "name": "house", "weight": 0.7897542883634677}
+{"frequency": 0.5052007698057104, "name": "club", "weight": 0.5669911914696337}
+{"frequency": 0.22983653107369925, "name": "electro house", "weight": 0.5331478905887808}
+{"frequency": 0.16177621765675473, "name": "edm", "weight": 0.4089012517385257}
+{"frequency": 0.19733259817601234, "name": "r&b", "weight": 0.27839592025961984}
+{"frequency": 0.202930163633267, "name": "electro", "weight": 0.2698191933240612}
+{"frequency": 0.35187083356795806, "name": "pop", "weight": 0.23226703755215578}
+{"frequency": 0.23671354881341913, "name": "electronic", "weight": 0.22183588317107092}
+{"frequency": 0.06444999650902491, "name": "funky house", "weight": 0.20329160871580898}
+{"frequency": 0.07088436804854989, "name": "progressive house", "weight": 0.18915159944367177}
+{"frequency": 0.07143074166652615, "name": "electroclash", "weight": 0.1879925822902179}
+{"frequency": 0.16455052768968556, "name": "hip hop", "weight": 0.1835883171070932}
+{"frequency": 0.07505464563641846, "name": "eurodance", "weight": 0.18057487250811313}
+{"frequency": 0.07755276470208139, "name": "tech house", "weight": 0.17593880389429764}
+{"frequency": 0.09888150327417275, "name": "techno", "weight": 0.13885025498377376}
+{"frequency": 0.10309220299032483, "name": "electronica", "weight": 0.13212795549374132}
+{"frequency": 0.10657548576629888, "name": "rap", "weight": 0.1267964765878535}
+{"frequency": 0.11216008791999114, "name": "indie", "weight": 0.11891515994436717}
+{"frequency": 0.031225479489776966, "name": "disco house", "weight": 0.10384793694946685}

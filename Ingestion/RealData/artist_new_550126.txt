@@ -1,0 +1,13 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.25533363350221644, "name": "indie rock", "weight": 0.8853444290337494}
+{"frequency": 0.22810428141175923, "name": "indie", "weight": 0.47665279704114655}
+{"frequency": 0.32983181844124654, "name": "pop", "weight": 0.42903374942209893}
+{"frequency": 0.06770245137232274, "name": "garage rock", "weight": 0.3356449375866852}
+{"frequency": 0.08000795109783583, "name": "alternative rock", "weight": 0.29311141932501156}
+{"frequency": 0.11602850124487997, "name": "alternative", "weight": 0.22330097087378642}
+{"frequency": 0.013649428169251666, "name": "00s", "weight": 0.1553398058252427}
+{"frequency": 0.020329644689274527, "name": "male vocalist", "weight": 0.12066574202496533}
+{"frequency": 0.0206886585135902, "name": "british pop", "weight": 0.11927877947295423}
+{"frequency": 0.020752918123529262, "name": "dance rock", "weight": 0.11881645862228386}
+{"frequency": 0.021319146869972893, "name": "funk rock", "weight": 0.11650485436893204}
+{"frequency": 0.024180628280458465, "name": "dancehall", "weight": 0.10540915395284327}

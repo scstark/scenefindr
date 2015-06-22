@@ -1,0 +1,12 @@
+{"frequency": 1.0, "name": "classical", "weight": 0.6178676230844473}
+{"frequency": 0.34920912436412294, "name": "heavy metal", "weight": 0.36582980110857516}
+{"frequency": 0.48266292424689494, "name": "instrumental", "weight": 0.3081186827518748}
+{"frequency": 0.451763906614671, "name": "indie", "weight": 0.24975546136289534}
+{"frequency": 0.7181609196870145, "name": "pop", "weight": 0.24714704923377895}
+{"frequency": 0.4870450413690212, "name": "jazz", "weight": 0.23214867949135964}
+{"frequency": 0.8244751835430196, "name": "rock", "weight": 0.218128464297359}
+{"frequency": 0.19544655250223772, "name": "alternative rock", "weight": 0.18943593087707858}
+{"frequency": 0.07814642341673407, "name": "cello rock", "weight": 0.18454515813498532}
+{"frequency": 0.34898066596557, "name": "folk", "weight": 0.18095859145745027}
+{"frequency": 0.12671062091457977, "name": "indie pop", "weight": 0.12911640039126182}
+{"frequency": 0.13399499890719999, "name": "indie rock", "weight": 0.12292142158461036}

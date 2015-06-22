@@ -1,0 +1,4 @@
+{"frequency": 0.20122274291068584, "name": "symphony", "weight": 0.19560369544440906}
+{"frequency": 0.1336777114936015, "name": "lounge", "weight": 0.12360624402676011}
+{"frequency": 0.1781819836355222, "name": "blues", "weight": 0.11723478814909206}
+{"frequency": 0.16887594185099272, "name": "club", "weight": 0.10258043963045556}

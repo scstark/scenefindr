@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 0.4007972993578793, "name": "r&b", "weight": 0.5591397849462365}, {"frequency": 0.40627621855373663, "name": "funk", "weight": 0.5564516129032258}, {"frequency": 0.21872472513868219, "name": "neo soul", "weight": 0.532258064516129}]}}

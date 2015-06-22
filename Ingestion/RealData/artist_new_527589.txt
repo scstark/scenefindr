@@ -1,0 +1,15 @@
+{"frequency": 1.0, "name": "house", "weight": 1.0}
+{"frequency": 0.20010899998425732, "name": "acid jazz", "weight": 0.6564112011790715}
+{"frequency": 0.2974867717542294, "name": "downtempo", "weight": 0.6343036109064112}
+{"frequency": 0.537588818107986, "name": "jazz", "weight": 0.5467943994104643}
+{"frequency": 0.11812655032884545, "name": "chicago house", "weight": 0.42630803242446574}
+{"frequency": 0.300754101011363, "name": "dance", "weight": 0.33456153279292555}
+{"frequency": 0.09325846175341435, "name": "deep house", "weight": 0.2636330140014738}
+{"frequency": 0.1571937024648948, "name": "electronica", "weight": 0.2236551215917465}
+{"frequency": 0.1094865713371666, "name": "dub", "weight": 0.21554900515843772}
+{"frequency": 0.13435280148111234, "name": "electronic", "weight": 0.14038319823139278}
+{"frequency": 0.08755610583330614, "name": "techno", "weight": 0.13669859985261607}
+{"frequency": 0.048056483204782195, "name": "trip hop", "weight": 0.10832719233603537}
+{"frequency": 0.06958375475550121, "name": "funk", "weight": 0.10703758290346352}
+{"frequency": 0.06987799129503008, "name": "ambient", "weight": 0.10666912306558585}
+{"frequency": 0.0741077709820386, "name": "instrumental", "weight": 0.10095799557848195}

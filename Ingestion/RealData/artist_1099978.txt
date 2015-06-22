@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 1.0, "name": "singer-songwriter", "weight": 1.0}, {"frequency": 0.4378283715344662, "name": "folk", "weight": 0.29891304347826086}, {"frequency": 0.10818226912279724, "name": "alternative rock", "weight": 0.13858695652173914}]}}

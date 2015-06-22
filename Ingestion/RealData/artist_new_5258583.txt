@@ -1,0 +1,4 @@
+{"frequency": 0.1923880563765919, "name": "lounge", "weight": 0.25}
+{"frequency": 0.19021733076947223, "name": "rock 'n roll", "weight": 0.25}
+{"frequency": 0.19502963325242792, "name": "club", "weight": 0.16666666666666666}
+{"frequency": 0.430187439308284, "name": "rock", "weight": 0.16666666666666666}

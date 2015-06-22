@@ -1,0 +1,14 @@
+{"frequency": 1.0, "name": "pop", "weight": 1.0}
+{"frequency": 0.32817890853142584, "name": "dance", "weight": 0.49711613842535557}
+{"frequency": 0.39018123686602413, "name": "rock", "weight": 0.3008735580692127}
+{"frequency": 0.1870116152326267, "name": "electronic", "weight": 0.2651752715869638}
+{"frequency": 0.12621911413077722, "name": "electronica", "weight": 0.245268227125098}
+{"frequency": 0.02578695490813736, "name": "80s", "weight": 0.2257811625041998}
+{"frequency": 0.08621255366262645, "name": "pop rock", "weight": 0.1736196662560197}
+{"frequency": 0.04214529787660134, "name": "electropop", "weight": 0.13402956658080412}
+{"frequency": 0.07731137663869596, "name": "club", "weight": 0.1314816888789338}
+{"frequency": 0.01491447886153637, "name": "90s", "weight": 0.13058573188486952}
+{"frequency": 0.055388566052007975, "name": "disco", "weight": 0.1266939186919028}
+{"frequency": 0.052271386899922306, "name": "techno", "weight": 0.11118266323216486}
+{"frequency": 0.0515660967100086, "name": "soundtrack", "weight": 0.11009071564564901}
+{"frequency": 0.03599084602303156, "name": "dance music", "weight": 0.1050229588979729}

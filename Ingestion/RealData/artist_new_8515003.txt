@@ -1,0 +1,20 @@
+{"frequency": 1.0, "name": "hip hop", "weight": 0.9571972098922004}
+{"frequency": 0.5899141873884638, "name": "rap", "weight": 0.6020925808497146}
+{"frequency": 0.13659575366203766, "name": "gangster rap", "weight": 0.4327837666455295}
+{"frequency": 0.2455335576742887, "name": "r&b", "weight": 0.29708306911857957}
+{"frequency": 0.08018824878547859, "name": "west coast rap", "weight": 0.26331642358909324}
+{"frequency": 0.08776316237996168, "name": "hardcore rap", "weight": 0.24778059606848446}
+{"frequency": 0.04121327277322808, "name": "00s", "weight": 0.2045022194039315}
+{"frequency": 0.04121327277322808, "name": "90s", "weight": 0.2045022194039315}
+{"frequency": 0.1992415425531286, "name": "punk", "weight": 0.18706404565630944}
+{"frequency": 0.049406571798799766, "name": "east coast rap", "weight": 0.18452758402029168}
+{"frequency": 0.05174750501971897, "name": "bay area rap", "weight": 0.17913760304375395}
+{"frequency": 0.054944740627839175, "name": "southern rap", "weight": 0.17232086239695624}
+{"frequency": 0.05623287189131944, "name": "west coast hip hop", "weight": 0.1699429296131896}
+{"frequency": 0.05933111704016067, "name": "underground rap", "weight": 0.16376030437539632}
+{"frequency": 0.0655184071372513, "name": "underground hip hop", "weight": 0.1521876981610653}
+{"frequency": 0.06747517536256, "name": "pop rap", "weight": 0.1487000634115409}
+{"frequency": 0.07803695940339626, "name": "old school", "weight": 0.13142041851616995}
+{"frequency": 0.08019133778204755, "name": "alternative rock", "weight": 0.12809131261889664}
+{"frequency": 0.09608900269171822, "name": "electronica", "weight": 0.10558021559923907}
+{"frequency": 0.09809736379582644, "name": "instrumental", "weight": 0.10320228281547242}

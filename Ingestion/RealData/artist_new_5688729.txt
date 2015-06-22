@@ -1,0 +1,5 @@
+{"frequency": 0.5149220185083233, "name": "grime", "weight": 1.0}
+{"frequency": 1.0, "name": "experimental", "weight": 0.92}
+{"frequency": 0.18058803432117954, "name": "breakbeat", "weight": 0.3}
+{"frequency": 0.20122906926724954, "name": "dub", "weight": 0.28}
+{"frequency": 0.21878182353541664, "name": "electronica", "weight": 0.22}

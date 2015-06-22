@@ -1,0 +1,6 @@
+{"frequency": 1.0, "name": "disco", "weight": 1.0}
+{"frequency": 0.5928021018361225, "name": "dance", "weight": 0.3932082216264522}
+{"frequency": 0.49231056203586626, "name": "club", "weight": 0.36550491510277033}
+{"frequency": 0.3771306768425399, "name": "electronic", "weight": 0.2350312779267203}
+{"frequency": 0.3671543671829337, "name": "house", "weight": 0.21894548704200179}
+{"frequency": 0.08541016255138857, "name": "male vocalist", "weight": 0.17068811438784628}

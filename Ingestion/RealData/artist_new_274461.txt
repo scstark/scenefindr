@@ -1,0 +1,13 @@
+{"frequency": 0.5617099659228663, "name": "indie rock", "weight": 1.0}
+{"frequency": 0.7406333168429143, "name": "dance", "weight": 0.7492537313432835}
+{"frequency": 0.19879270498623075, "name": "drumfunk", "weight": 0.7164179104477612}
+{"frequency": 0.27654128008183326, "name": "progressive rock", "weight": 0.5522388059701493}
+{"frequency": 0.2777510711475651, "name": "indie pop", "weight": 0.5492537313432836}
+{"frequency": 1.0, "name": "rock", "weight": 0.5134328358208955}
+{"frequency": 0.4646429139231004, "name": "indie", "weight": 0.49850746268656715}
+{"frequency": 0.11112282309747905, "name": "british invasion", "weight": 0.3283582089552239}
+{"frequency": 0.12685548106277347, "name": "drum and bass", "weight": 0.29850746268656714}
+{"frequency": 0.12946014483112173, "name": "classic rock", "weight": 0.28955223880597014}
+{"frequency": 0.1396566334802433, "name": "post rock", "weight": 0.2746268656716418}
+{"frequency": 0.14171911450783514, "name": "post-punk", "weight": 0.26865671641791045}
+{"frequency": 0.17348611316424584, "name": "instrumental", "weight": 0.21492537313432836}

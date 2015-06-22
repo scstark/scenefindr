@@ -1,0 +1,7 @@
+{"frequency": 0.34795388426050483, "name": "indie rock", "weight": 1.0}
+{"frequency": 1.0, "name": "rock", "weight": 0.8284202569916855}
+{"frequency": 0.2154311201617649, "name": "post rock", "weight": 0.6840513983371126}
+{"frequency": 0.35135611387050697, "name": "indie", "weight": 0.6084656084656085}
+{"frequency": 0.17291901428887363, "name": "shoegaze", "weight": 0.6084656084656085}
+{"frequency": 0.07239654484704498, "name": "experimental", "weight": 0.1383219954648526}
+{"frequency": 0.11431204349453862, "name": "pop", "weight": 0.12320483749055178}

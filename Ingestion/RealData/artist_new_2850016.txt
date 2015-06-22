@@ -1,0 +1,9 @@
+{"frequency": 1.0, "name": "rap", "weight": 1.0}
+{"frequency": 0.7342952357934676, "name": "hip hop", "weight": 0.6886486486486486}
+{"frequency": 0.18577111784098038, "name": "crunk", "weight": 0.39927927927927925}
+{"frequency": 0.0663881469574021, "name": "dirty south rap", "weight": 0.28936936936936936}
+{"frequency": 0.260989686919182, "name": "club", "weight": 0.24594594594594596}
+{"frequency": 0.23138037599581654, "name": "country", "weight": 0.20234234234234233}
+{"frequency": 0.3602499879377563, "name": "pop", "weight": 0.2001801801801802}
+{"frequency": 0.05324214834648863, "name": "southern rap", "weight": 0.1636036036036036}
+{"frequency": 0.04717149329218562, "name": "southern hip hop", "weight": 0.14216216216216215}

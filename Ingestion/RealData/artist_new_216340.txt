@@ -1,0 +1,18 @@
+{"frequency": 0.9142315354702064, "name": "metal", "weight": 1.0}
+{"frequency": 0.3773636155810822, "name": "thrash metal", "weight": 0.9853253934495959}
+{"frequency": 0.42817468113708185, "name": "heavy metal", "weight": 0.915142492556359}
+{"frequency": 0.205914054398297, "name": "groove metal", "weight": 0.7577626541897065}
+{"frequency": 0.2970156339190573, "name": "death metal", "weight": 0.6646108039132285}
+{"frequency": 0.20997988282167213, "name": "nu metal", "weight": 0.5714589536367504}
+{"frequency": 1.0, "name": "rock", "weight": 0.5397703105061676}
+{"frequency": 0.2999544361249153, "name": "hardcore", "weight": 0.43385793279455553}
+{"frequency": 0.13499070660816395, "name": "alternative metal", "weight": 0.39387494683113566}
+{"frequency": 0.24754448905886592, "name": "roots", "weight": 0.38898341131433434}
+{"frequency": 0.2815977651468591, "name": "punk", "weight": 0.32730752871118673}
+{"frequency": 0.12144157284373745, "name": "metalcore", "weight": 0.2535091450446618}
+{"frequency": 0.0520984533419433, "name": "trash metal", "weight": 0.20672054444917057}
+{"frequency": 0.17452149927975505, "name": "jazz", "weight": 0.169715014887282}
+{"frequency": 0.05065062372374128, "name": "folk metal", "weight": 0.16886431305827307}
+{"frequency": 0.13077495462611358, "name": "experimental", "weight": 0.16269672479795833}
+{"frequency": 0.14474443239724022, "name": "alternative", "weight": 0.15036154827732878}
+{"frequency": 0.11349436877771461, "name": "electronic", "weight": 0.11335601871544024}

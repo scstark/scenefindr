@@ -1,0 +1,14 @@
+{"frequency": 1.0, "name": "blues", "weight": 1.0}
+{"frequency": 0.19634299340998504, "name": "chicago blues", "weight": 0.4866379972354477}
+{"frequency": 0.6753412236465034, "name": "rock", "weight": 0.2828290585163569}
+{"frequency": 0.10406655203309298, "name": "electric blues", "weight": 0.278605436952849}
+{"frequency": 0.2538476166858525, "name": "soul", "weight": 0.2432806020580556}
+{"frequency": 0.35242170072334306, "name": "pop", "weight": 0.19198279834126863}
+{"frequency": 0.24472818233761096, "name": "jazz", "weight": 0.18464905544463217}
+{"frequency": 0.12729640463474912, "name": "r&b", "weight": 0.1479419444017816}
+{"frequency": 0.07695059817577386, "name": "blues-rock", "weight": 0.13934111503609276}
+{"frequency": 0.04776051757267898, "name": "contemporary blues", "weight": 0.1378052526493626}
+{"frequency": 0.02653669590441017, "name": "90s", "weight": 0.12647826754722777}
+{"frequency": 0.1338227906855412, "name": "country", "weight": 0.11472892028874213}
+{"frequency": 0.04332645100676026, "name": "delta blues", "weight": 0.1113500230379358}
+{"frequency": 0.02213002532607932, "name": "70s", "weight": 0.10547534940869298}

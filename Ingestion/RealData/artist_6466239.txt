@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 0.9079518366303191, "name": "synthpop", "weight": 0.8095238095238095}, {"frequency": 0.42856240896475606, "name": "new wave", "weight": 0.4}]}}

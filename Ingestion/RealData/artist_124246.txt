@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 0.7345231285502981, "name": "house", "weight": 0.42857142857142855}]}}

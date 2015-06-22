@@ -1,0 +1,7 @@
+{"frequency": 0.6426170760887424, "name": "experimental", "weight": 0.7742363877822045}
+{"frequency": 1.0, "name": "pop", "weight": 0.6799468791500664}
+{"frequency": 0.2618994381801149, "name": "singer-songwriter", "weight": 0.39176626826029215}
+{"frequency": 0.24718188483026662, "name": "ambient", "weight": 0.34926958831341304}
+{"frequency": 0.16501105197843358, "name": "alternative", "weight": 0.16600265604249667}
+{"frequency": 0.049104093212409716, "name": "dream pop", "weight": 0.1407702523240372}
+{"frequency": 0.059366003785089806, "name": "indie pop", "weight": 0.11952191235059761}

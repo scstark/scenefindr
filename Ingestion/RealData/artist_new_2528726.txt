@@ -1,0 +1,2 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.07052553490381165, "name": "blues", "weight": 0.16898608349900596}

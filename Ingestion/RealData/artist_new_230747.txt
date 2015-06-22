@@ -1,0 +1,15 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.07263142516205702, "name": "arena rock", "weight": 0.45981349911190056}
+{"frequency": 0.10483951536047229, "name": "classic rock", "weight": 0.45681616341030196}
+{"frequency": 0.11273334323298727, "name": "hard rock", "weight": 0.4162966252220249}
+{"frequency": 0.09293624468030312, "name": "progressive rock", "weight": 0.3615674955595027}
+{"frequency": 0.02912623657930219, "name": "70s", "weight": 0.3315941385435169}
+{"frequency": 0.026785996664630295, "name": "80s", "weight": 0.30495115452930727}
+{"frequency": 0.15734301894651656, "name": "pop", "weight": 0.20470692717584368}
+{"frequency": 0.0639473759673166, "name": "pop rock", "weight": 0.16707371225577264}
+{"frequency": 0.028179343487591418, "name": "melodic rock", "weight": 0.16074600355239788}
+{"frequency": 0.012032733863947515, "name": "80s rock", "weight": 0.13698934280639433}
+{"frequency": 0.012032733863947515, "name": "90s", "weight": 0.13698934280639433}
+{"frequency": 0.06292110889864967, "name": "alternative", "weight": 0.1211145648312611}
+{"frequency": 0.04899612544463822, "name": "blues", "weight": 0.11700710479573712}
+{"frequency": 0.018416663503820298, "name": "male vocalist", "weight": 0.10934724689165186}

@@ -1,0 +1,12 @@
+{"frequency": 1.0, "name": "punk", "weight": 1.0}
+{"frequency": 0.6862986816102508, "name": "folk", "weight": 0.6246524559777572}
+{"frequency": 0.2137163407886004, "name": "folk punk", "weight": 0.5940685820203893}
+{"frequency": 0.30211023320940605, "name": "americana", "weight": 0.4865616311399444}
+{"frequency": 0.9619298300990802, "name": "rock", "weight": 0.44670991658943465}
+{"frequency": 0.3033676135861705, "name": "singer-songwriter", "weight": 0.4031510658016682}
+{"frequency": 0.34981006015971844, "name": "pop", "weight": 0.211306765523633}
+{"frequency": 0.11046475870153759, "name": "folk rock", "weight": 0.19462465245597776}
+{"frequency": 0.11276312744658586, "name": "alternative rock", "weight": 0.19184430027803523}
+{"frequency": 0.15139909654485859, "name": "alternative", "weight": 0.13531047265987026}
+{"frequency": 0.03652118212287256, "name": "heartland rock", "weight": 0.1334569045412419}
+{"frequency": 0.04303800477502009, "name": "male vocalist", "weight": 0.11862835959221502}

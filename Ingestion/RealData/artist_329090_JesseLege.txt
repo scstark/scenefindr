@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 0.5396144383649024, "name": "blues", "weight": 0.22826086956521738}, {"frequency": 0.13407985289459082, "name": "male vocalist", "weight": 0.14130434782608695}, {"frequency": 0.1352378715456398, "name": "new orleans jazz", "weight": 0.14130434782608695}]}}

@@ -1,0 +1,18 @@
+{"frequency": 0.3525549668574293, "name": "noise rock", "weight": 1.0}
+{"frequency": 0.30293901966530795, "name": "math rock", "weight": 0.9405339805825242}
+{"frequency": 0.41869845435365066, "name": "post-hardcore", "weight": 0.892799352750809}
+{"frequency": 1.0, "name": "rock", "weight": 0.5232605177993528}
+{"frequency": 0.4626457255171763, "name": "indie", "weight": 0.5058656957928802}
+{"frequency": 0.2536183886104381, "name": "indie rock", "weight": 0.4601537216828479}
+{"frequency": 0.2723410787771489, "name": "instrumental", "weight": 0.34385113268608414}
+{"frequency": 0.2751681789832769, "name": "alternative", "weight": 0.2771035598705502}
+{"frequency": 0.13826947781342633, "name": "post rock", "weight": 0.2771035598705502}
+{"frequency": 0.14123095323203963, "name": "post-punk", "weight": 0.2728559870550162}
+{"frequency": 0.16672594418585587, "name": "noise", "weight": 0.272046925566343}
+{"frequency": 0.0441548719751648, "name": "90s", "weight": 0.26294498381877024}
+{"frequency": 0.2130769596490904, "name": "punk", "weight": 0.24008899676375406}
+{"frequency": 0.20334147384317755, "name": "metal", "weight": 0.2156148867313916}
+{"frequency": 0.07639106228337593, "name": "alternative rock", "weight": 0.1464401294498382}
+{"frequency": 0.11538431354011482, "name": "experimental", "weight": 0.13915857605177995}
+{"frequency": 0.01963193529484794, "name": "00s", "weight": 0.11690938511326861}
+{"frequency": 0.024895944041723295, "name": "chicago punk", "weight": 0.10173948220064725}

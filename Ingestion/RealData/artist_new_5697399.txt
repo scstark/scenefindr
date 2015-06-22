@@ -1,0 +1,3 @@
+{"frequency": 1.0, "name": "soul", "weight": 1.0}
+{"frequency": 0.7333872684074552, "name": "r&b", "weight": 0.8895705521472392}
+{"frequency": 0.436352084620856, "name": "jazz", "weight": 0.34355828220858897}

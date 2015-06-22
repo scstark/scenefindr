@@ -1,0 +1,9 @@
+{"frequency": 1.0, "name": "jazz", "weight": 1.0}
+{"frequency": 0.4685696498460503, "name": "pop", "weight": 0.33830679759748306}
+{"frequency": 0.08858815931305912, "name": "bossa nova", "weight": 0.2675660215463819}
+{"frequency": 0.0796224400205685, "name": "vocal jazz", "weight": 0.26275145390409}
+{"frequency": 0.11548610182866757, "name": "swing", "weight": 0.2315282677090285}
+{"frequency": 0.09833260288231928, "name": "blues", "weight": 0.1303270092477834}
+{"frequency": 0.038320551200550744, "name": "contemporary jazz", "weight": 0.11917246639336447}
+{"frequency": 0.033968982781392876, "name": "jazz vocal", "weight": 0.11111640766517304}
+{"frequency": 0.0511218482732641, "name": "romantic", "weight": 0.10067689960911431}

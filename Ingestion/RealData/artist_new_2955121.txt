@@ -1,0 +1,13 @@
+{"frequency": 0.743839674717012, "name": "ska", "weight": 1.0}
+{"frequency": 0.4103503742878256, "name": "new wave", "weight": 0.6089011421819615}
+{"frequency": 0.5262978527638108, "name": "reggae", "weight": 0.5724694761717212}
+{"frequency": 1.0, "name": "pop", "weight": 0.46691610870421424}
+{"frequency": 0.1060527026573465, "name": "80s", "weight": 0.4332414336352895}
+{"frequency": 0.4649383668761137, "name": "alternative", "weight": 0.3211894446632533}
+{"frequency": 0.09831046074758298, "name": "british ska", "weight": 0.2888932650649862}
+{"frequency": 0.8009773021547619, "name": "rock", "weight": 0.2875147695943285}
+{"frequency": 0.09645343453337175, "name": "ska revival", "weight": 0.2642772745175266}
+{"frequency": 0.3338447162588271, "name": "dance", "weight": 0.23611658133123276}
+{"frequency": 0.30521535066562105, "name": "punk", "weight": 0.23591965340685309}
+{"frequency": 0.048591419997438684, "name": "70s", "weight": 0.19850334777471446}
+{"frequency": 0.15606418776846853, "name": "dub", "weight": 0.19535250098463963}

@@ -1,0 +1,8 @@
+{"frequency": 1.0, "name": "latin", "weight": 1.0}
+{"frequency": 0.9601742798805234, "name": "rock", "weight": 0.3515093222846996}
+{"frequency": 0.7150110354694031, "name": "pop", "weight": 0.34048535069547203}
+{"frequency": 0.11973379873348303, "name": "latin pop", "weight": 0.23631251849659662}
+{"frequency": 0.0813850716949174, "name": "pop latino", "weight": 0.199985202722699}
+{"frequency": 0.08454032503668987, "name": "cumbia", "weight": 0.16928085232317253}
+{"frequency": 0.08766413123681593, "name": "latin music", "weight": 0.1676531518200651}
+{"frequency": 0.058850122811303175, "name": "latin rock", "weight": 0.1296241491565552}

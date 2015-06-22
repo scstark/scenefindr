@@ -1,0 +1,5 @@
+{"frequency": 1.0, "name": "emo", "weight": 1.0}
+{"frequency": 0.15611912248808285, "name": "midwest emo", "weight": 0.5}
+{"frequency": 0.3593043475583485, "name": "pop rock", "weight": 0.2641509433962264}
+{"frequency": 0.38919814227046795, "name": "punk", "weight": 0.2358490566037736}
+{"frequency": 0.3930483032849706, "name": "indie", "weight": 0.23113207547169812}

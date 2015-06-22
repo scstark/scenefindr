@@ -1,0 +1,6 @@
+{"frequency": 0.5264828576950874, "name": "house", "weight": 0.2574679943100996}
+{"frequency": 0.2781396087762375, "name": "lounge", "weight": 0.2574679943100996}
+{"frequency": 0.38771652471703816, "name": "club", "weight": 0.2361308677098151}
+{"frequency": 0.325823245335472, "name": "blues", "weight": 0.2147937411095306}
+{"frequency": 0.3088629183108632, "name": "jazz", "weight": 0.15362731152204837}
+{"frequency": 0.13805190216854182, "name": "funk", "weight": 0.10384068278805121}

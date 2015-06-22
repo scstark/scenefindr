@@ -1,0 +1,9 @@
+{"frequency": 0.8364570065671435, "name": "pop", "weight": 1.0}
+{"frequency": 1.0, "name": "rock", "weight": 0.9173333333333333}
+{"frequency": 0.10129921157794107, "name": "british pop", "weight": 0.5386666666666666}
+{"frequency": 0.09895945464238468, "name": "power pop", "weight": 0.37333333333333335}
+{"frequency": 0.10744888189588188, "name": "indie rock", "weight": 0.344}
+{"frequency": 0.11815489881215399, "name": "singer-songwriter", "weight": 0.312}
+{"frequency": 0.12446129010855986, "name": "pop rock", "weight": 0.2986666666666667}
+{"frequency": 0.04780150188927713, "name": "classic rock", "weight": 0.192}
+{"frequency": 0.06777767356059376, "name": "indie", "weight": 0.13066666666666665}

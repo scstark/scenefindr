@@ -1,0 +1,22 @@
+{"frequency": 1.0, "name": "electronic", "weight": 1.0}
+{"frequency": 0.6806607638287322, "name": "hip hop", "weight": 0.8075663877773736}
+{"frequency": 0.27222685124335455, "name": "dream pop", "weight": 0.8068388504910877}
+{"frequency": 0.4533372671358248, "name": "r&b", "weight": 0.6798835940341943}
+{"frequency": 0.28151031083258654, "name": "synthpop", "weight": 0.5991269552564569}
+{"frequency": 0.46385294817092154, "name": "indie", "weight": 0.5238268461258639}
+{"frequency": 0.39512917299191724, "name": "experimental", "weight": 0.49217897417242634}
+{"frequency": 0.21950604349349487, "name": "electropop", "weight": 0.4914514368861404}
+{"frequency": 0.5961288080576786, "name": "pop", "weight": 0.4190614769006912}
+{"frequency": 0.26492800715895637, "name": "electro", "weight": 0.3746817024372499}
+{"frequency": 0.15636639330980268, "name": "shoegaze", "weight": 0.3586758821389596}
+{"frequency": 0.16166272348380006, "name": "dubstep", "weight": 0.35176427791924336}
+{"frequency": 0.21341114102542355, "name": "electronica", "weight": 0.2906511458712259}
+{"frequency": 0.09744728972070069, "name": "indietronica", "weight": 0.26664241542379047}
+{"frequency": 0.14093502163144214, "name": "indie rock", "weight": 0.26409603492178974}
+{"frequency": 0.1128977843656324, "name": "indie pop", "weight": 0.23499454347035287}
+{"frequency": 0.18891639071488261, "name": "dance", "weight": 0.20116405965805748}
+{"frequency": 0.036400942162494475, "name": "intelligent dance music", "weight": 0.16333212077118953}
+{"frequency": 0.04479831495713629, "name": "experimental pop", "weight": 0.14223353946889777}
+{"frequency": 0.05178271951647603, "name": "glitch", "weight": 0.12659148781375046}
+{"frequency": 0.05529689097538162, "name": "trip hop", "weight": 0.11931611495089123}
+{"frequency": 0.05703587143168045, "name": "downtempo", "weight": 0.11640596580574754}

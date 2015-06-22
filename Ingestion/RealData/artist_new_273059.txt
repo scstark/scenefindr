@@ -1,0 +1,24 @@
+{"frequency": 0.37094195241295547, "name": "dream pop", "weight": 1.0}
+{"frequency": 0.891226831012767, "name": "indie", "weight": 0.9154484393520348}
+{"frequency": 0.40418690902160986, "name": "lo-fi", "weight": 0.7517450283155538}
+{"frequency": 0.4310838984246478, "name": "indie rock", "weight": 0.7347556960358225}
+{"frequency": 1.0, "name": "pop", "weight": 0.6394047148689582}
+{"frequency": 0.7118080703946837, "name": "house", "weight": 0.6197813775846174}
+{"frequency": 0.2815199923053096, "name": "indie pop", "weight": 0.5329909126827341}
+{"frequency": 0.1961871917871846, "name": "shoegaze", "weight": 0.40932437771631763}
+{"frequency": 0.7464329209635472, "name": "rock", "weight": 0.36691689714210457}
+{"frequency": 0.3188039477551601, "name": "soul", "weight": 0.3586197813775846}
+{"frequency": 0.09014391529673253, "name": "baroque pop", "weight": 0.32740682207296196}
+{"frequency": 0.1770437356112953, "name": "psychedelic", "weight": 0.2547082839457395}
+{"frequency": 0.2528131083822898, "name": "alternative", "weight": 0.2391676544185434}
+{"frequency": 0.17731764780460899, "name": "ambient", "weight": 0.23561174766232057}
+{"frequency": 0.218516139889044, "name": "dance", "weight": 0.21164230212037402}
+{"frequency": 0.05350891935915783, "name": "psychedelic folk", "weight": 0.17687343605952852}
+{"frequency": 0.19083753821416494, "name": "electronic", "weight": 0.17358092980376663}
+{"frequency": 0.0847699418197722, "name": "synthpop", "weight": 0.16409851178717239}
+{"frequency": 0.0867656238998243, "name": "downtempo", "weight": 0.16106940603187145}
+{"frequency": 0.1592547931554722, "name": "folk", "weight": 0.1534307915185039}
+{"frequency": 0.10606535236838703, "name": "electro", "weight": 0.13644145923877254}
+{"frequency": 0.1132200628549255, "name": "experimental", "weight": 0.12827604372448306}
+{"frequency": 0.08840418878519518, "name": "pop rock", "weight": 0.11352561569866983}
+{"frequency": 0.019257268329091314, "name": "00s", "weight": 0.10773080468852891}

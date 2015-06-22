@@ -1,0 +1,7 @@
+{"frequency": 1.0, "name": "electronic", "weight": 1.0}
+{"frequency": 0.19305399825175318, "name": "jam band", "weight": 0.5408496732026143}
+{"frequency": 0.30950485786339627, "name": "instrumental", "weight": 0.4035947712418301}
+{"frequency": 0.48375986975737173, "name": "rock", "weight": 0.26143790849673204}
+{"frequency": 0.06505870792152982, "name": "edm", "weight": 0.17647058823529413}
+{"frequency": 0.09238136049596646, "name": "electronica", "weight": 0.12581699346405228}
+{"frequency": 0.0957607375364858, "name": "experimental", "weight": 0.119281045751634}

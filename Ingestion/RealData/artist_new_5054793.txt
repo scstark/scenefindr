@@ -1,0 +1,6 @@
+{"frequency": 0.4169893246723888, "name": "90s", "weight": 1.0}
+{"frequency": 1.0, "name": "indie rock", "weight": 0.7307692307692307}
+{"frequency": 0.8199922897307724, "name": "lo-fi", "weight": 0.6538461538461539}
+{"frequency": 0.4096185823505319, "name": "noise", "weight": 0.2692307692307692}
+{"frequency": 0.42377277140341085, "name": "punk", "weight": 0.19230769230769232}
+{"frequency": 0.7303550376982311, "name": "rock", "weight": 0.15384615384615385}

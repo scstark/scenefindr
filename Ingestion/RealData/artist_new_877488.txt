@@ -1,0 +1,7 @@
+{"frequency": 0.25247822024545563, "name": "swedish punk", "weight": 0.5714285714285714}
+{"frequency": 0.7710836617247214, "name": "punk", "weight": 0.5357142857142857}
+{"frequency": 0.25756628556044525, "name": "skate punk", "weight": 0.5357142857142857}
+{"frequency": 0.24903325850362568, "name": "pop punk", "weight": 0.32142857142857145}
+{"frequency": 1.0, "name": "rock", "weight": 0.32142857142857145}
+{"frequency": 0.23884051251123808, "name": "soundtrack", "weight": 0.21428571428571427}
+{"frequency": 0.2556784948143194, "name": "pop", "weight": 0.10714285714285714}

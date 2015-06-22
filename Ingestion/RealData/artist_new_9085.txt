@@ -1,0 +1,11 @@
+{"frequency": 1.0, "name": "punk", "weight": 1.0}
+{"frequency": 0.2110842547296831, "name": "pop punk", "weight": 0.3914249393274009}
+{"frequency": 0.23339649311405367, "name": "hardcore", "weight": 0.2905350745406218}
+{"frequency": 0.6087277007672293, "name": "rock", "weight": 0.28256096151623716}
+{"frequency": 0.11415523424846816, "name": "hardcore punk", "weight": 0.22905350745406217}
+{"frequency": 0.35383114050464426, "name": "pop", "weight": 0.2136831156824223}
+{"frequency": 0.03223437191727612, "name": "90s", "weight": 0.17034554489772333}
+{"frequency": 0.05128374732546979, "name": "american punk", "weight": 0.1458453715474402}
+{"frequency": 0.027204585335974855, "name": "80s", "weight": 0.14376516814977464}
+{"frequency": 0.10444940838150372, "name": "indie", "weight": 0.1013521322084826}
+{"frequency": 0.05883683785016001, "name": "alternative rock", "weight": 0.1000808967987981}

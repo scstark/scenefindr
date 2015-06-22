@@ -1,0 +1,12 @@
+{"frequency": 1.0, "name": "punk", "weight": 1.0}
+{"frequency": 0.8737721618901068, "name": "indie", "weight": 0.8479087452471483}
+{"frequency": 0.3869009535765889, "name": "indie pop", "weight": 0.6920152091254753}
+{"frequency": 0.30511936440728726, "name": "lo-fi", "weight": 0.5361216730038023}
+{"frequency": 0.29050105595563386, "name": "post-punk", "weight": 0.49809885931558934}
+{"frequency": 0.24197845021852682, "name": "pop punk", "weight": 0.44866920152091255}
+{"frequency": 0.18472651965068584, "name": "power pop", "weight": 0.3517110266159696}
+{"frequency": 0.14285730331291271, "name": "garage rock", "weight": 0.3288973384030418}
+{"frequency": 0.22548205656353054, "name": "alternative", "weight": 0.20152091254752852}
+{"frequency": 0.06383197515271473, "name": "noise pop", "weight": 0.17680608365019013}
+{"frequency": 0.08618877133070511, "name": "indie rock", "weight": 0.13878326996197718}
+{"frequency": 0.1762467744731797, "name": "pop", "weight": 0.10646387832699619}

@@ -1,0 +1,5 @@
+{"frequency": 1.0, "name": "fusion", "weight": 1.0}
+{"frequency": 0.3088702626571458, "name": "jazz rock", "weight": 0.4446564885496183}
+{"frequency": 0.7181488089210315, "name": "jazz", "weight": 0.40458015267175573}
+{"frequency": 0.16863228739059624, "name": "world fusion", "weight": 0.3435114503816794}
+{"frequency": 0.42656605191810987, "name": "instrumental", "weight": 0.32251908396946566}

@@ -1,0 +1,16 @@
+{"frequency": 0.5795599298810727, "name": "electropop", "weight": 1.0}
+{"frequency": 0.6095676553067927, "name": "synthpop", "weight": 1.0}
+{"frequency": 0.7692124765330918, "name": "rap", "weight": 0.75}
+{"frequency": 0.8648180060957719, "name": "electronic", "weight": 0.6666666666666666}
+{"frequency": 0.44903203678334425, "name": "noise", "weight": 0.5833333333333334}
+{"frequency": 1.0, "name": "pop", "weight": 0.5416666666666666}
+{"frequency": 0.11243067993993508, "name": "minimal wave", "weight": 0.375}
+{"frequency": 0.20654612929552338, "name": "minimal", "weight": 0.2916666666666667}
+{"frequency": 0.11582049168288841, "name": "bounce", "weight": 0.25}
+{"frequency": 0.11199770746018885, "name": "electro-industrial", "weight": 0.25}
+{"frequency": 0.10218821888478491, "name": "industrial rock", "weight": 0.25}
+{"frequency": 0.10105549409215175, "name": "disco", "weight": 0.125}
+{"frequency": 0.11016664375775825, "name": "funk", "weight": 0.125}
+{"frequency": 0.09548138565798683, "name": "industrial", "weight": 0.125}
+{"frequency": 0.0895142333813537, "name": "lounge", "weight": 0.125}
+{"frequency": 0.0943410049319523, "name": "remix", "weight": 0.125}

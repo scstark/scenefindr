@@ -1,0 +1,3 @@
+{"frequency": 1.0, "name": "latin", "weight": 0.46354487574450604}
+{"frequency": 0.16904903195166127, "name": "salsa", "weight": 0.13082768535633602}
+{"frequency": 0.11077044752005935, "name": "merengue", "weight": 0.108646539330458}

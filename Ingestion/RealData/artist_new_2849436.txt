@@ -1,0 +1,6 @@
+{"frequency": 1.0, "name": "rock", "weight": 0.4790874524714829}
+{"frequency": 0.14976378708697818, "name": "singer-songwriter", "weight": 0.20532319391634982}
+{"frequency": 0.2105667119823503, "name": "folk", "weight": 0.19771863117870722}
+{"frequency": 0.1000181780777541, "name": "bluegrass", "weight": 0.19011406844106463}
+{"frequency": 0.04340793946084718, "name": "alternative folk", "weight": 0.10646387832699619}
+{"frequency": 0.16168749026070106, "name": "pop", "weight": 0.10076045627376426}

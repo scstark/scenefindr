@@ -1,0 +1,19 @@
+{"frequency": 1.0, "name": "grindcore", "weight": 1.0}
+{"frequency": 0.6915983117840513, "name": "thrash metal", "weight": 0.7836134453781513}
+{"frequency": 0.4221864146838748, "name": "math-core", "weight": 0.5451680672268907}
+{"frequency": 0.3596059718629525, "name": "noise rock", "weight": 0.4565826330532213}
+{"frequency": 0.66663658723607, "name": "hardcore", "weight": 0.4184173669467787}
+{"frequency": 0.2696017768429241, "name": "art rock", "weight": 0.3329831932773109}
+{"frequency": 0.6442207037843237, "name": "punk", "weight": 0.32492997198879553}
+{"frequency": 0.30324130064934146, "name": "psychedelic rock", "weight": 0.3077731092436975}
+{"frequency": 0.37056237732085306, "name": "noise", "weight": 0.2706582633053221}
+{"frequency": 0.2513259308139206, "name": "new wave", "weight": 0.24334733893557423}
+{"frequency": 0.9881115129904539, "name": "rock", "weight": 0.23144257703081234}
+{"frequency": 0.10617482825971171, "name": "noise grind", "weight": 0.22514005602240897}
+{"frequency": 0.19443204937988595, "name": "hardcore punk", "weight": 0.19677871148459383}
+{"frequency": 0.37843130598463975, "name": "metal", "weight": 0.1796218487394958}
+{"frequency": 0.16358990029732817, "name": "screamo", "weight": 0.16561624649859943}
+{"frequency": 0.04584179680733421, "name": "80s", "weight": 0.12219887955182072}
+{"frequency": 0.060066912542674045, "name": "emo violence", "weight": 0.10434173669467788}
+{"frequency": 0.060024830677038274, "name": "tech metal", "weight": 0.10399159663865547}
+{"frequency": 0.0637934644354337, "name": "punk metal", "weight": 0.10014005602240897}

@@ -1,0 +1,10 @@
+{"frequency": 1.0, "name": "rap", "weight": 1.0}
+{"frequency": 0.23690593182376518, "name": "french rap", "weight": 0.7378215654077723}
+{"frequency": 0.5993836700559118, "name": "hip hop", "weight": 0.5621237000547346}
+{"frequency": 0.07960809180153558, "name": "rap francais", "weight": 0.3097974822112753}
+{"frequency": 0.09794585381159292, "name": "hardcore rap", "weight": 0.270935960591133}
+{"frequency": 0.42552795636530555, "name": "pop", "weight": 0.23645320197044334}
+{"frequency": 0.047912700291940946, "name": "french hip hop", "weight": 0.13738368910782703}
+{"frequency": 0.049833341653421515, "name": "french music", "weight": 0.13355227148330598}
+{"frequency": 0.05137667777816857, "name": "male vocalist", "weight": 0.13026819923371646}
+{"frequency": 0.05483457964874728, "name": "underground hip hop", "weight": 0.12479474548440066}

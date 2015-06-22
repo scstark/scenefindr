@@ -1,0 +1,14 @@
+{"frequency": 1.0, "name": "dubstep", "weight": 1.0}
+{"frequency": 0.36052050612456965, "name": "dancehall", "weight": 0.39033508723345334}
+{"frequency": 0.4454007870946571, "name": "dub", "weight": 0.38576571586818054}
+{"frequency": 0.7233966939550843, "name": "electronic", "weight": 0.3324563832733315}
+{"frequency": 0.36997886976343564, "name": "reggae", "weight": 0.27845472168374413}
+{"frequency": 0.3941193714550995, "name": "techno", "weight": 0.27070063694267515}
+{"frequency": 0.16398428691250636, "name": "grime", "weight": 0.19814455829410135}
+{"frequency": 0.44472250859834334, "name": "house", "weight": 0.1956521739130435}
+{"frequency": 0.12059614156541311, "name": "bass music", "weight": 0.1834671836056494}
+{"frequency": 0.19236956680981643, "name": "minimal", "weight": 0.16200498476876213}
+{"frequency": 0.24703015353709454, "name": "soul", "weight": 0.14040432013292717}
+{"frequency": 0.21370098995489323, "name": "electronica", "weight": 0.1337579617834395}
+{"frequency": 0.22398110627785336, "name": "experimental", "weight": 0.1282193298255331}
+{"frequency": 0.26736037491615267, "name": "jazz", "weight": 0.11963445029077818}

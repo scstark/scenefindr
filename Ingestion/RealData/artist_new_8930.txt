@@ -1,0 +1,27 @@
+{"frequency": 0.8472053696561342, "name": "punk", "weight": 1.0}
+{"frequency": 0.33277167794444823, "name": "oi", "weight": 0.9302501895375285}
+{"frequency": 0.5670161343629265, "name": "hip hop", "weight": 0.6823351023502654}
+{"frequency": 1.0, "name": "rock", "weight": 0.5481425322213799}
+{"frequency": 0.33397737874371386, "name": "christian", "weight": 0.4852160727824109}
+{"frequency": 0.10212034046016791, "name": "british punk rock", "weight": 0.44655041698256254}
+{"frequency": 0.16031710086719392, "name": "crust", "weight": 0.43290371493555724}
+{"frequency": 0.11479046910381198, "name": "street punk", "weight": 0.4139499620924943}
+{"frequency": 0.3085593714517572, "name": "classical", "weight": 0.3949962092494314}
+{"frequency": 0.3371738161410743, "name": "metal", "weight": 0.37452615617892343}
+{"frequency": 0.22504270045109662, "name": "hardcore", "weight": 0.3305534495830174}
+{"frequency": 0.24047742082633752, "name": "rap", "weight": 0.30856709628506446}
+{"frequency": 0.31155190869233845, "name": "pop", "weight": 0.2221379833206975}
+{"frequency": 0.05536016942520634, "name": "uk hardcore", "weight": 0.21152388172858225}
+{"frequency": 0.05587903210011197, "name": "dark wave", "weight": 0.21076573161485973}
+{"frequency": 0.06283829676210179, "name": "alternative pop rock", "weight": 0.19332827899924185}
+{"frequency": 0.0683359040068889, "name": "thrash metal", "weight": 0.18119787717968158}
+{"frequency": 0.07031618468780962, "name": "drum and bass", "weight": 0.17664897649734648}
+{"frequency": 0.0719932649431009, "name": "black metal", "weight": 0.17361637604245642}
+{"frequency": 0.072663213992524, "name": "hardcore punk", "weight": 0.17210007581501138}
+{"frequency": 0.07513950253749313, "name": "rockabilly", "weight": 0.16679302501895377}
+{"frequency": 0.07928324277352722, "name": "alternative rock", "weight": 0.15921152388172857}
+{"frequency": 0.08837262043235335, "name": "psychedelic", "weight": 0.1417740712661107}
+{"frequency": 0.09071073289181415, "name": "r&b", "weight": 0.1379833206974981}
+{"frequency": 0.0916488583016287, "name": "latin", "weight": 0.1372251705837756}
+{"frequency": 0.09687440974759622, "name": "instrumental", "weight": 0.1281273692191054}
+{"frequency": 0.10838481105458977, "name": "electronic", "weight": 0.10993176648976498}

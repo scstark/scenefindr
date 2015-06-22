@@ -1,0 +1,26 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.319098350276414, "name": "pop", "weight": 0.4150720275209632}
+{"frequency": 0.18507840937444583, "name": "indie", "weight": 0.38674478606751234}
+{"frequency": 0.03359999684616113, "name": "90s", "weight": 0.38239088368092883}
+{"frequency": 0.09997610425011898, "name": "alternative rock", "weight": 0.366265319286175}
+{"frequency": 0.1081741237153126, "name": "psychedelic", "weight": 0.3165985809503333}
+{"frequency": 0.0736299468643495, "name": "folk rock", "weight": 0.27934852719845193}
+{"frequency": 0.14115718140365124, "name": "alternative", "weight": 0.27166200817028596}
+{"frequency": 0.07712275252210289, "name": "indie rock", "weight": 0.26741560954633414}
+{"frequency": 0.04837113430398027, "name": "jam band", "weight": 0.2507525263384218}
+{"frequency": 0.06790108287996308, "name": "americana", "weight": 0.23548699204472157}
+{"frequency": 0.020299801271567667, "name": "00s", "weight": 0.23102558589550634}
+{"frequency": 0.09607687024198736, "name": "blues", "weight": 0.22941302945603095}
+{"frequency": 0.05444161606269306, "name": "alternative country", "weight": 0.2273704579660288}
+{"frequency": 0.040133469882650395, "name": "roots rock", "weight": 0.22038271339496882}
+{"frequency": 0.050343875364656704, "name": "classic rock", "weight": 0.2193076757686519}
+{"frequency": 0.052835299901906954, "name": "power pop", "weight": 0.2166200817028596}
+{"frequency": 0.04576118896436092, "name": "psychedelic rock", "weight": 0.1982906901741561}
+{"frequency": 0.09327327257030114, "name": "folk", "weight": 0.18281014835519244}
+{"frequency": 0.08213312679798604, "name": "country", "weight": 0.16813588475596647}
+{"frequency": 0.02927069424094802, "name": "country rock", "weight": 0.1369060417114599}
+{"frequency": 0.03054445017961424, "name": "blues-rock", "weight": 0.13206837239303376}
+{"frequency": 0.017521812464137542, "name": "adult alternative", "weight": 0.12137174801118039}
+{"frequency": 0.01851192670972261, "name": "psychedelic pop", "weight": 0.11680283809933348}
+{"frequency": 0.019189799020843414, "name": "male vocalist", "weight": 0.11390023650827778}
+{"frequency": 0.01990852139623169, "name": "indie folk", "weight": 0.11083637927327457}

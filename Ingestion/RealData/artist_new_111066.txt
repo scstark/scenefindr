@@ -1,0 +1,6 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.5012229644701949, "name": "pop", "weight": 0.6534090909090909}
+{"frequency": 0.10811949030781963, "name": "singer-songwriter", "weight": 0.3117897727272727}
+{"frequency": 0.08037267646523706, "name": "indie", "weight": 0.1690340909090909}
+{"frequency": 0.02024050090959858, "name": "dream pop", "weight": 0.11221590909090909}
+{"frequency": 0.02176821335652514, "name": "modern rock", "weight": 0.10653409090909091}

@@ -1,0 +1,12 @@
+{"frequency": 0.9771000161310937, "name": "jazz", "weight": 0.8508687258687259}
+{"frequency": 0.856648840945056, "name": "folk", "weight": 0.811534749034749}
+{"frequency": 0.6805668817290841, "name": "blues", "weight": 0.785472972972973}
+{"frequency": 0.3286788050754429, "name": "bluegrass", "weight": 0.6303088803088803}
+{"frequency": 0.5331566307115492, "name": "classical", "weight": 0.6018339768339769}
+{"frequency": 0.442538824450027, "name": "funk", "weight": 0.5827702702702703}
+{"frequency": 1.0, "name": "rock", "weight": 0.48334942084942084}
+{"frequency": 0.41050776750839746, "name": "instrumental", "weight": 0.47876447876447875}
+{"frequency": 0.540409279702856, "name": "pop", "weight": 0.33976833976833976}
+{"frequency": 0.22796115067907008, "name": "soundtrack", "weight": 0.3062258687258687}
+{"frequency": 0.07831788569150781, "name": "new age", "weight": 0.17977799227799227}
+{"frequency": 0.019872337893144663, "name": "00s", "weight": 0.10931467181467182}

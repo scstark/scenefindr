@@ -1,0 +1,6 @@
+{"frequency": 0.4764394608515361, "name": "singer-songwriter", "weight": 0.5186625194401244}
+{"frequency": 0.5724810585159964, "name": "alternative", "weight": 0.4191290824261275}
+{"frequency": 0.46073423433483746, "name": "indie", "weight": 0.36625194401244165}
+{"frequency": 0.44314768535276444, "name": "pop", "weight": 0.2192846034214619}
+{"frequency": 0.05067953602750922, "name": "piano rock", "weight": 0.12830482115085537}
+{"frequency": 0.05406842785726697, "name": "male vocalist", "weight": 0.12208398133748057}

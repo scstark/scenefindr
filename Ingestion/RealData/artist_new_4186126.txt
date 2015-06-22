@@ -1,0 +1,6 @@
+{"frequency": 1.0, "name": "folk", "weight": 1.0}
+{"frequency": 0.31719635156431497, "name": "americana", "weight": 0.5612745098039216}
+{"frequency": 0.27530263938554717, "name": "singer-songwriter", "weight": 0.4019607843137255}
+{"frequency": 0.27816314250412566, "name": "indie", "weight": 0.2965686274509804}
+{"frequency": 0.0721924976447012, "name": "indie folk", "weight": 0.20506535947712418}
+{"frequency": 0.06939644288107809, "name": "alternative country", "weight": 0.14787581699346405}

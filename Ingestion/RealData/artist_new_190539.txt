@@ -1,0 +1,13 @@
+{"frequency": 0.7255739581581828, "name": "singer-songwriter", "weight": 0.809156378600823}
+{"frequency": 1.0, "name": "alternative", "weight": 0.7463991769547325}
+{"frequency": 0.17736795014405918, "name": "male vocalist", "weight": 0.4094650205761317}
+{"frequency": 0.6673203595863367, "name": "pop", "weight": 0.33641975308641975}
+{"frequency": 0.22685410825722668, "name": "folk rock", "weight": 0.3343621399176955}
+{"frequency": 0.4006514239251401, "name": "folk", "weight": 0.30504115226337447}
+{"frequency": 0.7462317110644334, "name": "rock", "weight": 0.28858024691358025}
+{"frequency": 0.3004267356200312, "name": "indie", "weight": 0.24434156378600824}
+{"frequency": 0.03958065085355413, "name": "00s", "weight": 0.17541152263374485}
+{"frequency": 0.05380500713133577, "name": "adult alternative", "weight": 0.1455761316872428}
+{"frequency": 0.06195771766740913, "name": "easy listening", "weight": 0.13117283950617284}
+{"frequency": 0.06736617722973079, "name": "folk-pop", "weight": 0.12345679012345678}
+{"frequency": 0.07669486970726688, "name": "alternative rock", "weight": 0.1095679012345679}

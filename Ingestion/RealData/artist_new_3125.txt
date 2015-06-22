@@ -1,0 +1,9 @@
+{"frequency": 1.0, "name": "soul", "weight": 1.0}
+{"frequency": 0.7766767313999372, "name": "latin", "weight": 0.9248554913294798}
+{"frequency": 0.7280490775375164, "name": "jazz", "weight": 0.5722543352601156}
+{"frequency": 0.4067613392191434, "name": "reggae", "weight": 0.5394990366088632}
+{"frequency": 0.2525627699081967, "name": "samba", "weight": 0.5240847784200385}
+{"frequency": 0.3332858002611629, "name": "funk", "weight": 0.3969171483622351}
+{"frequency": 0.15070196262685798, "name": "latin jazz", "weight": 0.3622350674373796}
+{"frequency": 0.12653388268381963, "name": "jazz fusion", "weight": 0.2832369942196532}
+{"frequency": 0.13088344260289425, "name": "neo soul", "weight": 0.2774566473988439}

@@ -1,0 +1,6 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.5366060155496303, "name": "jazz", "weight": 0.9688715953307393}
+{"frequency": 0.23545039927370978, "name": "soul", "weight": 0.5408560311284046}
+{"frequency": 0.05052260244944298, "name": "classic rock", "weight": 0.22178988326848248}
+{"frequency": 0.06425360376679258, "name": "r&b", "weight": 0.17898832684824903}
+{"frequency": 0.08655868712052753, "name": "pop", "weight": 0.11284046692607004}

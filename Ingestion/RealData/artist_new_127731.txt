@@ -1,0 +1,9 @@
+{"frequency": 1.0, "name": "rock", "weight": 1.0}
+{"frequency": 0.19647140210684835, "name": "blues", "weight": 0.4691358024691358}
+{"frequency": 0.11947448074552212, "name": "indie", "weight": 0.2496570644718793}
+{"frequency": 0.1613485239553051, "name": "pop", "weight": 0.20987654320987653}
+{"frequency": 0.10008417629057671, "name": "folk", "weight": 0.19615912208504802}
+{"frequency": 0.024480918918477913, "name": "roots rock", "weight": 0.13443072702331962}
+{"frequency": 0.02668850709988876, "name": "country rock", "weight": 0.12482853223593965}
+{"frequency": 0.02791827884005967, "name": "blues-rock", "weight": 0.12071330589849108}
+{"frequency": 0.03371098614474736, "name": "disco", "weight": 0.10013717421124829}

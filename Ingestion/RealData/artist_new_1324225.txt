@@ -1,0 +1,5 @@
+{"frequency": 1.0, "name": "ska", "weight": 1.0}
+{"frequency": 0.1414818384680319, "name": "punk ska", "weight": 0.2214765100671141}
+{"frequency": 0.16411581049659693, "name": "dancehall", "weight": 0.1912751677852349}
+{"frequency": 0.06117536328824372, "name": "third wave ska", "weight": 0.12080536912751678}
+{"frequency": 0.06608004223179702, "name": "rock steady", "weight": 0.11409395973154363}

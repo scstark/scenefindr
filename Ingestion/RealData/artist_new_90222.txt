@@ -1,0 +1,25 @@
+{"frequency": 0.31745742603177163, "name": "indie rock", "weight": 1.0}
+{"frequency": 1.0, "name": "rock", "weight": 0.9084693427437142}
+{"frequency": 0.23167080381156419, "name": "indie pop", "weight": 0.810616085869725}
+{"frequency": 0.4209280166091754, "name": "indie", "weight": 0.7990736656374062}
+{"frequency": 0.37983329820830203, "name": "alternative", "weight": 0.6640935156594618}
+{"frequency": 0.17872756537938486, "name": "emo", "weight": 0.5769739744155271}
+{"frequency": 0.39064163494116294, "name": "pop", "weight": 0.4616232906925452}
+{"frequency": 0.11930579584046432, "name": "alternative rock", "weight": 0.3970739597118071}
+{"frequency": 0.13187646520708726, "name": "experimental", "weight": 0.27613586237318044}
+{"frequency": 0.11411751199455852, "name": "soul", "weight": 0.23724452286428466}
+{"frequency": 0.07852956765652322, "name": "noise", "weight": 0.2224672842229084}
+{"frequency": 0.08706393838298701, "name": "soundtrack", "weight": 0.21982061461549773}
+{"frequency": 0.01897873375041999, "name": "90s", "weight": 0.1962211439494192}
+{"frequency": 0.11545948136063103, "name": "electronic", "weight": 0.1940891045434495}
+{"frequency": 0.07804766815754102, "name": "ambient", "weight": 0.19166299073665638}
+{"frequency": 0.05249224831790462, "name": "grunge", "weight": 0.1801205705043376}
+{"frequency": 0.03370279614650332, "name": "dream pop", "weight": 0.16791648287016614}
+{"frequency": 0.016148634093022706, "name": "00s", "weight": 0.16696074106749006}
+{"frequency": 0.016148634093022706, "name": "80s", "weight": 0.16696074106749006}
+{"frequency": 0.037350924570137695, "name": "shoegaze", "weight": 0.14402293780326422}
+{"frequency": 0.07159194059306673, "name": "punk", "weight": 0.14005293339214822}
+{"frequency": 0.058990201466808834, "name": "electronica", "weight": 0.13505366857815027}
+{"frequency": 0.06741004019585153, "name": "metal", "weight": 0.12409939714747831}
+{"frequency": 0.04773566757160442, "name": "singer-songwriter", "weight": 0.12409939714747831}
+{"frequency": 0.05307371387002476, "name": "blues", "weight": 0.11513012792236436}

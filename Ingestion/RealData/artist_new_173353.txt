@@ -1,0 +1,11 @@
+{"frequency": 1.0, "name": "r&b", "weight": 1.0}
+{"frequency": 0.3411113830770084, "name": "new jack swing", "weight": 0.8855964957485184}
+{"frequency": 0.09587993093664803, "name": "90s", "weight": 0.3931976294769389}
+{"frequency": 0.8142647763085844, "name": "pop", "weight": 0.3816026797217212}
+{"frequency": 0.40159077597578297, "name": "hip hop", "weight": 0.31770162329296575}
+{"frequency": 0.07451743030459172, "name": "80s", "weight": 0.3055913424375161}
+{"frequency": 0.31338277327791836, "name": "rap", "weight": 0.2643648544189642}
+{"frequency": 0.3181640919096109, "name": "soul", "weight": 0.2623035300180366}
+{"frequency": 0.21685580223783527, "name": "hardcore", "weight": 0.20948209224426695}
+{"frequency": 0.14672184373171046, "name": "funk", "weight": 0.14403504251481578}
+{"frequency": 0.17241428074230974, "name": "dance", "weight": 0.12239113630507602}

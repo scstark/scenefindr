@@ -1,0 +1,4 @@
+{"frequency": 1.0, "name": "blues", "weight": 1.0}
+{"frequency": 0.510806486934583, "name": "jazz", "weight": 0.3849129593810445}
+{"frequency": 0.09154278275131947, "name": "rockabilly", "weight": 0.15570599613152805}
+{"frequency": 0.11313466418691119, "name": "r&b", "weight": 0.13152804642166344}

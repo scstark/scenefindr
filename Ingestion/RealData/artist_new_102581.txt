@@ -1,0 +1,13 @@
+{"frequency": 1.0, "name": "classical", "weight": 1.0}
+{"frequency": 0.15394921686578505, "name": "contemporary classical music", "weight": 0.4666208521500098}
+{"frequency": 0.2633298326981304, "name": "soundtrack", "weight": 0.313371293932849}
+{"frequency": 0.3663838649473456, "name": "jazz", "weight": 0.2826428431180051}
+{"frequency": 0.2534610313911438, "name": "experimental", "weight": 0.250147260946397}
+{"frequency": 0.16965339000439364, "name": "minimal", "weight": 0.24631847634007462}
+{"frequency": 0.29245155527581895, "name": "folk", "weight": 0.2454349106616925}
+{"frequency": 0.11891661712537101, "name": "chamber music", "weight": 0.23326133909287258}
+{"frequency": 0.1131390465204682, "name": "world music", "weight": 0.20086393088552915}
+{"frequency": 0.09891130152047214, "name": "avant-garde", "weight": 0.1524641665030434}
+{"frequency": 0.1527772932751575, "name": "electronic", "weight": 0.12104849793834675}
+{"frequency": 0.08653189692915401, "name": "opera", "weight": 0.11731788729628903}
+{"frequency": 0.11224420753849036, "name": "indie", "weight": 0.10043196544276457}

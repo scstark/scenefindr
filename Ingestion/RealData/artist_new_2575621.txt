@@ -1,0 +1,22 @@
+{"frequency": 0.430534768748352, "name": "indie rock", "weight": 1.0}
+{"frequency": 0.34529329790431174, "name": "lo-fi", "weight": 0.8751592356687898}
+{"frequency": 1.0, "name": "pop", "weight": 0.8713375796178344}
+{"frequency": 0.4481888559639858, "name": "punk", "weight": 0.6464968152866242}
+{"frequency": 0.4004301536300248, "name": "indie", "weight": 0.5605095541401274}
+{"frequency": 0.21601665049050695, "name": "indie pop", "weight": 0.5573248407643312}
+{"frequency": 0.1503193146372189, "name": "dream pop", "weight": 0.5522292993630573}
+{"frequency": 0.6655962252402038, "name": "rock", "weight": 0.445859872611465}
+{"frequency": 0.08320737472863843, "name": "jangle pop", "weight": 0.3923566878980892}
+{"frequency": 0.17576180235599673, "name": "psychedelic", "weight": 0.3445859872611465}
+{"frequency": 0.08018701840267148, "name": "noise pop", "weight": 0.3203821656050955}
+{"frequency": 0.12135883897655773, "name": "downtempo", "weight": 0.3070063694267516}
+{"frequency": 0.13508087540747976, "name": "noise", "weight": 0.2821656050955414}
+{"frequency": 0.21195524775366753, "name": "alternative", "weight": 0.2732484076433121}
+{"frequency": 0.1090855634433375, "name": "minimal", "weight": 0.24777070063694268}
+{"frequency": 0.026902980199223478, "name": "00s", "weight": 0.2050955414012739}
+{"frequency": 0.035823086563319485, "name": "twee pop", "weight": 0.17261146496815286}
+{"frequency": 0.03752298932005321, "name": "surf music", "weight": 0.1681528662420382}
+{"frequency": 0.037640712696271644, "name": "garage pop", "weight": 0.16751592356687897}
+{"frequency": 0.04077452433266017, "name": "slow core", "weight": 0.15796178343949044}
+{"frequency": 0.04449642214101499, "name": "garage rock", "weight": 0.14777070063694267}
+{"frequency": 0.05473309916453743, "name": "lounge", "weight": 0.12292993630573248}

@@ -1,0 +1,27 @@
+{"frequency": 1.0, "name": "pop", "weight": 1.0}
+{"frequency": 0.31382723716302696, "name": "new wave", "weight": 0.9973411326774794}
+{"frequency": 0.438952378996948, "name": "punk", "weight": 0.7266684392448817}
+{"frequency": 0.9182482292349465, "name": "rock", "weight": 0.7059292741292209}
+{"frequency": 0.24497255258650577, "name": "disco", "weight": 0.5594256846583355}
+{"frequency": 0.04929219194344269, "name": "70s", "weight": 0.4312682797128423}
+{"frequency": 0.040387992070726776, "name": "80s", "weight": 0.35336346716298855}
+{"frequency": 0.10853931739529668, "name": "power pop", "weight": 0.34210759549765135}
+{"frequency": 0.07465694537355246, "name": "classic rock", "weight": 0.25002215722768767}
+{"frequency": 0.15973310596521192, "name": "dance", "weight": 0.24195692634937516}
+{"frequency": 0.03796957768401109, "name": "new york punk", "weight": 0.22192679251971995}
+{"frequency": 0.09511161161193685, "name": "reggae", "weight": 0.22157227687671718}
+{"frequency": 0.10679368906090196, "name": "pop rock", "weight": 0.21448196401666222}
+{"frequency": 0.023866092154375348, "name": "90s", "weight": 0.20880971372861828}
+{"frequency": 0.09640301364371533, "name": "soundtrack", "weight": 0.2059735885845963}
+{"frequency": 0.0691924079523284, "name": "post-punk", "weight": 0.19640166622352212}
+{"frequency": 0.10750049961993668, "name": "club", "weight": 0.1823096694141629}
+{"frequency": 0.05246405799755613, "name": "pop punk", "weight": 0.16103873083399806}
+{"frequency": 0.015833065367542625, "name": "00s", "weight": 0.1385269875033236}
+{"frequency": 0.09438522197135196, "name": "jazz", "weight": 0.13072764335726314}
+{"frequency": 0.05853606700494743, "name": "singer-songwriter", "weight": 0.12877780732074803}
+{"frequency": 0.08828418079792105, "name": "electronic", "weight": 0.1255871665337233}
+{"frequency": 0.03430636843638894, "name": "dance pop", "weight": 0.12390321722946025}
+{"frequency": 0.06589438959246859, "name": "soul", "weight": 0.11592661526189843}
+{"frequency": 0.024695079309962314, "name": "british pop", "weight": 0.10945670477709829}
+{"frequency": 0.025057967606836172, "name": "glam rock", "weight": 0.10839315784809005}
+{"frequency": 0.04819624854700417, "name": "funk", "weight": 0.10094832934503235}

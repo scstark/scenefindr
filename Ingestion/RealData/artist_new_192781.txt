@@ -1,0 +1,5 @@
+{"frequency": 0.9115693240903693, "name": "new age", "weight": 0.8166189111747851}
+{"frequency": 0.4066785195527009, "name": "indian classical", "weight": 0.43123209169054444}
+{"frequency": 0.5037831670583327, "name": "spiritual", "weight": 0.28724928366762176}
+{"frequency": 0.26411253583196337, "name": "ambient", "weight": 0.1346704871060172}
+{"frequency": 0.07383744122327422, "name": "ethnic fusion", "weight": 0.10959885386819485}

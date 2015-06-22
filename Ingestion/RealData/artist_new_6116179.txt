@@ -1,0 +1,4 @@
+{"frequency": 0.35724738539084927, "name": "folk rock", "weight": 0.46564885496183206}
+{"frequency": 0.37152076118115057, "name": "americana", "weight": 0.44274809160305345}
+{"frequency": 1.0, "name": "rock", "weight": 0.3435114503816794}
+{"frequency": 0.4848828062251924, "name": "alternative", "weight": 0.32061068702290074}

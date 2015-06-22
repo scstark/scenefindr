@@ -1,0 +1,7 @@
+{"frequency": 1.0, "name": "jazz", "weight": 1.0}
+{"frequency": 0.19377381939245739, "name": "smooth jazz", "weight": 0.6043023255813953}
+{"frequency": 0.3080458280937901, "name": "soul", "weight": 0.39127906976744187}
+{"frequency": 0.11654514081477527, "name": "contemporary jazz", "weight": 0.3624418604651163}
+{"frequency": 0.0261755123230915, "name": "80s", "weight": 0.16534883720930232}
+{"frequency": 0.1088785510644938, "name": "funk", "weight": 0.16465116279069766}
+{"frequency": 0.09602328979423588, "name": "r&b", "weight": 0.14790697674418604}

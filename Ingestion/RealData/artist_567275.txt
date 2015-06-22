@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 1.0, "name": "comedy", "weight": 1.0}, {"frequency": 0.15385462820806348, "name": "stand-up comedy", "weight": 0.30264550264550266}]}}

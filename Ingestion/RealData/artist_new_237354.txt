@@ -1,0 +1,13 @@
+{"frequency": 0.7597725554849842, "name": "blues", "weight": 1.0}
+{"frequency": 0.5989539354252302, "name": "indie", "weight": 0.6900763358778625}
+{"frequency": 0.8367587980678746, "name": "pop", "weight": 0.6}
+{"frequency": 0.27531331491510136, "name": "indie pop", "weight": 0.5847328244274809}
+{"frequency": 1.0, "name": "rock", "weight": 0.5511450381679389}
+{"frequency": 0.2611036548332087, "name": "indie rock", "weight": 0.49923664122137407}
+{"frequency": 0.34559528421414804, "name": "electronic", "weight": 0.3526717557251908}
+{"frequency": 0.09047760641587438, "name": "indie dance", "weight": 0.33129770992366414}
+{"frequency": 0.2547217667366813, "name": "alternative", "weight": 0.27022900763358776}
+{"frequency": 0.045122548345446635, "name": "surf music", "weight": 0.166412213740458}
+{"frequency": 0.019465265319729464, "name": "70s", "weight": 0.12213740458015267}
+{"frequency": 0.019465265319729464, "name": "80s", "weight": 0.12213740458015267}
+{"frequency": 0.019465265319729464, "name": "90s", "weight": 0.12213740458015267}

@@ -1,0 +1,721 @@
+rock,0
+electronic,1
+pop,2
+punk,3
+alternative hip hop,4
+indie,5
+jazz,6
+hip hop,7
+reggae,8
+experimental,9
+soul,10
+r&b,11
+funk,12
+neo soul,13
+dream pop,14
+alternative,15
+dark wave,16
+electropop,17
+indie pop,18
+alternative rock,19
+latin,20
+latin alternative,21
+electro,22
+blues,23
+blues-rock,24
+modern blues,25
+roots rock,26
+techno,27
+surf music,28
+crunk,29
+rap,30
+folk,31
+smooth jazz,32
+80s,33
+contemporary r&b,34
+romantic,35
+90s,36
+adult contemporary,37
+contemporary jazz,38
+jazz vocal,39
+singer-songwriter,40
+new wave,41
+synthpop,42
+dance,43
+pop punk,44
+pop rock,45
+jazz fusion,46
+world fusion,47
+instrumental rock,48
+instrumental,49
+classical,50
+soundtrack,51
+underground hip hop,52
+horrorcore,53
+underground rap,54
+intelligent dance music,55
+abstract hip hop,56
+ninja tune,57
+hardcore rap,58
+melodic hardcore,59
+hardcore punk,60
+hardcore,61
+post-hardcore,62
+metalcore,63
+metal,64
+emo,65
+screamo,66
+old school,67
+death metal,68
+brutal death metal,69
+technical death metal,70
+new york death metal,71
+american death metal,72
+black metal,73
+extreme metal,74
+country,75
+house,76
+alternative folk,77
+alternative country,78
+americana,79
+gospel,80
+progressive rock,81
+psychedelic rock,82
+classic rock,83
+00s,84
+70s,85
+psychedelic,86
+60s,87
+drum and bass,88
+dubstep,89
+electro house,90
+neurofunk,91
+darkstep,92
+electronica,93
+industrial,94
+liquid funk,95
+jungle music,96
+hardstep,97
+cowpunk,98
+roots,99
+rockabilly,100
+outlaw country,101
+garage rock,102
+garage punk,103
+lo-fi,104
+indie rock,105
+doo-wop,106
+southern rock,107
+garage rock revival,108
+rock 'n roll,109
+noise,110
+protopunk,111
+noise rock,112
+folk rock,113
+acid jazz,114
+downtempo,115
+chicago house,116
+deep house,117
+dub,118
+trip hop,119
+ambient,120
+skate punk,121
+classic punk,122
+american punk,123
+punk metal,124
+heavy metal,125
+hard rock,126
+indie folk,127
+freak folk,128
+neofolk,129
+acid folk,130
+modern folk,131
+soft rock,132
+ballad,133
+psychedelic folk,134
+new weird america,135
+folk-pop,136
+easy listening,137
+east coast rap,138
+jazz hip hop,139
+trance,140
+progressive trance,141
+club,142
+progressive house,143
+lounge,144
+fusion,145
+vocal trance,146
+new age,147
+vocal house,148
+big beat,149
+latin rock,150
+rock argentina,151
+rock en espanol,152
+post-punk,153
+british rock,154
+male vocalist,155
+stoner rock,156
+british pop,157
+arena rock,158
+boogie rock,159
+delta blues,160
+electric blues,161
+blackened death metal,162
+thrash metal,163
+melodic death metal,164
+sludge,165
+speed metal,166
+satanic black metal,167
+american black metal,168
+blackened thrash metal,169
+depressive black metal,170
+revival rockabilly,171
+contemporary blues,172
+new orleans jazz,173
+dance music,174
+hard bop,175
+disco,176
+dancehall,177
+roots reggae,178
+christian,179
+sludge metal,180
+doom metal,181
+country pop,182
+country music,183
+latin pop,184
+bossa nova,185
+glam rock,186
+art rock,187
+power pop,188
+flamenco,189
+world music,190
+ethnic fusion,191
+adult alternative,192
+latin music,193
+big band,194
+glam metal,195
+grunge,196
+hair metal,197
+glam punk,198
+sleaze rock,199
+power metal,200
+alternative metal,201
+progressive metal,202
+spanish rock,203
+goa trance,204
+psychedelic trance,205
+breakbeat,206
+afrobeat,207
+soulful house,208
+post rock,209
+indietronica,210
+minimal,211
+deep techno,212
+minimal house,213
+minimal techno,214
+tech house,215
+contemporary folk,216
+acoustic rock,217
+bluegrass,218
+country gospel,219
+country rock,220
+gangster rap,221
+west coast rap,222
+bay area rap,223
+west coast hip hop,224
+comedy,225
+remix,226
+swing,227
+traditional pop,228
+vocal jazz,229
+jazz piano,230
+shoegaze,231
+math rock,232
+space rock,233
+industrial metal,234
+coldwave,235
+digital hardcore,236
+synth punk,237
+industrial rock,238
+alternative pop rock,239
+dance pop,240
+latin freestyle,241
+80s pop,242
+pop rap,243
+ebm,244
+industrial dance,245
+electro-industrial,246
+jam band,247
+teen pop,248
+smooth soul,249
+philly soul,250
+banda,251
+experimental rock,252
+oi,253
+soul music,254
+baroque,255
+crunkcore,256
+latin jazz,257
+salsa,258
+afro-cuban jazz,259
+jazz rock,260
+blue-eyed soul,261
+album rock,262
+vocal pop,263
+christian rock,264
+ccm,265
+christian music,266
+spiritual,267
+contemporary christian,268
+christian contemporary,269
+religious music,270
+worship music,271
+acoustic pop,272
+new jack swing,273
+alternative dance,274
+dance-punk,275
+electroclash,276
+alternative pop,277
+psychedelic soul,278
+psychedelia,279
+progressive hardcore,280
+punk hardcore,281
+traditional folk,282
+stoner doom metal,283
+stoner sludge,284
+black doom,285
+sludge doom,286
+stoner metal,287
+british punk rock,288
+crust,289
+street punk,290
+uk hardcore,291
+country blues,292
+acoustic blues,293
+college rock,294
+modern rock,295
+noise pop,296
+70s rock,297
+contemporary classical music,298
+nu metal,299
+us metal,300
+80s metal,301
+jangle pop,302
+gothabilly,303
+gothic,304
+southern gothic,305
+gothic americana,306
+ska,307
+folk punk,308
+ska punk,309
+skacore,310
+punk pop,311
+punk revival,312
+polka,313
+folk metal,314
+pagan metal,315
+pagan folk metal,316
+pagan folk,317
+slavonic pagan metal,318
+epic metal,319
+russian folk,320
+symphonic metal,321
+cumbia,322
+klezmer,323
+world beat,324
+rumba,325
+latin hip hop,326
+latin rap,327
+edm,328
+old school death metal,329
+death core,330
+american thrash metal,331
+true metal,332
+progressive death metal,333
+horror punk,334
+canadian rock,335
+old school hardcore,336
+break,337
+crust punk,338
+dub techno,339
+detroit techno,340
+ambient techno,341
+60s pop,342
+instrumental hip hop,343
+opera,344
+melodic rock,345
+80s rock,346
+afropop,347
+contemporary country,348
+modern country,349
+indie rap,350
+persian pop,351
+iranian pop,352
+melodic metalcore,353
+modern hardcore,354
+progressive metalcore,355
+new orleans blues,356
+modern electric blues,357
+baroque pop,358
+traditional gospel,359
+50s,360
+southern soul,361
+southern gospel,362
+musique concrete,363
+symphony,364
+sadcore,365
+dark folk,366
+folk noir,367
+folktronica,368
+female rap,369
+dark metal,370
+sympho black metal,371
+swedish melodic death metal,372
+death/doom metal,373
+tech metal,374
+melodic black metal,375
+swedish metal,376
+grime,377
+jazz pop,378
+fidget house,379
+glitch hop,380
+glitch,381
+progressive country,382
+classic country,383
+american metal,384
+classic metal,385
+electrocore,386
+christian hardcore,387
+trancecore,388
+christian metal,389
+nintendocore,390
+reggaeton,391
+avant-garde,392
+andean music,393
+southern rap,394
+houston rap,395
+dirty south rap,396
+old school rap,397
+grindcore,398
+experimental metal,399
+drone,400
+chamber pop,401
+rapcore,402
+celtic,403
+celtic folk,404
+anarcho-punk,405
+crustcore,406
+boston hardcore,407
+crossover thrash,408
+boston punk,409
+heartland rock,410
+american rock,411
+uk garage,412
+two-step,413
+bass music,414
+garage house,415
+broken beat,416
+samba,417
+piano rock,418
+melodic punk,419
+freakbeat,420
+chicago punk,421
+cuban jazz,422
+brazilian jazz,423
+experimental rap,424
+alternative rap,425
+cool jazz,426
+bebop,427
+stand-up comedy,428
+drone metal,429
+heavy rock,430
+sea shanties,431
+psychobilly,432
+funk rock,433
+funk metal,434
+ska revival,435
+third wave ska,436
+thrash core,437
+instrumental pop,438
+gothic rock,439
+jump blues,440
+piano blues,441
+electro rock,442
+new rave,443
+dark ambient,444
+80s hair metal,445
+melodic hard rock,446
+pop metal,447
+indie hip hop,448
+chamber music,449
+deep funk,450
+deep funk revival,451
+memphis soul,452
+nu disco,453
+no wave,454
+motown,455
+sunshine pop,456
+northern soul,457
+psychedelic pop,458
+math-core,459
+avantgarde metal,460
+progressive deathcore,461
+math metal,462
+groove metal,463
+midwest emo,464
+emocore,465
+crossover jazz,466
+jazz funk,467
+modern jazz,468
+psychedelic chill,469
+nu jazz,470
+gothic metal,471
+symphonic,472
+symphonic power metal,473
+female fronted metal,474
+finnish heavy metal,475
+melodic power metal,476
+swamp blues,477
+cabaret,478
+chanson,479
+southern hip hop,480
+christian rap,481
+christian hip hop,482
+irish folk,483
+swamp rock,484
+trash metal,485
+experimental pop,486
+drumfunk,487
+british invasion,488
+melodic trance,489
+electro trance,490
+uplifting trance,491
+tech trance,492
+art punk,493
+free jazz,494
+funky house,495
+east coast hip hop,496
+peace punk,497
+uk punk,498
+8-bit,499
+chiptune,500
+christian alternative rock,501
+30s,502
+40s,503
+polish rap,504
+canadian indie,505
+thrash revival,506
+reggae rock,507
+party rap,508
+disco house,509
+indie dance,510
+horror rock,511
+soca,512
+blues guitar,513
+new york punk,514
+punk ska,515
+rock steady,516
+bounce,517
+western swing,518
+indian classical,519
+indian folk,520
+soul jazz,521
+new orleans funk,522
+merengue,523
+bolero,524
+mariachi,525
+kraut rock,526
+hardcore hip hop,527
+operatic pop,528
+bubblegum pop,529
+british blues,530
+british psychedelia,531
+acid rock,532
+dark psytrance,533
+psychedelic ambient,534
+hard trance,535
+chicago blues,536
+french pop,537
+chanson francaise,538
+french rock,539
+reggae punk,540
+hip house,541
+honky tonk,542
+synth rock,543
+cyberpunk,544
+political rap,545
+harmonica blues,546
+scratch,547
+tango,548
+ragtime,549
+mexican pop,550
+downbeat,551
+neoswing,552
+retro swing,553
+post-grunge,554
+celtic rock,555
+irish rock,556
+traditional country,557
+experimental electronic,558
+contemporary celtic,559
+southern metal,560
+mainstream jazz,561
+children music,562
+visual kei,563
+italian disco,564
+tejano,565
+pop latino,566
+cello rock,567
+dark cabaret,568
+twee pop,569
+traditional metal,570
+chicano rap,571
+swedish house,572
+celtic punk,573
+irish punk,574
+neoclassical,575
+neo classical metal,576
+progressive power metal,577
+fantasy metal,578
+surf revival,579
+brazilian pop music,580
+scandinavian folk,581
+swedish folkmusic,582
+nordic folk,583
+mediaeval,584
+old school black metal,585
+raw black metal,586
+japanese metal,587
+texas country,588
+third wave ska revival,589
+russian metal,590
+texas music,591
+madchester,592
+riot grrrl,593
+experimental hip hop,594
+bay area thrash,595
+bay area thrash metal,596
+deathrock,597
+british folk,598
+electric folk,599
+english folk,600
+folk revival,601
+political folk,602
+anti-folk,603
+suicidal black metal,604
+ambient black metal,605
+depressive suicidal black metal,606
+traditional bluegrass,607
+contemporary flamenco,608
+spanish folk,609
+garage pop,610
+boy band,611
+acid house,612
+french house,613
+avant-garde jazz,614
+breakcore,615
+electro-funk,616
+traditional heavy metal,617
+classical pop,618
+europop,619
+swedish punk,620
+female fronted hardcore,621
+drone rock,622
+new york rap,623
+acid techno,624
+microhouse,625
+nwobhm,626
+viking metal,627
+experimental techno,628
+chamber jazz,629
+swedish death metal,630
+country folk,631
+post-bop,632
+jrock,633
+j pop,634
+japanese music,635
+60s rock,636
+space music,637
+modern classical,638
+progressive jazz,639
+rap metal,640
+rap rock,641
+midwest rap,642
+string band,643
+traditional ska,644
+ska rocksteady,645
+deathgrind,646
+goregrind,647
+gore metal,648
+19th century,649
+slow core,650
+postcore,651
+gospel choir,652
+jazzcore,653
+epic trance,654
+trance music,655
+60s garage,656
+emo pop,657
+emo punk,658
+mambo,659
+thrash-death metal,660
+prog folk,661
+epic power metal,662
+german metal,663
+guitar rock,664
+heavy blues,665
+noise grind,666
+emo violence,667
+son cubano,668
+cuban folk,669
+spanish pop,670
+90s rock,671
+desert blues,672
+african blues,673
+desert rock,674
+gypsy jazz,675
+ambient pop,676
+dance rock,677
+national socialist black metal,678
+mod revival,679
+japanese indie,680
+fusion jazz,681
+hardtechno,682
+fado,683
+ranchera,684
+zydeco,685
+louisiana blues,686
+symphonic rock,687
+soul blues,688
+neotrance,689
+minimal wave,690
+british trad rock,691
+nu-soul,692
+newgrass,693
+british ska,694
+new zealand music,695
+progressive bluegrass,696
+instrumental metal,697
+hardcore metal,698
+geek rock,699
+industrial noise,700
+hardstyle,701
+technopop,702
+eurodance,703
+new york hardcore,704
+post-industrial,705
+swing revival,706
+french rap,707
+rap francais,708
+french hip hop,709
+french music,710
+german rock,711
+old school hip hop,712
+british metal,713
+indian pop,714
+boogie-woogie,715
+independent hip hop,716
+latin folk,717
+contemporary bluegrass,718
+brazilian rock,719
+brazilian music,720

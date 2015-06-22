@@ -1,0 +1,4 @@
+{"frequency": 0.5772805185512161, "name": "rap", "weight": 0.5972222222222222}
+{"frequency": 0.16708225310464903, "name": "alternative hip hop", "weight": 0.4722222222222222}
+{"frequency": 0.28630828461017177, "name": "hip hop", "weight": 0.2777777777777778}
+{"frequency": 0.11991443212167127, "name": "comedy", "weight": 0.16666666666666666}

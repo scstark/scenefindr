@@ -1,0 +1,1 @@
+{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 1.0, "name": "rap", "weight": 0.5456989247311828}, {"frequency": 0.6933474258045688, "name": "hip hop", "weight": 0.3548387096774194}, {"frequency": 0.09033649009016016, "name": "west coast rap", "weight": 0.1586021505376344}]}}

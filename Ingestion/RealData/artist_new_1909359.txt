@@ -1,0 +1,17 @@
+{"frequency": 0.7875361654389926, "name": "shoegaze", "weight": 0.9228494623655914}
+{"frequency": 0.5320915471602575, "name": "dream pop", "weight": 0.8056451612903226}
+{"frequency": 0.7373166805542885, "name": "pop", "weight": 0.2647849462365591}
+{"frequency": 0.1386708552454102, "name": "dark wave", "weight": 0.26344086021505375}
+{"frequency": 0.0780267076870598, "name": "00s", "weight": 0.24516129032258063}
+{"frequency": 0.887023474347852, "name": "rock", "weight": 0.24489247311827958}
+{"frequency": 0.15529609446565323, "name": "gothic rock", "weight": 0.24301075268817204}
+{"frequency": 0.18489892560288418, "name": "new wave", "weight": 0.2110215053763441}
+{"frequency": 0.2555008666153476, "name": "psychedelic", "weight": 0.2064516129032258}
+{"frequency": 0.20531829283844827, "name": "minimal", "weight": 0.1922043010752688}
+{"frequency": 0.15400823800801458, "name": "post-punk", "weight": 0.15698924731182795}
+{"frequency": 0.15462531413394698, "name": "gothic", "weight": 0.15645161290322582}
+{"frequency": 0.26885854296606465, "name": "indie", "weight": 0.15510752688172044}
+{"frequency": 0.15950005570373899, "name": "indie rock", "weight": 0.15268817204301074}
+{"frequency": 0.28783445818732434, "name": "electronic", "weight": 0.14704301075268816}
+{"frequency": 0.2656134794311837, "name": "alternative", "weight": 0.14112903225806453}
+{"frequency": 0.16390915941790973, "name": "experimental", "weight": 0.1043010752688172}

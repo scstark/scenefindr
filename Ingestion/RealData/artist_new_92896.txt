@@ -1,0 +1,4 @@
+{"frequency": 1.0, "name": "classical", "weight": 1.0}
+{"frequency": 0.2331997141474805, "name": "instrumental", "weight": 0.2409387585057631}
+{"frequency": 0.07922040481369375, "name": "chamber music", "weight": 0.15539508401610888}
+{"frequency": 0.11190942075718478, "name": "soundtrack", "weight": 0.13317594778502986}

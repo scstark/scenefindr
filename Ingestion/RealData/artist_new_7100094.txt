@@ -1,0 +1,5 @@
+{"frequency": 0.23475936013926293, "name": "synthpop", "weight": 0.417910447761194}
+{"frequency": 0.15046834863118355, "name": "dream pop", "weight": 0.373134328358209}
+{"frequency": 0.2854821430772379, "name": "electronic", "weight": 0.23880597014925373}
+{"frequency": 0.14977478681566905, "name": "club", "weight": 0.14925373134328357}
+{"frequency": 0.22853534464963796, "name": "pop", "weight": 0.13432835820895522}

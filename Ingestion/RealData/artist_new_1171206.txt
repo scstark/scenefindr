@@ -1,0 +1,5 @@
+{"frequency": 1.0, "name": "reggae", "weight": 1.0}
+{"frequency": 0.2596599661164348, "name": "dancehall", "weight": 0.37353813929132484}
+{"frequency": 0.08379599942094786, "name": "roots reggae", "weight": 0.1652993541630302}
+{"frequency": 0.1578893788916627, "name": "roots", "weight": 0.15168441263745855}
+{"frequency": 0.1192198965150543, "name": "dub", "weight": 0.13719671844999126}

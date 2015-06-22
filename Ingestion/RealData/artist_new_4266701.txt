@@ -1,0 +1,9 @@
+{"frequency": 0.4989806025873992, "name": "70s", "weight": 1.0}
+{"frequency": 0.4770200090253935, "name": "deep house", "weight": 0.4230769230769231}
+{"frequency": 0.4870846824603356, "name": "tech house", "weight": 0.38461538461538464}
+{"frequency": 1.0, "name": "dance", "weight": 0.34615384615384615}
+{"frequency": 0.9877841632821441, "name": "house", "weight": 0.3076923076923077}
+{"frequency": 0.48721218730847016, "name": "industrial", "weight": 0.2692307692307692}
+{"frequency": 0.47861805268541374, "name": "soul", "weight": 0.19230769230769232}
+{"frequency": 0.4706988984556007, "name": "electronic", "weight": 0.15384615384615385}
+{"frequency": 0.3907474580484677, "name": "60s", "weight": 0.11538461538461539}

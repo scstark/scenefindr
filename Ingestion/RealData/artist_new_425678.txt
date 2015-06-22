@@ -1,0 +1,9 @@
+{"frequency": 1.0, "name": "hip hop", "weight": 1.0}
+{"frequency": 0.5355961442035877, "name": "house", "weight": 0.43214285714285716}
+{"frequency": 0.38853213639147216, "name": "rap", "weight": 0.4142857142857143}
+{"frequency": 0.16181869144848657, "name": "rock 'n roll", "weight": 0.25}
+{"frequency": 0.17420908746539338, "name": "disco", "weight": 0.2357142857142857}
+{"frequency": 0.17799872426240015, "name": "r&b", "weight": 0.225}
+{"frequency": 0.1866748386009134, "name": "electronica", "weight": 0.21428571428571427}
+{"frequency": 0.19171823980709385, "name": "instrumental", "weight": 0.21071428571428572}
+{"frequency": 0.07295800969423935, "name": "19th century", "weight": 0.14642857142857144}

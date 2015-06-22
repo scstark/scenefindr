@@ -1,0 +1,9 @@
+{"frequency": 1.0, "name": "pop", "weight": 0.33793218085106386}
+{"frequency": 0.192560900122798, "name": "afropop", "weight": 0.3179853723404255}
+{"frequency": 0.29073164065824414, "name": "world music", "weight": 0.31316489361702127}
+{"frequency": 0.08399314327677328, "name": "90s", "weight": 0.2483377659574468}
+{"frequency": 0.7319603449148886, "name": "rock", "weight": 0.1901595744680851}
+{"frequency": 0.25750610796604456, "name": "soul", "weight": 0.15309175531914893}
+{"frequency": 0.28446687766044193, "name": "jazz", "weight": 0.13314494680851063}
+{"frequency": 0.18480993358922354, "name": "latin", "weight": 0.1311502659574468}
+{"frequency": 0.06657456911399627, "name": "world beat", "weight": 0.11386303191489362}

@@ -1,0 +1,6 @@
+{"frequency": 0.8521489857320399, "name": "latin", "weight": 0.7773677736777368}
+{"frequency": 0.24376037066487322, "name": "cumbia", "weight": 0.44526445264452646}
+{"frequency": 0.3307358347501476, "name": "folk", "weight": 0.21648216482164823}
+{"frequency": 0.0910863765153893, "name": "pop latino", "weight": 0.20418204182041821}
+{"frequency": 0.15819823398563604, "name": "experimental", "weight": 0.12177121771217712}
+{"frequency": 0.04013730829248472, "name": "latin folk", "weight": 0.11070110701107011}

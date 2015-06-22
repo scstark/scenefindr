@@ -1,0 +1,28 @@
+{"frequency": 1.0, "name": "house", "weight": 1.0}
+{"frequency": 0.33712022827529836, "name": "progressive house", "weight": 0.999546485260771}
+{"frequency": 0.5344035916372614, "name": "trance", "weight": 0.9204287775716347}
+{"frequency": 0.30637616711662596, "name": "electro house", "weight": 0.7898989898989899}
+{"frequency": 0.7045916570567388, "name": "dance", "weight": 0.7837559266130695}
+{"frequency": 0.4839502314321285, "name": "electro", "weight": 0.7149866007008864}
+{"frequency": 0.3072793180630139, "name": "dubstep", "weight": 0.6984539270253556}
+{"frequency": 0.6681004771700085, "name": "electronic", "weight": 0.6979179550608122}
+{"frequency": 0.4324514109889881, "name": "electronica", "weight": 0.6152545866831581}
+{"frequency": 0.18359453319752503, "name": "edm", "weight": 0.5202226345083488}
+{"frequency": 0.3775012598176851, "name": "club", "weight": 0.4701298701298701}
+{"frequency": 0.14419017785779573, "name": "drum and bass", "weight": 0.3730777159348588}
+{"frequency": 0.19080378194026362, "name": "minimal", "weight": 0.36524427952999383}
+{"frequency": 0.18580552458811606, "name": "techno", "weight": 0.29008451865594725}
+{"frequency": 0.10212449339370831, "name": "deep house", "weight": 0.2886415172129458}
+{"frequency": 0.1702580895590605, "name": "ambient", "weight": 0.25982271696557413}
+{"frequency": 0.08446720422039826, "name": "minimal techno", "weight": 0.2495155638012781}
+{"frequency": 0.0931363451834585, "name": "tech house", "weight": 0.23508554937126366}
+{"frequency": 0.09759830556794362, "name": "downtempo", "weight": 0.2080808080808081}
+{"frequency": 0.04105896533685363, "name": "intelligent dance music", "weight": 0.19245516388373532}
+{"frequency": 0.05150532365946455, "name": "progressive trance", "weight": 0.16512059369202226}
+{"frequency": 0.03912474790925792, "name": "melodic trance", "weight": 0.1642547928262214}
+{"frequency": 0.2102569324311383, "name": "pop", "weight": 0.1544011544011544}
+{"frequency": 0.0341969576463434, "name": "neotrance", "weight": 0.13494124922696352}
+{"frequency": 0.056274154849096626, "name": "breakbeat", "weight": 0.13226138940424656}
+{"frequency": 0.06576943526236784, "name": "remix", "weight": 0.11811997526283241}
+{"frequency": 0.10837514302632228, "name": "alternative", "weight": 0.11774891774891776}
+{"frequency": 0.016806009858161174, "name": "00s", "weight": 0.10797773654916512}

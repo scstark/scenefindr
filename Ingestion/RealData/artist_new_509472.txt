@@ -1,0 +1,12 @@
+{"frequency": 1.0, "name": "dubstep", "weight": 1.0}
+{"frequency": 0.6126437635553289, "name": "drum and bass", "weight": 0.697289156626506}
+{"frequency": 0.26753880120581225, "name": "fidget house", "weight": 0.5188253012048193}
+{"frequency": 0.8312428377721728, "name": "experimental", "weight": 0.4759036144578313}
+{"frequency": 0.9403909753939061, "name": "electronic", "weight": 0.4322289156626506}
+{"frequency": 0.36521533960120833, "name": "electro house", "weight": 0.4141566265060241}
+{"frequency": 0.24239037469409416, "name": "glitch hop", "weight": 0.3727409638554217}
+{"frequency": 0.29152435984824776, "name": "glitch", "weight": 0.32756024096385544}
+{"frequency": 0.6004246347185712, "name": "alternative", "weight": 0.2868975903614458}
+{"frequency": 0.3221504432080026, "name": "electro", "weight": 0.20933734939759036}
+{"frequency": 0.11522585166941604, "name": "edm", "weight": 0.1438253012048193}
+{"frequency": 0.11713804489383205, "name": "grime", "weight": 0.14156626506024098}

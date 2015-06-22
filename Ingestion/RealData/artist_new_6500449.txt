@@ -1,0 +1,7 @@
+{"frequency": 0.618611068592397, "name": "dance", "weight": 0.4760885082084226}
+{"frequency": 0.5137650257809371, "name": "house", "weight": 0.3554603854389722}
+{"frequency": 0.33520366734228835, "name": "blues", "weight": 0.31263383297644537}
+{"frequency": 0.2794913059250392, "name": "soul", "weight": 0.24982155603140613}
+{"frequency": 0.6322807820424678, "name": "rock", "weight": 0.24696645253390434}
+{"frequency": 0.15050026089879864, "name": "remix", "weight": 0.1870092790863669}
+{"frequency": 0.3174997706463993, "name": "pop", "weight": 0.16131334760885083}

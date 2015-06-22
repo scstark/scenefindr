@@ -1,0 +1,7 @@
+{"frequency": 0.17573639787036274, "name": "70s rock", "weight": 0.9333333333333333}
+{"frequency": 0.10878916931060197, "name": "80s", "weight": 0.5777777777777777}
+{"frequency": 0.39408387620848495, "name": "soundtrack", "weight": 0.5111111111111111}
+{"frequency": 1.0, "name": "rock", "weight": 0.4666666666666667}
+{"frequency": 0.104869007101015, "name": "funk", "weight": 0.13333333333333333}
+{"frequency": 0.10295740024607761, "name": "r&b", "weight": 0.13333333333333333}
+{"frequency": 0.10404401966534993, "name": "soul", "weight": 0.1111111111111111}

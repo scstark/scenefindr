@@ -1,0 +1,7 @@
+{"frequency": 0.6146164767029225, "name": "electropop", "weight": 0.9602649006622517}
+{"frequency": 0.8739694048161093, "name": "indie", "weight": 0.6887417218543046}
+{"frequency": 0.39718261456445225, "name": "electronica", "weight": 0.37748344370860926}
+{"frequency": 0.4555243119267952, "name": "electronic", "weight": 0.31788079470198677}
+{"frequency": 0.12774963576669715, "name": "folktronica", "weight": 0.2847682119205298}
+{"frequency": 0.04011774981359278, "name": "90s", "weight": 0.17218543046357615}
+{"frequency": 0.21898628381952223, "name": "alternative", "weight": 0.15894039735099338}

@@ -1,0 +1,18 @@
+{"frequency": 0.6193322906931857, "name": "funk", "weight": 0.7295120795831359}
+{"frequency": 0.7397382593871067, "name": "jazz", "weight": 0.5761882204326544}
+{"frequency": 1.0, "name": "rock", "weight": 0.43233854413390177}
+{"frequency": 0.1598960362121375, "name": "jam band", "weight": 0.3583609663666509}
+{"frequency": 0.2638523360348013, "name": "hip hop", "weight": 0.25043423338070425}
+{"frequency": 0.08971472666881618, "name": "acid jazz", "weight": 0.2253276488236223}
+{"frequency": 0.19127183297807882, "name": "blues", "weight": 0.19745776093478604}
+{"frequency": 0.1390936129763888, "name": "fusion", "weight": 0.1917732512237486}
+{"frequency": 0.05444790695954267, "name": "new orleans funk", "weight": 0.18158850465813992}
+{"frequency": 0.17819341842819833, "name": "soul", "weight": 0.17629875256592453}
+{"frequency": 0.034242280693299126, "name": "90s", "weight": 0.16848255171324805}
+{"frequency": 0.16082596117930323, "name": "instrumental", "weight": 0.16777198799936838}
+{"frequency": 0.0680970119418119, "name": "jazz funk", "weight": 0.14550765829780515}
+{"frequency": 0.11340564488022516, "name": "electronica", "weight": 0.12355913469129955}
+{"frequency": 0.11959056259090765, "name": "rap", "weight": 0.12103268593083846}
+{"frequency": 0.050156353123367046, "name": "jazz fusion", "weight": 0.11061108479393653}
+{"frequency": 0.1350085832917393, "name": "electronic", "weight": 0.10800568450971104}
+{"frequency": 0.12335949584313369, "name": "dance", "weight": 0.10508447813042791}

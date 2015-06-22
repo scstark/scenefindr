@@ -1,0 +1,10 @@
+{"frequency": 0.754505444532159, "name": "latin", "weight": 1.0}
+{"frequency": 0.33960362949324074, "name": "mariachi", "weight": 0.9552790854068595}
+{"frequency": 0.2817769162935616, "name": "ranchera", "weight": 0.8927370544720915}
+{"frequency": 1.0, "name": "pop", "weight": 0.6311365164761265}
+{"frequency": 0.1076627457752642, "name": "tejano", "weight": 0.32447881640887694}
+{"frequency": 0.14215310209154877, "name": "singer-songwriter", "weight": 0.19737726967047747}
+{"frequency": 0.06607156075769276, "name": "latin pop", "weight": 0.17283120376597175}
+{"frequency": 0.020947142660326174, "name": "00s", "weight": 0.11566913248150638}
+{"frequency": 0.020947142660326174, "name": "90s", "weight": 0.11566913248150638}
+{"frequency": 0.020947142660326174, "name": "brutal death metal", "weight": 0.11566913248150638}
