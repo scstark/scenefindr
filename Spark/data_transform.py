@@ -15,7 +15,7 @@ import glob
 import pickle
 from scipy import sparse
 
-sc = SparkContext("spark://ip-172-31-0-173:7077", "i hate this")#PRIVATE DNS HERE!!!!
+sc = SparkContext("spark://:7077", "i hate this")#PRIVATE DNS HERE!!!!
 sqlContext = SQLContext(sc)
 
 
@@ -45,10 +45,10 @@ connection.setup(['127.0.0.1'], 'scenefindr')
 
 
 
-#objection = sc.textFile( "hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history/artist_new")
+#objection = sc.textFile( "hdfs://:9000/user/sceneFindr/history/artist_new")
 #print 'FILTER HERE %s' % filter
 #first load genre mapping utility file into dictionary
-filename = "hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history/genres.txt" #public dns goes here
+filename = "hdfs://:9000/user/sceneFindr/history/genres.txt" #public dns goes here
 thing = sc.textFile( filename )
 thing2 = thing.map(lambda x : x.split(",") )
 blah = thing2.map( lambda x : (x[0],x[1]) )
@@ -60,7 +60,7 @@ for la in blah.collect():
 	#print la[0]
 	dict[la[0]] = int( la[1] )
 #for each file in the filter
-objection = sqlContext.jsonFile( "hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history/artist_new")#public DNS goes here
+objection = sqlContext.jsonFile( "hdfs://:9000/user/sceneFindr/history/artist_new")#public DNS goes here
 #map to (id, name_feature) tuple
 ob1 = objection.map( lambda line : fun( line ) ) 
 ob2 = ob1.reduceByKey( lambda a,b : a + b ) 
@@ -117,7 +117,7 @@ for item in ob3:
 #for each path in the filter
 #for path in filter2:
 #diction = {}
-events = sqlContext.jsonFile("hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history/events") 
+events = sqlContext.jsonFile("hdfs://:9000/user/sceneFindr/history/events") 
 
 blah = events.select( "resultsPage.results")
 
