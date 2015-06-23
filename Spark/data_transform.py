@@ -6,6 +6,7 @@ from pyspark import SparkConf
 from cqlengine import columns
 from cqlengine.models import Model
 from cqlengine import connection
+from cqlengine import query
 from cqlengine.management import sync_table
 from datetime import datetime
 from cqlengine import *
@@ -18,6 +19,8 @@ from scipy import sparse
 sc = SparkContext("spark://:7077", "i hate this")#PRIVATE DNS HERE!!!!
 sqlContext = SQLContext(sc)
 
+billing = { "headline":2, "support":1 }
+
 
 class artists( Model ):
         id = columns.Text(primary_key = True)
@@ -25,6 +28,19 @@ class artists( Model ):
 
         def __repr__(self):
                 return '%s%s' % (self.id, self.feature)
+
+class venues( Model ):
+	metro = columns.Text(primary_key = True)
+	ven_id = columns.Text(primary_key = True)
+	ven_name = columns.Text()
+	url = columns.Text()
+	lat = columns.Float()
+	long = columns.Float()
+	metName = columns.Text()
+	feature = columns.Blob()
+	#(areaKey, ven_id, ven_name, lat, long, url, metroName, feature)
+	def __repr__(self):
+		return '%s%s%s%s%d%d%s' %( self.metro, self.ven_id, self.ven_name, self.lat, self.long, self.url, self.metName, self.feature )
 
 
 def fun( ln ):
@@ -34,6 +50,43 @@ def fun( ln ):
         gen_feature[0,dict[ln[2]]] = 1*ln[3]*ln[0]
         return (id, gen_feature)
 
+
+def fun2( id, input ):
+	#input is a list of all performers at a venue
+	print 'in fun2'
+	#id is the venue id
+	#will return aggregated feature vector for venue
+	rdd = sc.parallelize(input)
+	
+	#for item in input:
+	#cassie_query = "SELECT feature FROM artists WHERE id=%s" % input[1]
+
+	#	result = session.execute( cassie_query )
+
+	#	pickle.loads(result) #unpickle the feature vector for arithmetic
+		#get the headline scalar and read artist's feature vector from cassandra
+	rdd2 = rdd.map( lambda x : ( id, fun4(x[0][0][1]) * billing[x[0][1]] ) ).reudceByKey( lambda a,b: a + b )
+	#return 'hi'
+	#return the venue's features.
+	return rdd2.collect()[1]
+
+def fun3( input ):
+	ven_name = input[0][0][0]
+	ven_id = input[0][0][1]
+	lat = input[0][0][2]
+        long = input[0][0][3]
+        url = input[0][0][5]
+        areaKey = input[0][0][4][2]
+        metroName = input[0][0][4][1]
+        #feature = fun2( ven_id, input[1] )
+
+	return [areaKey, ven_id, ven_name, lat, long, url, metroName, feature]
+
+def fun4( art_id ):
+	#helper function to query cassandra for artist features
+	q = "SELECT feature FROM artists WHERE id=%s" % art_id
+	result = session.execute( q ) 
+	return pickle.loads( result[0][0] )
 #connect the demo keyspace on our cluster running at
 connection.setup(['127.0.0.1'], 'scenefindr')
 
@@ -118,9 +171,30 @@ for item in ob3:
 #for path in filter2:
 #diction = {}
 events = sqlContext.jsonFile("hdfs://:9000/user/sceneFindr/history/events") 
-
-blah = events.select( "resultsPage.results")
-
+sync_table(venues)
+ev2 = events.select( "resultsPage.results")
+#print 'LENGTH OF ev2 IS: %s' % str( len( ev2 ) )
+for item in ev2.collect():
+	ev3 = item[0]
+	ev4 = ev3[0]
+	ev5 = sc.parallelize( ev4 )
+	ev6 = ev5.map( lambda x : ( ( x[12], x[4] ), x[5] ) ).reduceByKey( lambda a,b : a + b )
+	#aggregate the performance lists by venue information
+	ev7 = ev6.map( lambda x : fun3( x ) + fun2(x) )
+	print ev7.first()
+	#( 0 : areaKey, 1 : ven_id, 2 : ven_name, 3 : lat, 4 : long, 5 : url, 6 : metroName, 7 : feature)
+	for item in ev7.collect():
+		venues.create( areaKey = item[0], ven_id = item[1], ven_name = item[2], lat = item[3], long = item[4], url = item[5], metroName = item[6], feature = item[7] )
+	#for thing in ev6.collect():
+	#	ven_name = thing[0][0][0]
+	#	ven_id = thing[0][0][1]
+	#	lat = thing[0][0][2]
+	#	long = thing[0][0][3]
+	#	url = thing[0][0][5]
+	#	areaKey = thing[0][0][4][2]
+	#	metroName = thing[0][0][4][1]
+	#	feature = fun2( thing[1] )
+		
 #blah2 = blah.collect[0]
 #blah3 = blah2[0]
 #la = blah3[0]
