@@ -1,9 +1,0 @@
-{"frequency": 0.39320453073024886, "name": "garage rock", "weight": 0.9807162534435262, "id": "269926"}
-{"frequency": 0.6156418425767037, "name": "blues", "weight": 0.7355371900826446, "id": "269926"}
-{"frequency": 1.0, "name": "rock", "weight": 0.4986225895316804, "id": "269926"}
-{"frequency": 0.1777210202146493, "name": "funk", "weight": 0.24242424242424243, "id": "269926"}
-{"frequency": 0.05542287534730632, "name": "country gospel", "weight": 0.18181818181818182, "id": "269926"}
-{"frequency": 0.06700607492453954, "name": "country rock", "weight": 0.15702479338842976, "id": "269926"}
-{"frequency": 0.08396430928772029, "name": "spiritual", "weight": 0.12672176308539945, "id": "269926"}
-{"frequency": 0.0893726009950963, "name": "christian", "weight": 0.1184573002754821, "id": "269926"}
-{"frequency": 0.09974617748146473, "name": "country", "weight": 0.10192837465564739, "id": "269926"}

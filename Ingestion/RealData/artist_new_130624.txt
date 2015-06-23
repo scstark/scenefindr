@@ -1,8 +1,0 @@
-{"frequency": 0.5382588228200411, "name": "chamber music", "weight": 0.8213660245183888, "id": "130624"}
-{"frequency": 0.8388034528770284, "name": "ambient", "weight": 0.7565674255691769, "id": "130624"}
-{"frequency": 0.4930529681650812, "name": "experimental", "weight": 0.37828371278458844, "id": "130624"}
-{"frequency": 0.25624658380283216, "name": "post rock", "weight": 0.3274956217162872, "id": "130624"}
-{"frequency": 0.3929752221201938, "name": "instrumental", "weight": 0.31523642732049034, "id": "130624"}
-{"frequency": 0.2729742435375318, "name": "minimal", "weight": 0.30823117338003503, "id": "130624"}
-{"frequency": 0.06747381820312638, "name": "00s", "weight": 0.25569176882662, "id": "130624"}
-{"frequency": 0.17464633797100582, "name": "folk", "weight": 0.1138353765323993, "id": "130624"}

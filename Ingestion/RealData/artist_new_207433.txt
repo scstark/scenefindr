@@ -1,9 +1,0 @@
-{"frequency": 0.1347031060507102, "name": "80s", "weight": 1.0, "id": "207433"}
-{"frequency": 0.22054557201966757, "name": "psychobilly", "weight": 0.7232704402515723, "id": "207433"}
-{"frequency": 1.0, "name": "rock", "weight": 0.6477987421383647, "id": "207433"}
-{"frequency": 0.29357337436671094, "name": "psychedelic", "weight": 0.559748427672956, "id": "207433"}
-{"frequency": 0.12736650701108865, "name": "folk rock", "weight": 0.31446540880503143, "id": "207433"}
-{"frequency": 0.16343469202441266, "name": "experimental", "weight": 0.24528301886792453, "id": "207433"}
-{"frequency": 0.16604977749564942, "name": "punk", "weight": 0.23270440251572327, "id": "207433"}
-{"frequency": 0.17752783030582378, "name": "folk", "weight": 0.22641509433962265, "id": "207433"}
-{"frequency": 0.17744592353058497, "name": "jazz", "weight": 0.20754716981132076, "id": "207433"}

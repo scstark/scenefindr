@@ -1,5 +1,0 @@
-{"frequency": 0.5747523107990715, "name": "math metal", "weight": 1.0, "id": "6308759"}
-{"frequency": 0.6863818233950248, "name": "progressive metal", "weight": 0.88, "id": "6308759"}
-{"frequency": 0.7796158150783027, "name": "post-hardcore", "weight": 0.79, "id": "6308759"}
-{"frequency": 0.8006847338215651, "name": "metalcore", "weight": 0.77, "id": "6308759"}
-{"frequency": 1.0, "name": "instrumental", "weight": 0.6, "id": "6308759"}

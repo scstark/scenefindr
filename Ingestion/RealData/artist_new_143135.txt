@@ -1,5 +1,0 @@
-{"frequency": 1.0, "name": "jazz", "weight": 1.0, "id": "143135"}
-{"frequency": 0.18213392227555938, "name": "cabaret", "weight": 0.4365832614322692, "id": "143135"}
-{"frequency": 0.5234161862496315, "name": "pop", "weight": 0.37791199309749784, "id": "143135"}
-{"frequency": 0.10168716827498352, "name": "opera", "weight": 0.17946505608283003, "id": "143135"}
-{"frequency": 0.09162006119630045, "name": "classical", "weight": 0.11906816220880069, "id": "143135"}

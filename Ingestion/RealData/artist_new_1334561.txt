@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "singer-songwriter", "weight": 1.0, "id": "1334561"}
-{"frequency": 0.18947039757008732, "name": "contemporary christian", "weight": 0.37142857142857144, "id": "1334561"}
-{"frequency": 0.1794658204950905, "name": "christian rock", "weight": 0.34285714285714286, "id": "1334561"}
-{"frequency": 0.18513305578197026, "name": "christian", "weight": 0.17142857142857143, "id": "1334561"}

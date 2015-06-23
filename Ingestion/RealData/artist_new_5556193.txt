@@ -1,6 +1,0 @@
-{"frequency": 0.7740121989453295, "name": "indie pop", "weight": 1.0, "id": "5556193"}
-{"frequency": 0.9005037444987694, "name": "indie", "weight": 0.6311188811188811, "id": "5556193"}
-{"frequency": 0.28928259960455593, "name": "lo-fi", "weight": 0.36713286713286714, "id": "5556193"}
-{"frequency": 0.2705584119334175, "name": "indie rock", "weight": 0.3146853146853147, "id": "5556193"}
-{"frequency": 0.19776024173471246, "name": "alternative", "weight": 0.12762237762237763, "id": "5556193"}
-{"frequency": 0.05221138978103434, "name": "surf music", "weight": 0.11713286713286714, "id": "5556193"}

@@ -1,7 +1,0 @@
-{"frequency": 1.0, "name": "metal", "weight": 1.0, "id": "5946759"}
-{"frequency": 0.33486280723071193, "name": "heavy metal", "weight": 0.654320987654321, "id": "5946759"}
-{"frequency": 0.13004078896230253, "name": "progressive metal", "weight": 0.3308641975308642, "id": "5946759"}
-{"frequency": 0.07228899045042608, "name": "stoner metal", "weight": 0.2518518518518518, "id": "5946759"}
-{"frequency": 0.09075508025272006, "name": "sludge", "weight": 0.2123456790123457, "id": "5946759"}
-{"frequency": 0.14360629974285702, "name": "psychedelic", "weight": 0.2074074074074074, "id": "5946759"}
-{"frequency": 0.0361846092861886, "name": "sludge metal", "weight": 0.1259259259259259, "id": "5946759"}

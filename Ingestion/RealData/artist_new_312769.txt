@@ -1,6 +1,0 @@
-{"frequency": 1.0, "name": "rockabilly", "weight": 1.0, "id": "312769"}
-{"frequency": 0.5402636295187857, "name": "roots", "weight": 0.3883495145631068, "id": "312769"}
-{"frequency": 0.9269669405778729, "name": "pop", "weight": 0.2977346278317152, "id": "312769"}
-{"frequency": 0.48023905062165856, "name": "country", "weight": 0.24271844660194175, "id": "312769"}
-{"frequency": 0.07481231517489974, "name": "revival rockabilly", "weight": 0.20388349514563106, "id": "312769"}
-{"frequency": 0.14737457894187664, "name": "americana", "weight": 0.1262135922330097, "id": "312769"}

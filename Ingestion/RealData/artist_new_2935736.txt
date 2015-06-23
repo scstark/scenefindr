@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "metal", "weight": 1.0, "id": "2935736"}
-{"frequency": 0.2832088094383952, "name": "death metal", "weight": 0.5793226381461676, "id": "2935736"}
-{"frequency": 0.12221110746571752, "name": "death/doom metal", "weight": 0.47237076648841353, "id": "2935736"}
-{"frequency": 0.07900456765032468, "name": "doom metal", "weight": 0.21568627450980393, "id": "2935736"}

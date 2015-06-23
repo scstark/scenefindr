@@ -1,9 +1,0 @@
-{"frequency": 0.9477126049506055, "name": "latin", "weight": 0.5827430779137154, "id": "147105"}
-{"frequency": 0.37167773429264345, "name": "mambo", "weight": 0.47971667739858337, "id": "147105"}
-{"frequency": 0.29708832910186017, "name": "salsa", "weight": 0.3065035415325177, "id": "147105"}
-{"frequency": 0.32234534157710437, "name": "world music", "weight": 0.3019961365099807, "id": "147105"}
-{"frequency": 0.21529709822785753, "name": "latin jazz", "weight": 0.26722472633612365, "id": "147105"}
-{"frequency": 0.13762437424184265, "name": "afro-cuban jazz", "weight": 0.2376046361880232, "id": "147105"}
-{"frequency": 0.4632506924603749, "name": "jazz", "weight": 0.1880231809401159, "id": "147105"}
-{"frequency": 0.05474735272907459, "name": "son cubano", "weight": 0.10624597553122987, "id": "147105"}
-{"frequency": 0.055522504784348496, "name": "cuban folk", "weight": 0.1056020605280103, "id": "147105"}

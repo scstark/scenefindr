@@ -1,2 +1,0 @@
-{"frequency": 0.9353366653681457, "name": "soul", "weight": 0.5, "id": "8301113"}
-{"frequency": 0.9875146459625274, "name": "pop", "weight": 0.3, "id": "8301113"}

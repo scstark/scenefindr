@@ -1,2 +1,0 @@
-{"frequency": 0.9079518366303191, "name": "synthpop", "weight": 0.8095238095238095, "id": "6466239"}
-{"frequency": 0.42856240896475606, "name": "new wave", "weight": 0.4, "id": "6466239"}

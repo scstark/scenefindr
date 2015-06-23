@@ -1,7 +1,0 @@
-{"frequency": 1.0, "name": "instrumental", "weight": 1.0, "id": "1115100"}
-{"frequency": 0.2413938304570296, "name": "soul jazz", "weight": 0.54, "id": "1115100"}
-{"frequency": 0.36388996607640584, "name": "blues", "weight": 0.36, "id": "1115100"}
-{"frequency": 0.3180968355119037, "name": "latin", "weight": 0.36, "id": "1115100"}
-{"frequency": 0.40186825508974655, "name": "jazz", "weight": 0.3, "id": "1115100"}
-{"frequency": 0.10169305468315205, "name": "ballad", "weight": 0.16, "id": "1115100"}
-{"frequency": 0.09948604661006959, "name": "roots", "weight": 0.12, "id": "1115100"}

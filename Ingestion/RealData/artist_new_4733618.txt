@@ -1,7 +1,0 @@
-{"frequency": 0.6302983102380205, "name": "break", "weight": 0.4523809523809524, "id": "4733618"}
-{"frequency": 0.20888462606652694, "name": "adult contemporary", "weight": 0.2857142857142857, "id": "4733618"}
-{"frequency": 0.42159184631439506, "name": "folk", "weight": 0.21428571428571427, "id": "4733618"}
-{"frequency": 0.6352378772715809, "name": "pop", "weight": 0.21428571428571427, "id": "4733618"}
-{"frequency": 0.21178376088824208, "name": "americana", "weight": 0.19047619047619047, "id": "4733618"}
-{"frequency": 0.1924986818920344, "name": "singer-songwriter", "weight": 0.14285714285714285, "id": "4733618"}
-{"frequency": 0.20809640993552328, "name": "club", "weight": 0.11904761904761904, "id": "4733618"}

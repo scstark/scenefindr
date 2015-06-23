@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "hardcore", "weight": 1.0, "id": "3063146"}
-{"frequency": 0.2475429494821604, "name": "hardcore punk", "weight": 0.39893617021276595, "id": "3063146"}
-{"frequency": 0.34536905303584603, "name": "punk", "weight": 0.2765957446808511, "id": "3063146"}
-{"frequency": 0.033342778542170194, "name": "female fronted hardcore", "weight": 0.11170212765957446, "id": "3063146"}

@@ -1,6 +1,0 @@
-{"frequency": 0.551909979457274, "name": "folk", "weight": 0.2986425339366516, "id": "2338868"}
-{"frequency": 0.14294562560749352, "name": "freak folk", "weight": 0.2828054298642534, "id": "2338868"}
-{"frequency": 0.14731107789339648, "name": "chamber pop", "weight": 0.27601809954751133, "id": "2338868"}
-{"frequency": 0.20212841900715015, "name": "indie pop", "weight": 0.2149321266968326, "id": "2338868"}
-{"frequency": 0.2810317661041452, "name": "alternative", "weight": 0.1493212669683258, "id": "2338868"}
-{"frequency": 0.08242939324513024, "name": "indie folk", "weight": 0.12669683257918551, "id": "2338868"}

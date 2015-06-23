@@ -1,7 +1,0 @@
-{"frequency": 0.7587181877955415, "name": "classical", "weight": 1.0, "id": "124441"}
-{"frequency": 1.0, "name": "pop", "weight": 0.7340241796200345, "id": "124441"}
-{"frequency": 0.18073367980184643, "name": "opera", "weight": 0.3229706390328152, "id": "124441"}
-{"frequency": 0.05517714748930421, "name": "easy listening", "weight": 0.1692573402417962, "id": "124441"}
-{"frequency": 0.2969394244539518, "name": "rock", "weight": 0.16753022452504318, "id": "124441"}
-{"frequency": 0.055708883584778206, "name": "adult contemporary", "weight": 0.16580310880829016, "id": "124441"}
-{"frequency": 0.059276735870299475, "name": "new age", "weight": 0.15889464594127806, "id": "124441"}

@@ -1,7 +1,0 @@
-{"frequency": 1.0, "name": "singer-songwriter", "weight": 0.873015873015873, "id": "935023"}
-{"frequency": 0.5766999260769836, "name": "americana", "weight": 0.6084656084656085, "id": "935023"}
-{"frequency": 0.5395942216689352, "name": "blues", "weight": 0.3915343915343915, "id": "935023"}
-{"frequency": 0.5852743638833204, "name": "folk", "weight": 0.3492063492063492, "id": "935023"}
-{"frequency": 0.9948194146655067, "name": "rock", "weight": 0.30158730158730157, "id": "935023"}
-{"frequency": 0.1775441838102783, "name": "country pop", "weight": 0.291005291005291, "id": "935023"}
-{"frequency": 0.289820736430651, "name": "country", "weight": 0.17989417989417988, "id": "935023"}

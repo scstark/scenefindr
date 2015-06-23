@@ -1,1 +1,0 @@
-{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 0.5129051417774124, "name": "pop punk", "weight": 0.75}, {"frequency": 0.5296592089256701, "name": "punk", "weight": 0.4166666666666667}, {"frequency": 0.5273753163797684, "name": "pop", "weight": 0.25}]}}

@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "rock", "weight": 1.0, "id": "6235549"}
-{"frequency": 0.20879112247964854, "name": "indie rock", "weight": 0.7241379310344828, "id": "6235549"}
-{"frequency": 0.2639622015298045, "name": "indie", "weight": 0.5517241379310345, "id": "6235549"}
-{"frequency": 0.2687288595905098, "name": "alternative", "weight": 0.5172413793103449, "id": "6235549"}

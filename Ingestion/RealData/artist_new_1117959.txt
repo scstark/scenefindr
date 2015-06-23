@@ -1,8 +1,0 @@
-{"frequency": 0.6854629178171439, "name": "emo", "weight": 1.0, "id": "1117959"}
-{"frequency": 1.0, "name": "indie", "weight": 0.8594164456233422, "id": "1117959"}
-{"frequency": 0.18430779495257316, "name": "noise rock", "weight": 0.41114058355437666, "id": "1117959"}
-{"frequency": 0.35243246844276077, "name": "blues", "weight": 0.3448275862068966, "id": "1117959"}
-{"frequency": 0.37225528405582337, "name": "punk", "weight": 0.32891246684350134, "id": "1117959"}
-{"frequency": 0.3093553997932564, "name": "alternative", "weight": 0.2440318302387268, "id": "1117959"}
-{"frequency": 0.10457391872860056, "name": "shoegaze", "weight": 0.1830238726790451, "id": "1117959"}
-{"frequency": 0.10826760255646958, "name": "pop punk", "weight": 0.17771883289124668, "id": "1117959"}

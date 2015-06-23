@@ -1,3 +1,0 @@
-{"frequency": 1.0, "name": "rock", "weight": 1.0, "id": "579441"}
-{"frequency": 0.06313837015628027, "name": "folk rock", "weight": 0.24064171122994651, "id": "579441"}
-{"frequency": 0.07267453505252884, "name": "psychedelic", "weight": 0.21390374331550802, "id": "579441"}

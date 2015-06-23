@@ -1,2 +1,0 @@
-{"frequency": 1.0, "name": "reggaeton", "weight": 1.0, "id": "650660"}
-{"frequency": 0.658946042243655, "name": "latin", "weight": 0.35865417967395075, "id": "650660"}

@@ -1,4 +1,0 @@
-{"frequency": 0.8126919283998878, "name": "mariachi", "weight": 1.0, "id": "3139591"}
-{"frequency": 1.0, "name": "heavy metal", "weight": 0.8404255319148937, "id": "3139591"}
-{"frequency": 0.34627794870868717, "name": "metal", "weight": 0.14893617021276595, "id": "3139591"}
-{"frequency": 0.113926921680199, "name": "black metal", "weight": 0.10638297872340426, "id": "3139591"}

@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "2336756"}
-{"frequency": 0.11492087903092671, "name": "psychedelic folk", "weight": 0.3253968253968254, "id": "2336756"}
-{"frequency": 0.13026284557016268, "name": "acoustic blues", "weight": 0.29365079365079366, "id": "2336756"}
-{"frequency": 0.2124994684414286, "name": "folk", "weight": 0.1746031746031746, "id": "2336756"}

@@ -1,2 +1,0 @@
-{"frequency": 1.0, "name": "comedy", "weight": 1.0, "id": "567275"}
-{"frequency": 0.15385462820806348, "name": "stand-up comedy", "weight": 0.30264550264550266, "id": "567275"}

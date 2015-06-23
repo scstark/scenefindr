@@ -1,8 +1,0 @@
-{"frequency": 0.6066892841224463, "name": "indie pop", "weight": 1.0, "id": "6938324"}
-{"frequency": 0.42264347411472775, "name": "lo-fi", "weight": 0.6843615494978479, "id": "6938324"}
-{"frequency": 1.0, "name": "pop", "weight": 0.5566714490674318, "id": "6938324"}
-{"frequency": 0.6192781762629253, "name": "indie", "weight": 0.5538020086083214, "id": "6938324"}
-{"frequency": 0.1956140475261062, "name": "dream pop", "weight": 0.45911047345767575, "id": "6938324"}
-{"frequency": 0.2040071554737691, "name": "indie rock", "weight": 0.30272596843615496, "id": "6938324"}
-{"frequency": 0.12674310594781132, "name": "power pop", "weight": 0.2223816355810617, "id": "6938324"}
-{"frequency": 0.056802934591557115, "name": "garage rock", "weight": 0.12051649928263988, "id": "6938324"}

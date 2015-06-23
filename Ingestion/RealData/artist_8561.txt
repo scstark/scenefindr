@@ -1,1 +1,0 @@
-{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 1.0, "name": "reggae", "weight": 1.0}, {"frequency": 0.847994476114281, "name": "pop", "weight": 0.36400817995910023}, {"frequency": 0.05846631923839302, "name": "male vocalist", "weight": 0.11451942740286299}]}}

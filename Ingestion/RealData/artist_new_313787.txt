@@ -1,7 +1,0 @@
-{"frequency": 1.0, "name": "bluegrass", "weight": 1.0, "id": "313787"}
-{"frequency": 0.9790564063559739, "name": "country", "weight": 0.5051603391079985, "id": "313787"}
-{"frequency": 0.40814546024838205, "name": "folk", "weight": 0.20162182086251382, "id": "313787"}
-{"frequency": 0.19713426784126403, "name": "americana", "weight": 0.17231846664209363, "id": "313787"}
-{"frequency": 0.15608618592817763, "name": "gospel", "weight": 0.12329524511610764, "id": "313787"}
-{"frequency": 0.19200345434198132, "name": "blues", "weight": 0.11555473645410984, "id": "313787"}
-{"frequency": 0.056422886426642706, "name": "contemporary bluegrass", "weight": 0.11389605602653889, "id": "313787"}

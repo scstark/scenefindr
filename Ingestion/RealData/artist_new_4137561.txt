@@ -1,6 +1,0 @@
-{"frequency": 1.0, "name": "psychedelic", "weight": 1.0, "id": "4137561"}
-{"frequency": 0.356241372024277, "name": "garage punk", "weight": 0.695364238410596, "id": "4137561"}
-{"frequency": 0.2636517895408177, "name": "surf music", "weight": 0.6026490066225165, "id": "4137561"}
-{"frequency": 0.3127684249604214, "name": "garage rock", "weight": 0.5298013245033113, "id": "4137561"}
-{"frequency": 0.3637102896297592, "name": "lo-fi", "weight": 0.47019867549668876, "id": "4137561"}
-{"frequency": 0.4823288741165819, "name": "indie", "weight": 0.3443708609271523, "id": "4137561"}

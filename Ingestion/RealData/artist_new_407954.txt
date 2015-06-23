@@ -1,7 +1,0 @@
-{"frequency": 1.0, "name": "country", "weight": 1.0, "id": "407954"}
-{"frequency": 0.05311720369536973, "name": "modern country", "weight": 0.17938849689972206, "id": "407954"}
-{"frequency": 0.0746498510468714, "name": "bluegrass", "weight": 0.14467963794455135, "id": "407954"}
-{"frequency": 0.07438964381122289, "name": "country music", "weight": 0.14197134915544152, "id": "407954"}
-{"frequency": 0.19696045381304353, "name": "pop", "weight": 0.12515145035991732, "id": "407954"}
-{"frequency": 0.04145596769661917, "name": "classic country", "weight": 0.1245812842990521, "id": "407954"}
-{"frequency": 0.03696242400270086, "name": "contemporary country", "weight": 0.12051885111538736, "id": "407954"}

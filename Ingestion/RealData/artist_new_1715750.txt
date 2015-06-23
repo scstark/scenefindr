@@ -1,9 +1,0 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "1715750"}
-{"frequency": 0.2651249667329951, "name": "country blues", "weight": 0.6383928571428571, "id": "1715750"}
-{"frequency": 0.40603298800291626, "name": "singer-songwriter", "weight": 0.48660714285714285, "id": "1715750"}
-{"frequency": 0.16394808436182942, "name": "blues-rock", "weight": 0.296875, "id": "1715750"}
-{"frequency": 0.3589649608259738, "name": "folk", "weight": 0.29464285714285715, "id": "1715750"}
-{"frequency": 0.16718199026264058, "name": "alternative country", "weight": 0.2924107142857143, "id": "1715750"}
-{"frequency": 0.23211002699612934, "name": "indie", "weight": 0.203125, "id": "1715750"}
-{"frequency": 0.2409431263738869, "name": "alternative", "weight": 0.19419642857142858, "id": "1715750"}
-{"frequency": 0.05684474371595261, "name": "progressive country", "weight": 0.19419642857142858, "id": "1715750"}

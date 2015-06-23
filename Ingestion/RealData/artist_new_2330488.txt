@@ -1,9 +1,0 @@
-{"frequency": 0.19317686512064758, "name": "glam metal", "weight": 1.0, "id": "2330488"}
-{"frequency": 1.0, "name": "metal", "weight": 0.9220303506017792, "id": "2330488"}
-{"frequency": 0.5057405232947432, "name": "heavy metal", "weight": 0.9108669108669109, "id": "2330488"}
-{"frequency": 0.3197523577568841, "name": "hard rock", "weight": 0.5368916797488226, "id": "2330488"}
-{"frequency": 0.1562363404237875, "name": "hair metal", "weight": 0.47845804988662133, "id": "2330488"}
-{"frequency": 0.08434008247930408, "name": "80s", "weight": 0.43659515088086515, "id": "2330488"}
-{"frequency": 0.28808428808008524, "name": "comedy", "weight": 0.41217512646084076, "id": "2330488"}
-{"frequency": 0.8692717160516937, "name": "rock", "weight": 0.395255538112681, "id": "2330488"}
-{"frequency": 0.0495297073500239, "name": "glam rock", "weight": 0.12680969823826968, "id": "2330488"}

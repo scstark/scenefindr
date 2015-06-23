@@ -1,9 +1,0 @@
-{"frequency": 1.0, "name": "tango", "weight": 1.0, "id": "487411"}
-{"frequency": 0.7431509830658903, "name": "instrumental", "weight": 0.3824884792626728, "id": "487411"}
-{"frequency": 0.5929295335325263, "name": "electronica", "weight": 0.31797235023041476, "id": "487411"}
-{"frequency": 0.24580792593755543, "name": "latin pop", "weight": 0.2834101382488479, "id": "487411"}
-{"frequency": 0.2500766428868717, "name": "latin music", "weight": 0.27880184331797236, "id": "487411"}
-{"frequency": 0.3490000555367658, "name": "latin", "weight": 0.20276497695852536, "id": "487411"}
-{"frequency": 0.21344065365369377, "name": "world music", "weight": 0.1889400921658986, "id": "487411"}
-{"frequency": 0.41236792263696914, "name": "electronic", "weight": 0.16359447004608296, "id": "487411"}
-{"frequency": 0.47432858851709897, "name": "pop", "weight": 0.1313364055299539, "id": "487411"}

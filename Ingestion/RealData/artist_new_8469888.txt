@@ -1,8 +1,0 @@
-{"frequency": 1.0, "name": "remix", "weight": 1.0, "id": "8469888"}
-{"frequency": 0.567137208644527, "name": "pop", "weight": 0.2318840579710145, "id": "8469888"}
-{"frequency": 0.3419842062987792, "name": "indie", "weight": 0.2246376811594203, "id": "8469888"}
-{"frequency": 0.160292205648116, "name": "dubstep", "weight": 0.2028985507246377, "id": "8469888"}
-{"frequency": 0.3253731318166518, "name": "house", "weight": 0.18115942028985507, "id": "8469888"}
-{"frequency": 0.1327098887589028, "name": "soundtrack", "weight": 0.11594202898550725, "id": "8469888"}
-{"frequency": 0.13213017639536004, "name": "electro", "weight": 0.10869565217391304, "id": "8469888"}
-{"frequency": 0.05223683934457163, "name": "swedish house", "weight": 0.10869565217391304, "id": "8469888"}

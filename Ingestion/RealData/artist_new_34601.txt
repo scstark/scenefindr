@@ -1,9 +1,0 @@
-{"frequency": 1.0, "name": "rock", "weight": 1.0, "id": "34601"}
-{"frequency": 0.4275634341864459, "name": "country", "weight": 0.8752711496746204, "id": "34601"}
-{"frequency": 0.1641281707383856, "name": "alternative country", "weight": 0.6854663774403471, "id": "34601"}
-{"frequency": 0.05076114214087684, "name": "roots rock", "weight": 0.2787418655097614, "id": "34601"}
-{"frequency": 0.12146761882854779, "name": "folk", "weight": 0.2380694143167028, "id": "34601"}
-{"frequency": 0.06755112849464746, "name": "americana", "weight": 0.23427331887201736, "id": "34601"}
-{"frequency": 0.05427056262327008, "name": "indie rock", "weight": 0.18817787418655096, "id": "34601"}
-{"frequency": 0.08847952925301077, "name": "alternative", "weight": 0.1702819956616052, "id": "34601"}
-{"frequency": 0.03344745214214757, "name": "folk rock", "weight": 0.12689804772234273, "id": "34601"}

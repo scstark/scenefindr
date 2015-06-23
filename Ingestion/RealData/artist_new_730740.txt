@@ -1,5 +1,0 @@
-{"frequency": 1.0, "name": "rock", "weight": 1.0, "id": "730740"}
-{"frequency": 0.09631375458678423, "name": "classical", "weight": 0.225, "id": "730740"}
-{"frequency": 0.019271148166848658, "name": "acoustic rock", "weight": 0.10833333333333334, "id": "730740"}
-{"frequency": 0.05525424492142452, "name": "folk", "weight": 0.10833333333333334, "id": "730740"}
-{"frequency": 0.01944729229307268, "name": "indie folk", "weight": 0.10833333333333334, "id": "730740"}

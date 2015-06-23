@@ -1,2 +1,0 @@
-{"frequency": 0.7188312451904261, "name": "progressive rock", "weight": 0.864406779661017, "id": "4033421"}
-{"frequency": 1.0, "name": "alternative", "weight": 0.5932203389830508, "id": "4033421"}

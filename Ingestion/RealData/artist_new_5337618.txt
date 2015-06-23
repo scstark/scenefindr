@@ -1,5 +1,0 @@
-{"frequency": 0.44608227449040394, "name": "dark ambient", "weight": 1.0, "id": "5337618"}
-{"frequency": 0.6286632176390837, "name": "mediaeval", "weight": 0.8035714285714286, "id": "5337618"}
-{"frequency": 0.6880272101219861, "name": "doom metal", "weight": 0.75, "id": "5337618"}
-{"frequency": 0.9601663196559619, "name": "psychedelic", "weight": 0.5535714285714286, "id": "5337618"}
-{"frequency": 0.6704776740436793, "name": "ambient", "weight": 0.35714285714285715, "id": "5337618"}

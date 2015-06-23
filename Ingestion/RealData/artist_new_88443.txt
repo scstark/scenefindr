@@ -1,9 +1,0 @@
-{"frequency": 0.34805308063094686, "name": "easy listening", "weight": 1.0, "id": "88443"}
-{"frequency": 1.0, "name": "jazz", "weight": 0.948905109489051, "id": "88443"}
-{"frequency": 0.20505745559107177, "name": "cool jazz", "weight": 0.7372262773722628, "id": "88443"}
-{"frequency": 0.2203504197652981, "name": "vocal jazz", "weight": 0.6934306569343066, "id": "88443"}
-{"frequency": 0.22872373464601709, "name": "smooth jazz", "weight": 0.6788321167883211, "id": "88443"}
-{"frequency": 0.2355050801505163, "name": "adult contemporary", "weight": 0.656934306569343, "id": "88443"}
-{"frequency": 0.24075974838181485, "name": "jazz fusion", "weight": 0.6496350364963503, "id": "88443"}
-{"frequency": 0.25233745242279926, "name": "bebop", "weight": 0.6204379562043796, "id": "88443"}
-{"frequency": 0.4472077668346022, "name": "pop", "weight": 0.30656934306569344, "id": "88443"}

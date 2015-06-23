@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "hip hop", "weight": 1.0, "id": "3677406"}
-{"frequency": 0.5367490190632833, "name": "rap", "weight": 0.5723270440251572, "id": "3677406"}
-{"frequency": 0.0953323821860198, "name": "west coast rap", "weight": 0.3270440251572327, "id": "3677406"}
-{"frequency": 0.10129052295722044, "name": "political rap", "weight": 0.31446540880503143, "id": "3677406"}

@@ -1,4 +1,0 @@
-{"frequency": 0.6257103337680876, "name": "cabaret", "weight": 0.9875, "id": "591645"}
-{"frequency": 1.0, "name": "jazz", "weight": 0.875, "id": "591645"}
-{"frequency": 0.2524549325386495, "name": "blues", "weight": 0.25, "id": "591645"}
-{"frequency": 0.22675112271369632, "name": "pop", "weight": 0.1875, "id": "591645"}

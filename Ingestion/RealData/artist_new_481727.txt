@@ -1,6 +1,0 @@
-{"frequency": 1.0, "name": "rock", "weight": 0.9477611940298507, "id": "481727"}
-{"frequency": 0.12991808669078767, "name": "jam band", "weight": 0.6417910447761194, "id": "481727"}
-{"frequency": 0.146461403006161, "name": "alternative country", "weight": 0.582089552238806, "id": "481727"}
-{"frequency": 0.17475047996441806, "name": "singer-songwriter", "weight": 0.47761194029850745, "id": "481727"}
-{"frequency": 0.0364157972406153, "name": "80s", "weight": 0.39552238805970147, "id": "481727"}
-{"frequency": 0.017864355095444408, "name": "90s", "weight": 0.19402985074626866, "id": "481727"}

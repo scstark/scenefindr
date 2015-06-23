@@ -1,5 +1,0 @@
-{"frequency": 1.0, "name": "reggae", "weight": 1.0, "id": "301301"}
-{"frequency": 0.4755530968996841, "name": "dancehall", "weight": 0.6841147728454101, "id": "301301"}
-{"frequency": 0.18985788573847767, "name": "soca", "weight": 0.36485081609314896, "id": "301301"}
-{"frequency": 0.146900026747757, "name": "roots", "weight": 0.14112693627196174, "id": "301301"}
-{"frequency": 0.1730570812025139, "name": "hip hop", "weight": 0.12537685830127873, "id": "301301"}

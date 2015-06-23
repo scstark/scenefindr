@@ -1,7 +1,0 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "2987"}
-{"frequency": 0.6126422543516787, "name": "rock", "weight": 0.2565710872162485, "id": "2987"}
-{"frequency": 0.1261852826686539, "name": "blues-rock", "weight": 0.22849462365591397, "id": "2987"}
-{"frequency": 0.059855747132656414, "name": "electric blues", "weight": 0.16024492234169654, "id": "2987"}
-{"frequency": 0.05441037222595623, "name": "chicago blues", "weight": 0.13485663082437277, "id": "2987"}
-{"frequency": 0.043374234706408124, "name": "contemporary blues", "weight": 0.12514934289127838, "id": "2987"}
-{"frequency": 0.10537151464649908, "name": "r&b", "weight": 0.12246117084826762, "id": "2987"}

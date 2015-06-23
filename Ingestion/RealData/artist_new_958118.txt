@@ -1,5 +1,0 @@
-{"frequency": 1.0, "name": "pop", "weight": 1.0, "id": "958118"}
-{"frequency": 0.4357202212842269, "name": "pop rock", "weight": 0.875, "id": "958118"}
-{"frequency": 0.11722779514358787, "name": "punk pop", "weight": 0.4375, "id": "958118"}
-{"frequency": 0.16985044636603588, "name": "punk", "weight": 0.28125, "id": "958118"}
-{"frequency": 0.1795370203494948, "name": "alternative", "weight": 0.265625, "id": "958118"}

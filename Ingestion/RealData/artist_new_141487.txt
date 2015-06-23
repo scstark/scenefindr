@@ -1,8 +1,0 @@
-{"frequency": 1.0, "name": "latin", "weight": 1.0, "id": "141487"}
-{"frequency": 0.34132475302385096, "name": "male vocalist", "weight": 0.7416666666666667, "id": "141487"}
-{"frequency": 0.37646351769172853, "name": "reggaeton", "weight": 0.6916666666666667, "id": "141487"}
-{"frequency": 0.3968173924688008, "name": "salsa", "weight": 0.6625, "id": "141487"}
-{"frequency": 0.6912420738298451, "name": "pop", "weight": 0.32916666666666666, "id": "141487"}
-{"frequency": 0.27227526944850733, "name": "rap", "weight": 0.23333333333333334, "id": "141487"}
-{"frequency": 0.2799541739725061, "name": "hip hop", "weight": 0.225, "id": "141487"}
-{"frequency": 0.29459822296825117, "name": "dance", "weight": 0.2125, "id": "141487"}

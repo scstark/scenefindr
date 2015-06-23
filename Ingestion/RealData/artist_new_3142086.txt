@@ -1,8 +1,0 @@
-{"frequency": 1.0, "name": "americana", "weight": 1.0, "id": "3142086"}
-{"frequency": 0.6587565161903247, "name": "roots rock", "weight": 0.8235294117647058, "id": "3142086"}
-{"frequency": 0.6220290215538009, "name": "singer-songwriter", "weight": 0.5294117647058824, "id": "3142086"}
-{"frequency": 0.6262841252657954, "name": "hip hop", "weight": 0.47058823529411764, "id": "3142086"}
-{"frequency": 0.652400193812278, "name": "roots", "weight": 0.47058823529411764, "id": "3142086"}
-{"frequency": 0.931813347631406, "name": "rock", "weight": 0.4117647058823529, "id": "3142086"}
-{"frequency": 0.6089184907922178, "name": "jazz", "weight": 0.35294117647058826, "id": "3142086"}
-{"frequency": 0.26901782977818284, "name": "blues", "weight": 0.17647058823529413, "id": "3142086"}

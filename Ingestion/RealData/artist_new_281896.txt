@@ -1,9 +1,0 @@
-{"frequency": 0.5682222822109771, "name": "opera", "weight": 0.5749649696403549, "id": "281896"}
-{"frequency": 1.0, "name": "pop", "weight": 0.41569360112097153, "id": "281896"}
-{"frequency": 0.22486910592430415, "name": "adult contemporary", "weight": 0.37902849135917793, "id": "281896"}
-{"frequency": 0.46406648017854146, "name": "country", "weight": 0.3035964502568893, "id": "281896"}
-{"frequency": 0.377994215821938, "name": "classical", "weight": 0.2821111630079402, "id": "281896"}
-{"frequency": 0.11202074347764264, "name": "vocal pop", "weight": 0.23446987389070528, "id": "281896"}
-{"frequency": 0.24243202745864925, "name": "soundtrack", "weight": 0.21531994395142456, "id": "281896"}
-{"frequency": 0.0903689856759799, "name": "easy listening", "weight": 0.1569360112097151, "id": "281896"}
-{"frequency": 0.0287666058532688, "name": "00s", "weight": 0.10462400747314339, "id": "281896"}

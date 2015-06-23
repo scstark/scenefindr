@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "punk", "weight": 1.0, "id": "4548533"}
-{"frequency": 0.06937591448220119, "name": "rockabilly", "weight": 0.13043478260869565, "id": "4548533"}
-{"frequency": 0.06666758285600542, "name": "ska", "weight": 0.11594202898550725, "id": "4548533"}
-{"frequency": 0.06442599335471215, "name": "rock 'n roll", "weight": 0.10144927536231885, "id": "4548533"}

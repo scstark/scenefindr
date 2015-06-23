@@ -1,9 +1,0 @@
-{"frequency": 0.5291111718335293, "name": "new wave", "weight": 1.0, "id": "356213"}
-{"frequency": 0.9346468845790947, "name": "pop", "weight": 0.5558371040723982, "id": "356213"}
-{"frequency": 1.0, "name": "rock", "weight": 0.4571945701357466, "id": "356213"}
-{"frequency": 0.08066759487753715, "name": "80s", "weight": 0.4197285067873303, "id": "356213"}
-{"frequency": 0.12416154083018174, "name": "alternative rock", "weight": 0.20796380090497738, "id": "356213"}
-{"frequency": 0.14638604720018275, "name": "pop rock", "weight": 0.17484162895927602, "id": "356213"}
-{"frequency": 0.1619663381417352, "name": "punk", "weight": 0.15945701357466063, "id": "356213"}
-{"frequency": 0.10412240427872829, "name": "reggae", "weight": 0.14425339366515838, "id": "356213"}
-{"frequency": 0.046825835968074304, "name": "american punk", "weight": 0.13104072398190045, "id": "356213"}

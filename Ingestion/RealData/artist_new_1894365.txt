@@ -1,9 +1,0 @@
-{"frequency": 1.0, "name": "dance", "weight": 1.0, "id": "1894365"}
-{"frequency": 0.6517629641269088, "name": "electronica", "weight": 0.8337195828505214, "id": "1894365"}
-{"frequency": 0.36244342424952475, "name": "pop", "weight": 0.23928157589803012, "id": "1894365"}
-{"frequency": 0.4167427932107885, "name": "rock", "weight": 0.21147161066048667, "id": "1894365"}
-{"frequency": 0.19462190119676587, "name": "house", "weight": 0.1749710312862109, "id": "1894365"}
-{"frequency": 0.0850340319608774, "name": "indie pop", "weight": 0.16628041714947855, "id": "1894365"}
-{"frequency": 0.16341207225188367, "name": "electronic", "weight": 0.15353418308227115, "id": "1894365"}
-{"frequency": 0.12345668489625893, "name": "folk", "weight": 0.12282734646581692, "id": "1894365"}
-{"frequency": 0.11744659195082659, "name": "alternative", "weight": 0.11471610660486674, "id": "1894365"}

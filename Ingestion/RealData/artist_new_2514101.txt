@@ -1,3 +1,0 @@
-{"frequency": 1.0, "name": "afrobeat", "weight": 1.0, "id": "2514101"}
-{"frequency": 0.7381353584210082, "name": "funk", "weight": 0.3629032258064516, "id": "2514101"}
-{"frequency": 0.6511475344173269, "name": "jazz", "weight": 0.21129032258064517, "id": "2514101"}

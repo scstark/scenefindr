@@ -1,7 +1,0 @@
-{"frequency": 0.8038916140830646, "name": "hip hop", "weight": 0.5818181818181818, "id": "8507413"}
-{"frequency": 0.3814003251616473, "name": "remix", "weight": 0.4, "id": "8507413"}
-{"frequency": 0.5961081261512895, "name": "electronic", "weight": 0.36363636363636365, "id": "8507413"}
-{"frequency": 0.20719914511125923, "name": "trip hop", "weight": 0.2727272727272727, "id": "8507413"}
-{"frequency": 0.12677862349534808, "name": "experimental hip hop", "weight": 0.2545454545454545, "id": "8507413"}
-{"frequency": 0.12547869126171096, "name": "adult contemporary", "weight": 0.21818181818181817, "id": "8507413"}
-{"frequency": 0.25791280251738885, "name": "alternative", "weight": 0.16363636363636364, "id": "8507413"}

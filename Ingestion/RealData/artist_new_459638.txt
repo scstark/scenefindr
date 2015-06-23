@@ -1,3 +1,0 @@
-{"frequency": 1.0, "name": "jazz", "weight": 1.0, "id": "459638"}
-{"frequency": 0.3213344035891679, "name": "big band", "weight": 0.7610942249240121, "id": "459638"}
-{"frequency": 0.26986701403877367, "name": "swing", "weight": 0.541033434650456, "id": "459638"}

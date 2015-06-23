@@ -1,5 +1,0 @@
-{"frequency": 1.0, "name": "jazz", "weight": 1.0, "id": "516124"}
-{"frequency": 0.2203315910733404, "name": "big band", "weight": 0.5218612113918973, "id": "516124"}
-{"frequency": 0.2257805960130687, "name": "instrumental", "weight": 0.30244685118331327, "id": "516124"}
-{"frequency": 0.07678479884287581, "name": "modern jazz", "weight": 0.23746490172482954, "id": "516124"}
-{"frequency": 0.10902954488196828, "name": "swing", "weight": 0.21861211391897312, "id": "516124"}

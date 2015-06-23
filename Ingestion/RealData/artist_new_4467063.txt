@@ -1,7 +1,0 @@
-{"frequency": 1.0, "name": "hip hop", "weight": 1.0, "id": "4467063"}
-{"frequency": 0.8398025611463757, "name": "rap", "weight": 0.8954682779456193, "id": "4467063"}
-{"frequency": 0.1938577913184733, "name": "southern hip hop", "weight": 0.6229607250755287, "id": "4467063"}
-{"frequency": 0.11931525499109566, "name": "southern rap", "weight": 0.39093655589123866, "id": "4467063"}
-{"frequency": 0.06396347942147156, "name": "dirty south rap", "weight": 0.2972809667673716, "id": "4467063"}
-{"frequency": 0.03942969464849894, "name": "gangster rap", "weight": 0.13051359516616315, "id": "4467063"}
-{"frequency": 0.048814543978943296, "name": "pop rap", "weight": 0.11238670694864049, "id": "4467063"}

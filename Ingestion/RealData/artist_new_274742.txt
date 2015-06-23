@@ -1,6 +1,0 @@
-{"frequency": 0.791215664276537, "name": "classical", "weight": 0.6550632911392406, "id": "274742"}
-{"frequency": 0.5296920243286681, "name": "indie", "weight": 0.3924050632911392, "id": "274742"}
-{"frequency": 1.0, "name": "rock", "weight": 0.35443037974683544, "id": "274742"}
-{"frequency": 0.3958274156748245, "name": "instrumental", "weight": 0.33860759493670883, "id": "274742"}
-{"frequency": 0.5078404223773012, "name": "pop", "weight": 0.23417721518987342, "id": "274742"}
-{"frequency": 0.1862810512456317, "name": "soundtrack", "weight": 0.18354430379746836, "id": "274742"}

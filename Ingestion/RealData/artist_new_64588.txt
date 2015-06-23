@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "jazz", "weight": 1.0, "id": "64588"}
-{"frequency": 0.06751271586678946, "name": "contemporary jazz", "weight": 0.20995670995670995, "id": "64588"}
-{"frequency": 0.07017138981113874, "name": "jazz piano", "weight": 0.2012987012987013, "id": "64588"}
-{"frequency": 0.01816050708309235, "name": "90s", "weight": 0.11471861471861472, "id": "64588"}

@@ -1,7 +1,0 @@
-{"frequency": 1.0, "name": "christian", "weight": 1.0, "id": "500269"}
-{"frequency": 0.2307991428153301, "name": "children music", "weight": 0.7515060240963856, "id": "500269"}
-{"frequency": 0.42144325985847253, "name": "soundtrack", "weight": 0.4419104991394148, "id": "500269"}
-{"frequency": 0.3301626815837293, "name": "comedy", "weight": 0.3917814113597246, "id": "500269"}
-{"frequency": 0.08938283591713962, "name": "christian music", "weight": 0.1800774526678141, "id": "500269"}
-{"frequency": 0.29547415237854774, "name": "pop", "weight": 0.14500860585197933, "id": "500269"}
-{"frequency": 0.024151118743570565, "name": "brutal death metal", "weight": 0.10370051635111877, "id": "500269"}

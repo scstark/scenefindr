@@ -1,1 +1,0 @@
-{"frequency": 1.0, "name": "club", "weight": 1.0, "id": "5434323"}

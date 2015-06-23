@@ -1,5 +1,0 @@
-{"frequency": 0.15211867875571716, "name": "contemporary classical music", "weight": 0.29777777777777775, "id": "367170"}
-{"frequency": 0.45419079971990106, "name": "classical", "weight": 0.29333333333333333, "id": "367170"}
-{"frequency": 0.11830042368891344, "name": "easy listening", "weight": 0.17777777777777778, "id": "367170"}
-{"frequency": 0.16770007222312402, "name": "soundtrack", "weight": 0.1288888888888889, "id": "367170"}
-{"frequency": 0.11344374386053376, "name": "symphony", "weight": 0.11037037037037037, "id": "367170"}

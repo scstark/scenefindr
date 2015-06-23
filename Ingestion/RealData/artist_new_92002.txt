@@ -1,7 +1,0 @@
-{"frequency": 0.8020674710688357, "name": "psychobilly", "weight": 1.0, "id": "92002"}
-{"frequency": 0.6778112091967021, "name": "rockabilly", "weight": 0.68, "id": "92002"}
-{"frequency": 0.9618404520821676, "name": "punk", "weight": 0.5131034482758621, "id": "92002"}
-{"frequency": 0.2886754086733419, "name": "horror punk", "weight": 0.5089655172413793, "id": "92002"}
-{"frequency": 0.9854875977527431, "name": "rock", "weight": 0.24413793103448275, "id": "92002"}
-{"frequency": 0.0731510802999914, "name": "revival rockabilly", "weight": 0.2, "id": "92002"}
-{"frequency": 0.09396529751144461, "name": "gothabilly", "weight": 0.17103448275862068, "id": "92002"}

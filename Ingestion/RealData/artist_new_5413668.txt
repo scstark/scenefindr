@@ -1,5 +1,0 @@
-{"frequency": 0.40399329258369593, "name": "outlaw country", "weight": 1.0, "id": "5413668"}
-{"frequency": 0.44798778838666, "name": "honky tonk", "weight": 0.8736842105263158, "id": "5413668"}
-{"frequency": 1.0, "name": "country", "weight": 0.750375939849624, "id": "5413668"}
-{"frequency": 0.41230101948449926, "name": "blues", "weight": 0.3609022556390977, "id": "5413668"}
-{"frequency": 0.12472769378378638, "name": "alternative country", "weight": 0.19097744360902255, "id": "5413668"}

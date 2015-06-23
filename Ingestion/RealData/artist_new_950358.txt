@@ -1,6 +1,0 @@
-{"frequency": 1.0, "name": "reggae", "weight": 1.0, "id": "950358"}
-{"frequency": 0.20735351905505559, "name": "roots reggae", "weight": 0.4090338770388959, "id": "950358"}
-{"frequency": 0.21079166569683483, "name": "dub", "weight": 0.2425763278962777, "id": "950358"}
-{"frequency": 0.20417625214597357, "name": "roots", "weight": 0.19615223755750733, "id": "950358"}
-{"frequency": 0.5196190541358657, "name": "rock", "weight": 0.17147636971978253, "id": "950358"}
-{"frequency": 0.05654529592017739, "name": "roots rock", "weight": 0.10246758678377248, "id": "950358"}

@@ -1,9 +1,0 @@
-{"frequency": 1.0, "name": "jazz", "weight": 1.0, "id": "457004"}
-{"frequency": 0.20655191451226879, "name": "smooth jazz", "weight": 0.6441520467836257, "id": "457004"}
-{"frequency": 0.1977203639596441, "name": "new age", "weight": 0.5211988304093568, "id": "457004"}
-{"frequency": 0.10257805586597679, "name": "contemporary jazz", "weight": 0.31900584795321635, "id": "457004"}
-{"frequency": 0.0943400365336201, "name": "jazz fusion", "weight": 0.26710526315789473, "id": "457004"}
-{"frequency": 0.10187989852461726, "name": "fusion", "weight": 0.18033625730994152, "id": "457004"}
-{"frequency": 0.10746885393210738, "name": "instrumental", "weight": 0.1439327485380117, "id": "457004"}
-{"frequency": 0.0946253530378698, "name": "classical", "weight": 0.12266081871345029, "id": "457004"}
-{"frequency": 0.04634270760779758, "name": "world music", "weight": 0.10665204678362573, "id": "457004"}

@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "comedy", "weight": 1.0, "id": "290113"}
-{"frequency": 0.0811067971899879, "name": "stand-up comedy", "weight": 0.15954415954415954, "id": "290113"}
-{"frequency": 0.17489736692392208, "name": "soul", "weight": 0.12725546058879392, "id": "290113"}
-{"frequency": 0.3375130277374508, "name": "rock", "weight": 0.10731244064577398, "id": "290113"}

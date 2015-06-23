@@ -1,2 +1,0 @@
-{"frequency": 0.8442320744336967, "name": "west coast rap", "weight": 1.0, "id": "5613513"}
-{"frequency": 0.24879686038153825, "name": "reggae", "weight": 0.11864406779661017, "id": "5613513"}

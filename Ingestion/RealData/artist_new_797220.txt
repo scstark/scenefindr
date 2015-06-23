@@ -1,9 +1,0 @@
-{"frequency": 0.6810771045533955, "name": "breakbeat", "weight": 0.9741379310344828, "id": "797220"}
-{"frequency": 0.7588891275364519, "name": "roots", "weight": 0.7586206896551724, "id": "797220"}
-{"frequency": 1.0, "name": "electronic", "weight": 0.6379310344827587, "id": "797220"}
-{"frequency": 0.4290659751987713, "name": "electronica", "weight": 0.3706896551724138, "id": "797220"}
-{"frequency": 0.4421886391559307, "name": "blues", "weight": 0.3620689655172414, "id": "797220"}
-{"frequency": 0.45024885586624513, "name": "rap", "weight": 0.3620689655172414, "id": "797220"}
-{"frequency": 0.45710570565871994, "name": "hip hop", "weight": 0.3448275862068966, "id": "797220"}
-{"frequency": 0.48653928581358974, "name": "folk", "weight": 0.3275862068965517, "id": "797220"}
-{"frequency": 0.11386649227983643, "name": "christian", "weight": 0.10344827586206896, "id": "797220"}

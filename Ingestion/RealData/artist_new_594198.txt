@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "folk", "weight": 1.0, "id": "594198"}
-{"frequency": 0.1744681198737821, "name": "traditional folk", "weight": 0.4854368932038835, "id": "594198"}
-{"frequency": 0.20630563085462816, "name": "bluegrass", "weight": 0.4174757281553398, "id": "594198"}
-{"frequency": 0.1030981455920442, "name": "celtic", "weight": 0.20388349514563106, "id": "594198"}

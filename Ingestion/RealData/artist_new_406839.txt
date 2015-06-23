@@ -1,9 +1,0 @@
-{"frequency": 0.6863931313310265, "name": "funk", "weight": 1.0, "id": "406839"}
-{"frequency": 1.0, "name": "jazz", "weight": 0.9633187772925764, "id": "406839"}
-{"frequency": 0.20028686878549226, "name": "soul jazz", "weight": 0.5781659388646289, "id": "406839"}
-{"frequency": 0.1049955002322636, "name": "fusion", "weight": 0.17903930131004367, "id": "406839"}
-{"frequency": 0.037953630362387455, "name": "acid jazz", "weight": 0.11790393013100436, "id": "406839"}
-{"frequency": 0.03866570991823874, "name": "smooth jazz", "weight": 0.11615720524017467, "id": "406839"}
-{"frequency": 0.04064789771953092, "name": "jam band", "weight": 0.11266375545851529, "id": "406839"}
-{"frequency": 0.04097255818970082, "name": "jazz fusion", "weight": 0.11179039301310044, "id": "406839"}
-{"frequency": 0.04162929326059859, "name": "jazz funk", "weight": 0.11004366812227075, "id": "406839"}

@@ -1,1 +1,0 @@
-{"response": {"status": {"code": 0, "message": "Success", "version": "4.2"}, "start": 0, "terms": [{"frequency": 0.625364959593281, "name": "country", "weight": 0.24324324324324326}, {"frequency": 0.3280218319498351, "name": "americana", "weight": 0.21621621621621623}, {"frequency": 0.29312935105496757, "name": "roots", "weight": 0.16216216216216217}]}}

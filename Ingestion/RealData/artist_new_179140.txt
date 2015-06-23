@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "179140"}
-{"frequency": 0.27545655286048476, "name": "soul", "weight": 0.2639900145620969, "id": "179140"}
-{"frequency": 0.08129160198313996, "name": "contemporary blues", "weight": 0.2345537757437071, "id": "179140"}
-{"frequency": 0.18096802589939928, "name": "r&b", "weight": 0.21031828583315998, "id": "179140"}

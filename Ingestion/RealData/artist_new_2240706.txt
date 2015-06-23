@@ -1,5 +1,0 @@
-{"frequency": 0.9359545301142917, "name": "classical", "weight": 0.8944281524926686, "id": "2240706"}
-{"frequency": 0.20248456549151164, "name": "contemporary classical music", "weight": 0.5865102639296188, "id": "2240706"}
-{"frequency": 0.2354334171170672, "name": "easy listening", "weight": 0.5249266862170088, "id": "2240706"}
-{"frequency": 0.10129208285690779, "name": "minimal", "weight": 0.14076246334310852, "id": "2240706"}
-{"frequency": 0.11054895975526419, "name": "funk", "weight": 0.12316715542521994, "id": "2240706"}

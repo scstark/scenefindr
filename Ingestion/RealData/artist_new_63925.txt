@@ -1,9 +1,0 @@
-{"frequency": 1.0, "name": "country", "weight": 1.0, "id": "63925"}
-{"frequency": 0.10593646530860469, "name": "country music", "weight": 0.20217791258515241, "id": "63925"}
-{"frequency": 0.05554074969890922, "name": "contemporary country", "weight": 0.18109492317637113, "id": "63925"}
-{"frequency": 0.05502220318891203, "name": "adult contemporary", "weight": 0.1417632141614042, "id": "63925"}
-{"frequency": 0.2223211176935648, "name": "pop", "weight": 0.14126597384515938, "id": "63925"}
-{"frequency": 0.03903162882221008, "name": "modern country", "weight": 0.1318184078365074, "id": "63925"}
-{"frequency": 0.02236042767895109, "name": "90s", "weight": 0.12431007906121028, "id": "63925"}
-{"frequency": 0.24989633538775224, "name": "rock", "weight": 0.1220724976381085, "id": "63925"}
-{"frequency": 0.040255493121678414, "name": "southern rock", "weight": 0.106409427676396, "id": "63925"}

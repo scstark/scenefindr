@@ -1,9 +1,0 @@
-{"frequency": 1.0, "name": "rock", "weight": 1.0, "id": "448067"}
-{"frequency": 0.2306565989004472, "name": "alternative rock", "weight": 0.8450170519136037, "id": "448067"}
-{"frequency": 0.3018400303092257, "name": "alternative", "weight": 0.5809018567639257, "id": "448067"}
-{"frequency": 0.11427482027434113, "name": "shoegaze", "weight": 0.4850322091701402, "id": "448067"}
-{"frequency": 0.21180428551961658, "name": "indie", "weight": 0.4425918908677529, "id": "448067"}
-{"frequency": 0.07382732549283055, "name": "math rock", "weight": 0.43804471390678285, "id": "448067"}
-{"frequency": 0.07035635248405092, "name": "space rock", "weight": 0.41265630920803337, "id": "448067"}
-{"frequency": 0.11354602234247907, "name": "indie rock", "weight": 0.39370973853732477, "id": "448067"}
-{"frequency": 0.050213422853409594, "name": "post-hardcore", "weight": 0.2046229632436529, "id": "448067"}

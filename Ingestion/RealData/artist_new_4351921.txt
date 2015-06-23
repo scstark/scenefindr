@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "banda", "weight": 1.0, "id": "4351921"}
-{"frequency": 0.5014670684939216, "name": "latin", "weight": 0.3771043771043771, "id": "4351921"}
-{"frequency": 0.07140595977579384, "name": "latin music", "weight": 0.1026936026936027, "id": "4351921"}
-{"frequency": 0.2071381931133652, "name": "house", "weight": 0.10101010101010101, "id": "4351921"}

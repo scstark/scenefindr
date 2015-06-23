@@ -1,5 +1,0 @@
-{"frequency": 0.505791403755408, "name": "dream pop", "weight": 1.0, "id": "2389063"}
-{"frequency": 1.0, "name": "indie", "weight": 0.75, "id": "2389063"}
-{"frequency": 0.5346696853783197, "name": "indie rock", "weight": 0.6666666666666666, "id": "2389063"}
-{"frequency": 0.5377625025882455, "name": "pop", "weight": 0.25, "id": "2389063"}
-{"frequency": 0.46736195115571977, "name": "rock", "weight": 0.16666666666666666, "id": "2389063"}

@@ -1,5 +1,0 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "108529"}
-{"frequency": 0.4716273567583518, "name": "country", "weight": 0.4033864541832669, "id": "108529"}
-{"frequency": 0.181629256401225, "name": "blues-rock", "weight": 0.33067729083665337, "id": "108529"}
-{"frequency": 0.09024494819705717, "name": "classic rock", "weight": 0.16533864541832669, "id": "108529"}
-{"frequency": 0.35320964908616637, "name": "rock", "weight": 0.14741035856573706, "id": "108529"}

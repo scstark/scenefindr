@@ -1,8 +1,0 @@
-{"frequency": 0.555820334240114, "name": "art rock", "weight": 1.0, "id": "36163"}
-{"frequency": 0.680070114568388, "name": "alternative", "weight": 0.4465465465465465, "id": "36163"}
-{"frequency": 0.5268206240720122, "name": "experimental", "weight": 0.4144144144144144, "id": "36163"}
-{"frequency": 1.0, "name": "rock", "weight": 0.34114114114114114, "id": "36163"}
-{"frequency": 0.3596659368089699, "name": "indie", "weight": 0.2564564564564565, "id": "36163"}
-{"frequency": 0.1276566737109155, "name": "experimental rock", "weight": 0.23243243243243245, "id": "36163"}
-{"frequency": 0.29710273577891444, "name": "punk", "weight": 0.21831831831831833, "id": "36163"}
-{"frequency": 0.1042609239084646, "name": "alternative rock", "weight": 0.13033033033033034, "id": "36163"}

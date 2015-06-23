@@ -1,5 +1,0 @@
-{"frequency": 0.34916332881901174, "name": "soundtrack", "weight": 0.3628571428571429, "id": "177996"}
-{"frequency": 0.12372461881671667, "name": "easy listening", "weight": 0.25142857142857145, "id": "177996"}
-{"frequency": 0.1752171614410145, "name": "ambient", "weight": 0.17714285714285713, "id": "177996"}
-{"frequency": 0.1868350296400188, "name": "instrumental", "weight": 0.16857142857142857, "id": "177996"}
-{"frequency": 0.21725563870573594, "name": "60s", "weight": 0.13714285714285715, "id": "177996"}

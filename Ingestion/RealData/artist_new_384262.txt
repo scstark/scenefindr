@@ -1,7 +1,0 @@
-{"frequency": 1.0, "name": "dance", "weight": 0.5532041139240507, "id": "384262"}
-{"frequency": 0.997818465283042, "name": "house", "weight": 0.49624208860759494, "id": "384262"}
-{"frequency": 0.13976563765372182, "name": "progressive house", "weight": 0.20609177215189872, "id": "384262"}
-{"frequency": 0.20925866450970831, "name": "remix", "weight": 0.18690664556962025, "id": "384262"}
-{"frequency": 0.3255025538313459, "name": "electronic", "weight": 0.16910601265822786, "id": "384262"}
-{"frequency": 0.17079476025811502, "name": "electronica", "weight": 0.12084651898734178, "id": "384262"}
-{"frequency": 0.07480300891180358, "name": "progressive trance", "weight": 0.11926424050632911, "id": "384262"}

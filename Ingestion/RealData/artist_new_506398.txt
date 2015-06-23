@@ -1,9 +1,0 @@
-{"frequency": 0.864305237875251, "name": "new age", "weight": 1.0, "id": "506398"}
-{"frequency": 1.0, "name": "folk", "weight": 0.47748702193028925, "id": "506398"}
-{"frequency": 0.9418472087080674, "name": "jazz", "weight": 0.413391249072995, "id": "506398"}
-{"frequency": 0.501374806336632, "name": "blues", "weight": 0.29166225235724125, "id": "506398"}
-{"frequency": 0.48138225512120714, "name": "instrumental", "weight": 0.28297489140798815, "id": "506398"}
-{"frequency": 0.774496479339782, "name": "rock", "weight": 0.1886852420807289, "id": "506398"}
-{"frequency": 0.0560935969248354, "name": "80s", "weight": 0.15552494967687255, "id": "506398"}
-{"frequency": 0.09457549215817473, "name": "jazz piano", "weight": 0.11908041106049369, "id": "506398"}
-{"frequency": 0.18955821956469635, "name": "classical", "weight": 0.10785040788219091, "id": "506398"}

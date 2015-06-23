@@ -1,3 +1,0 @@
-{"frequency": 0.7061526412917684, "name": "reggae", "weight": 1.0, "id": "997969"}
-{"frequency": 0.35116406582917714, "name": "dub", "weight": 0.5722772277227722, "id": "997969"}
-{"frequency": 1.0, "name": "rock", "weight": 0.46732673267326735, "id": "997969"}

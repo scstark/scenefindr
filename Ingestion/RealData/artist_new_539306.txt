@@ -1,5 +1,0 @@
-{"frequency": 0.5770759896561526, "name": "bluegrass", "weight": 1.0, "id": "539306"}
-{"frequency": 1.0, "name": "folk", "weight": 0.8560311284046692, "id": "539306"}
-{"frequency": 0.7702853071921075, "name": "country", "weight": 0.688715953307393, "id": "539306"}
-{"frequency": 0.2459410943757483, "name": "singer-songwriter", "weight": 0.30739299610894943, "id": "539306"}
-{"frequency": 0.07729623768571925, "name": "modern folk", "weight": 0.22568093385214008, "id": "539306"}

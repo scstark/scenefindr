@@ -1,8 +1,0 @@
-{"frequency": 1.0, "name": "country", "weight": 1.0, "id": "271625"}
-{"frequency": 0.8324347475186475, "name": "blues", "weight": 0.9695121951219512, "id": "271625"}
-{"frequency": 0.2681139478077727, "name": "country blues", "weight": 0.75, "id": "271625"}
-{"frequency": 0.6871332849615138, "name": "folk", "weight": 0.6559233449477352, "id": "271625"}
-{"frequency": 0.1927113653515882, "name": "ragtime", "weight": 0.519163763066202, "id": "271625"}
-{"frequency": 0.2725967596170666, "name": "americana", "weight": 0.460801393728223, "id": "271625"}
-{"frequency": 0.11397779449108827, "name": "singer-songwriter", "weight": 0.15853658536585366, "id": "271625"}
-{"frequency": 0.03788602186364766, "name": "delta blues", "weight": 0.1132404181184669, "id": "271625"}

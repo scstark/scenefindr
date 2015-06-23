@@ -1,4 +1,0 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "523505"}
-{"frequency": 0.20747032191878143, "name": "blues-rock", "weight": 0.37772397094430993, "id": "523505"}
-{"frequency": 0.5298876682944141, "name": "rock", "weight": 0.22114608555286522, "id": "523505"}
-{"frequency": 0.057880563902443304, "name": "jam band", "weight": 0.12590799031476999, "id": "523505"}
