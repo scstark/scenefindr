@@ -1,17 +1,17 @@
-{"frequency": 0.384145796279473, "name": "indie rock", "weight": 1.0}
-{"frequency": 0.5868297480136255, "name": "indie", "weight": 0.9205052005943536}
-{"frequency": 0.6208488644315748, "name": "alternative", "weight": 0.8967310549777118}
-{"frequency": 0.29803842484694004, "name": "indie pop", "weight": 0.861812778603269}
-{"frequency": 1.0, "name": "rock", "weight": 0.75037147102526}
-{"frequency": 0.5296668653639528, "name": "pop", "weight": 0.5170876671619614}
-{"frequency": 0.13520706862023674, "name": "power pop", "weight": 0.4160475482912333}
-{"frequency": 0.0897951556805087, "name": "new wave", "weight": 0.2786032689450223}
-{"frequency": 0.09564650748123983, "name": "alternative rock", "weight": 0.26300148588410105}
-{"frequency": 0.1604216246456713, "name": "electronic", "weight": 0.22288261515601784}
-{"frequency": 0.11255108361241413, "name": "pop rock", "weight": 0.22065378900445765}
-{"frequency": 0.036686341820666504, "name": "male vocalist", "weight": 0.16344725111441308}
-{"frequency": 0.04362780781977237, "name": "classic rock", "weight": 0.1426448736998514}
-{"frequency": 0.04598314287546269, "name": "synthpop", "weight": 0.13595839524517087}
-{"frequency": 0.0474251367091699, "name": "post-punk", "weight": 0.13150074294205052}
-{"frequency": 0.05394858308797275, "name": "singer-songwriter", "weight": 0.11589895988112928}
-{"frequency": 0.059698778932127154, "name": "soul", "weight": 0.1025260029717682}
+{"frequency": 0.384145796279473, "name": "indie rock", "weight": 1.0, "id": "2525941"}
+{"frequency": 0.5868297480136255, "name": "indie", "weight": 0.9205052005943536, "id": "2525941"}
+{"frequency": 0.6208488644315748, "name": "alternative", "weight": 0.8967310549777118, "id": "2525941"}
+{"frequency": 0.29803842484694004, "name": "indie pop", "weight": 0.861812778603269, "id": "2525941"}
+{"frequency": 1.0, "name": "rock", "weight": 0.75037147102526, "id": "2525941"}
+{"frequency": 0.5296668653639528, "name": "pop", "weight": 0.5170876671619614, "id": "2525941"}
+{"frequency": 0.13520706862023674, "name": "power pop", "weight": 0.4160475482912333, "id": "2525941"}
+{"frequency": 0.0897951556805087, "name": "new wave", "weight": 0.2786032689450223, "id": "2525941"}
+{"frequency": 0.09564650748123983, "name": "alternative rock", "weight": 0.26300148588410105, "id": "2525941"}
+{"frequency": 0.1604216246456713, "name": "electronic", "weight": 0.22288261515601784, "id": "2525941"}
+{"frequency": 0.11255108361241413, "name": "pop rock", "weight": 0.22065378900445765, "id": "2525941"}
+{"frequency": 0.036686341820666504, "name": "male vocalist", "weight": 0.16344725111441308, "id": "2525941"}
+{"frequency": 0.04362780781977237, "name": "classic rock", "weight": 0.1426448736998514, "id": "2525941"}
+{"frequency": 0.04598314287546269, "name": "synthpop", "weight": 0.13595839524517087, "id": "2525941"}
+{"frequency": 0.0474251367091699, "name": "post-punk", "weight": 0.13150074294205052, "id": "2525941"}
+{"frequency": 0.05394858308797275, "name": "singer-songwriter", "weight": 0.11589895988112928, "id": "2525941"}
+{"frequency": 0.059698778932127154, "name": "soul", "weight": 0.1025260029717682, "id": "2525941"}

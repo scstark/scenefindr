@@ -1,28 +1,28 @@
-{"frequency": 0.21771941702943998, "name": "stoner metal", "weight": 1.0}
-{"frequency": 0.232961213269763, "name": "doom metal", "weight": 0.838465127128528}
-{"frequency": 0.6329007592293209, "name": "metal", "weight": 0.834383018427805}
-{"frequency": 0.2905778177558288, "name": "heavy metal", "weight": 0.7485421040354561}
-{"frequency": 0.18371038710533505, "name": "stoner rock", "weight": 0.7074877536738978}
-{"frequency": 1.0, "name": "rock", "weight": 0.6505714952181012}
-{"frequency": 0.12011500131844842, "name": "sludge metal", "weight": 0.5510846745976207}
-{"frequency": 0.16077090905094915, "name": "sludge", "weight": 0.4959178912992769}
-{"frequency": 0.14966327253660686, "name": "hard rock", "weight": 0.3594588290179613}
-{"frequency": 0.03005602658202518, "name": "90s", "weight": 0.2225332400279916}
-{"frequency": 0.08032648497787333, "name": "drone", "weight": 0.22171681828784698}
-{"frequency": 0.07835566947889377, "name": "grindcore", "weight": 0.21763470958712386}
-{"frequency": 0.13754592461584242, "name": "blues", "weight": 0.21366923256356427}
-{"frequency": 0.16022268594191008, "name": "alternative", "weight": 0.20060648472125028}
-{"frequency": 0.053826298578625996, "name": "alternative metal", "weight": 0.18929321203638907}
-{"frequency": 0.10537043861714797, "name": "hardcore", "weight": 0.18369489153254023}
-{"frequency": 0.04797602527300657, "name": "melodic death metal", "weight": 0.18206204805225099}
-{"frequency": 0.12180020446483407, "name": "punk", "weight": 0.17063214369022628}
-{"frequency": 0.06006820318511097, "name": "death metal", "weight": 0.16200139958012597}
-{"frequency": 0.03603810799896644, "name": "classic metal", "weight": 0.158852344296711}
-{"frequency": 0.11556341753986298, "name": "indie", "weight": 0.15710286913925822}
-{"frequency": 0.03750354046856149, "name": "speed metal", "weight": 0.1550034989503149}
-{"frequency": 0.06721413420891635, "name": "indie rock", "weight": 0.1516211803125729}
-{"frequency": 0.04694276341212863, "name": "black metal", "weight": 0.13435969209237228}
-{"frequency": 0.047423626407748144, "name": "hardcore punk", "weight": 0.13331000699790063}
-{"frequency": 0.05126103639058966, "name": "grunge", "weight": 0.12596221133659902}
-{"frequency": 0.05216498723434318, "name": "alternative rock", "weight": 0.12432936785630977}
-{"frequency": 0.03817227618496473, "name": "thrash metal", "weight": 0.12013062747842314}
+{"frequency": 0.21771941702943998, "name": "stoner metal", "weight": 1.0, "id": "74438"}
+{"frequency": 0.232961213269763, "name": "doom metal", "weight": 0.838465127128528, "id": "74438"}
+{"frequency": 0.6329007592293209, "name": "metal", "weight": 0.834383018427805, "id": "74438"}
+{"frequency": 0.2905778177558288, "name": "heavy metal", "weight": 0.7485421040354561, "id": "74438"}
+{"frequency": 0.18371038710533505, "name": "stoner rock", "weight": 0.7074877536738978, "id": "74438"}
+{"frequency": 1.0, "name": "rock", "weight": 0.6505714952181012, "id": "74438"}
+{"frequency": 0.12011500131844842, "name": "sludge metal", "weight": 0.5510846745976207, "id": "74438"}
+{"frequency": 0.16077090905094915, "name": "sludge", "weight": 0.4959178912992769, "id": "74438"}
+{"frequency": 0.14966327253660686, "name": "hard rock", "weight": 0.3594588290179613, "id": "74438"}
+{"frequency": 0.03005602658202518, "name": "90s", "weight": 0.2225332400279916, "id": "74438"}
+{"frequency": 0.08032648497787333, "name": "drone", "weight": 0.22171681828784698, "id": "74438"}
+{"frequency": 0.07835566947889377, "name": "grindcore", "weight": 0.21763470958712386, "id": "74438"}
+{"frequency": 0.13754592461584242, "name": "blues", "weight": 0.21366923256356427, "id": "74438"}
+{"frequency": 0.16022268594191008, "name": "alternative", "weight": 0.20060648472125028, "id": "74438"}
+{"frequency": 0.053826298578625996, "name": "alternative metal", "weight": 0.18929321203638907, "id": "74438"}
+{"frequency": 0.10537043861714797, "name": "hardcore", "weight": 0.18369489153254023, "id": "74438"}
+{"frequency": 0.04797602527300657, "name": "melodic death metal", "weight": 0.18206204805225099, "id": "74438"}
+{"frequency": 0.12180020446483407, "name": "punk", "weight": 0.17063214369022628, "id": "74438"}
+{"frequency": 0.06006820318511097, "name": "death metal", "weight": 0.16200139958012597, "id": "74438"}
+{"frequency": 0.03603810799896644, "name": "classic metal", "weight": 0.158852344296711, "id": "74438"}
+{"frequency": 0.11556341753986298, "name": "indie", "weight": 0.15710286913925822, "id": "74438"}
+{"frequency": 0.03750354046856149, "name": "speed metal", "weight": 0.1550034989503149, "id": "74438"}
+{"frequency": 0.06721413420891635, "name": "indie rock", "weight": 0.1516211803125729, "id": "74438"}
+{"frequency": 0.04694276341212863, "name": "black metal", "weight": 0.13435969209237228, "id": "74438"}
+{"frequency": 0.047423626407748144, "name": "hardcore punk", "weight": 0.13331000699790063, "id": "74438"}
+{"frequency": 0.05126103639058966, "name": "grunge", "weight": 0.12596221133659902, "id": "74438"}
+{"frequency": 0.05216498723434318, "name": "alternative rock", "weight": 0.12432936785630977, "id": "74438"}
+{"frequency": 0.03817227618496473, "name": "thrash metal", "weight": 0.12013062747842314, "id": "74438"}

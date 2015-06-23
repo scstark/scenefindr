@@ -1,20 +1,20 @@
-{"frequency": 0.8167117031343093, "name": "gospel", "weight": 1.0}
-{"frequency": 0.9947780628545542, "name": "soul", "weight": 0.889382668341223}
-{"frequency": 0.5454474790315446, "name": "blues", "weight": 0.5088397256303738}
-{"frequency": 0.41907274314793874, "name": "r&b", "weight": 0.454352236498889}
-{"frequency": 1.0, "name": "rock", "weight": 0.39068689015554053}
-{"frequency": 0.08627557811971173, "name": "traditional gospel", "weight": 0.22973625736643802}
-{"frequency": 0.4258316760943904, "name": "pop", "weight": 0.21640421215341513}
-{"frequency": 0.045998261367178425, "name": "70s", "weight": 0.20452130228963386}
-{"frequency": 0.0410442682219968, "name": "90s", "weight": 0.18249444498116124}
-{"frequency": 0.2030553840562433, "name": "country", "weight": 0.1623997681383441}
-{"frequency": 0.036416195536715545, "name": "50s", "weight": 0.16191672302193025}
-{"frequency": 0.1489404378487276, "name": "funk", "weight": 0.15853540720703313}
-{"frequency": 0.13435256659064615, "name": "soundtrack", "weight": 0.14587962515698966}
-{"frequency": 0.10695224133959783, "name": "americana", "weight": 0.14491353492416192}
-{"frequency": 0.12707251375435905, "name": "roots", "weight": 0.14452709883103082}
-{"frequency": 0.030984185445249914, "name": "80s", "weight": 0.13776446720123658}
-{"frequency": 0.18337110153626712, "name": "60s", "weight": 0.12095449715003381}
-{"frequency": 0.0435522200578998, "name": "southern soul", "weight": 0.1156410008694812}
-{"frequency": 0.046159801827264486, "name": "southern gospel", "weight": 0.11177663993817022}
-{"frequency": 0.05045201944887297, "name": "acoustic blues", "weight": 0.1057868804946382}
+{"frequency": 0.8167117031343093, "name": "gospel", "weight": 1.0, "id": "390099"}
+{"frequency": 0.9947780628545542, "name": "soul", "weight": 0.889382668341223, "id": "390099"}
+{"frequency": 0.5454474790315446, "name": "blues", "weight": 0.5088397256303738, "id": "390099"}
+{"frequency": 0.41907274314793874, "name": "r&b", "weight": 0.454352236498889, "id": "390099"}
+{"frequency": 1.0, "name": "rock", "weight": 0.39068689015554053, "id": "390099"}
+{"frequency": 0.08627557811971173, "name": "traditional gospel", "weight": 0.22973625736643802, "id": "390099"}
+{"frequency": 0.4258316760943904, "name": "pop", "weight": 0.21640421215341513, "id": "390099"}
+{"frequency": 0.045998261367178425, "name": "70s", "weight": 0.20452130228963386, "id": "390099"}
+{"frequency": 0.0410442682219968, "name": "90s", "weight": 0.18249444498116124, "id": "390099"}
+{"frequency": 0.2030553840562433, "name": "country", "weight": 0.1623997681383441, "id": "390099"}
+{"frequency": 0.036416195536715545, "name": "50s", "weight": 0.16191672302193025, "id": "390099"}
+{"frequency": 0.1489404378487276, "name": "funk", "weight": 0.15853540720703313, "id": "390099"}
+{"frequency": 0.13435256659064615, "name": "soundtrack", "weight": 0.14587962515698966, "id": "390099"}
+{"frequency": 0.10695224133959783, "name": "americana", "weight": 0.14491353492416192, "id": "390099"}
+{"frequency": 0.12707251375435905, "name": "roots", "weight": 0.14452709883103082, "id": "390099"}
+{"frequency": 0.030984185445249914, "name": "80s", "weight": 0.13776446720123658, "id": "390099"}
+{"frequency": 0.18337110153626712, "name": "60s", "weight": 0.12095449715003381, "id": "390099"}
+{"frequency": 0.0435522200578998, "name": "southern soul", "weight": 0.1156410008694812, "id": "390099"}
+{"frequency": 0.046159801827264486, "name": "southern gospel", "weight": 0.11177663993817022, "id": "390099"}
+{"frequency": 0.05045201944887297, "name": "acoustic blues", "weight": 0.1057868804946382, "id": "390099"}

@@ -1,2 +1,2 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0}
-{"frequency": 0.07420423954502883, "name": "blues-rock", "weight": 0.13509749303621169}
+{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "27818"}
+{"frequency": 0.07420423954502883, "name": "blues-rock", "weight": 0.13509749303621169, "id": "27818"}

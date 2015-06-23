@@ -1,13 +1,13 @@
-{"frequency": 1.0, "name": "funk", "weight": 1.0}
-{"frequency": 0.6312268004284073, "name": "breakbeat", "weight": 0.9656862745098039}
-{"frequency": 0.9054356795390547, "name": "indie", "weight": 0.696078431372549}
-{"frequency": 0.12403913314532118, "name": "90s", "weight": 0.5196078431372549}
-{"frequency": 0.2868099712922329, "name": "electronica", "weight": 0.2647058823529412}
-{"frequency": 0.1549803068163522, "name": "remix", "weight": 0.18137254901960784}
-{"frequency": 0.1236771082738451, "name": "trip hop", "weight": 0.18137254901960784}
-{"frequency": 0.12274473983568465, "name": "dance music", "weight": 0.1715686274509804}
-{"frequency": 0.12324233446145005, "name": "reggae", "weight": 0.13725490196078433}
-{"frequency": 0.12108377191423086, "name": "disco", "weight": 0.1323529411764706}
-{"frequency": 0.15155369567590488, "name": "club", "weight": 0.12254901960784313}
-{"frequency": 0.1518379215510318, "name": "hip hop", "weight": 0.12254901960784313}
-{"frequency": 0.12256296910988973, "name": "latin", "weight": 0.12254901960784313}
+{"frequency": 1.0, "name": "funk", "weight": 1.0, "id": "1019642"}
+{"frequency": 0.6312268004284073, "name": "breakbeat", "weight": 0.9656862745098039, "id": "1019642"}
+{"frequency": 0.9054356795390547, "name": "indie", "weight": 0.696078431372549, "id": "1019642"}
+{"frequency": 0.12403913314532118, "name": "90s", "weight": 0.5196078431372549, "id": "1019642"}
+{"frequency": 0.2868099712922329, "name": "electronica", "weight": 0.2647058823529412, "id": "1019642"}
+{"frequency": 0.1549803068163522, "name": "remix", "weight": 0.18137254901960784, "id": "1019642"}
+{"frequency": 0.1236771082738451, "name": "trip hop", "weight": 0.18137254901960784, "id": "1019642"}
+{"frequency": 0.12274473983568465, "name": "dance music", "weight": 0.1715686274509804, "id": "1019642"}
+{"frequency": 0.12324233446145005, "name": "reggae", "weight": 0.13725490196078433, "id": "1019642"}
+{"frequency": 0.12108377191423086, "name": "disco", "weight": 0.1323529411764706, "id": "1019642"}
+{"frequency": 0.15155369567590488, "name": "club", "weight": 0.12254901960784313, "id": "1019642"}
+{"frequency": 0.1518379215510318, "name": "hip hop", "weight": 0.12254901960784313, "id": "1019642"}
+{"frequency": 0.12256296910988973, "name": "latin", "weight": 0.12254901960784313, "id": "1019642"}

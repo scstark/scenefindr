@@ -1,11 +1,11 @@
-{"frequency": 1.0, "name": "rock", "weight": 1.0}
-{"frequency": 0.17462555496073104, "name": "southern rock", "weight": 0.9449412589864984}
-{"frequency": 0.2519124293496261, "name": "country", "weight": 0.5156934946519376}
-{"frequency": 0.1568016106774139, "name": "singer-songwriter", "weight": 0.44871120462914255}
-{"frequency": 0.11542830488354162, "name": "americana", "weight": 0.40031562335612836}
-{"frequency": 0.1493648284842528, "name": "blues", "weight": 0.35665439242503943}
-{"frequency": 0.06268352457808181, "name": "alternative country", "weight": 0.2617920392775732}
-{"frequency": 0.039020876197255625, "name": "roots rock", "weight": 0.21427318954935998}
-{"frequency": 0.025579580997002152, "name": "progressive country", "weight": 0.2086621076626337}
-{"frequency": 0.02320134854301237, "name": "classic country", "weight": 0.14273189549359985}
-{"frequency": 0.02744214901405787, "name": "country rock", "weight": 0.12835349815886377}
+{"frequency": 1.0, "name": "rock", "weight": 1.0, "id": "562649"}
+{"frequency": 0.17462555496073104, "name": "southern rock", "weight": 0.9449412589864984, "id": "562649"}
+{"frequency": 0.2519124293496261, "name": "country", "weight": 0.5156934946519376, "id": "562649"}
+{"frequency": 0.1568016106774139, "name": "singer-songwriter", "weight": 0.44871120462914255, "id": "562649"}
+{"frequency": 0.11542830488354162, "name": "americana", "weight": 0.40031562335612836, "id": "562649"}
+{"frequency": 0.1493648284842528, "name": "blues", "weight": 0.35665439242503943, "id": "562649"}
+{"frequency": 0.06268352457808181, "name": "alternative country", "weight": 0.2617920392775732, "id": "562649"}
+{"frequency": 0.039020876197255625, "name": "roots rock", "weight": 0.21427318954935998, "id": "562649"}
+{"frequency": 0.025579580997002152, "name": "progressive country", "weight": 0.2086621076626337, "id": "562649"}
+{"frequency": 0.02320134854301237, "name": "classic country", "weight": 0.14273189549359985, "id": "562649"}
+{"frequency": 0.02744214901405787, "name": "country rock", "weight": 0.12835349815886377, "id": "562649"}

@@ -1,18 +1,18 @@
-{"frequency": 1.0, "name": "folk", "weight": 1.0}
-{"frequency": 0.816126268665646, "name": "country", "weight": 0.8524252923343438}
-{"frequency": 0.4153443816370122, "name": "singer-songwriter", "weight": 0.6064313555651797}
-{"frequency": 0.23520812477249806, "name": "americana", "weight": 0.4161974880900823}
-{"frequency": 0.32900033794356287, "name": "blues", "weight": 0.40082286704200953}
-{"frequency": 0.6763028626149491, "name": "rock", "weight": 0.34506279774794285}
-{"frequency": 0.3593676927000919, "name": "jazz", "weight": 0.3303378085751408}
-{"frequency": 0.11480766782873297, "name": "roots", "weight": 0.1705283672585535}
-{"frequency": 0.05228045625295786, "name": "contemporary folk", "weight": 0.16468168038111736}
-{"frequency": 0.08440273172002395, "name": "folk rock", "weight": 0.163382416630576}
-{"frequency": 0.08457638330432489, "name": "lo-fi", "weight": 0.16327414465136422}
-{"frequency": 0.08366963698071721, "name": "gothic", "weight": 0.1564530099610221}
-{"frequency": 0.050785644476692725, "name": "country blues", "weight": 0.14898224339540928}
-{"frequency": 0.214692139528731, "name": "pop", "weight": 0.14248592464270246}
-{"frequency": 0.06498702826780729, "name": "alternative country", "weight": 0.1384798614118666}
-{"frequency": 0.06943936777251049, "name": "romantic", "weight": 0.12570376786487658}
-{"frequency": 0.10987976304892483, "name": "indie", "weight": 0.11715028150714595}
-{"frequency": 0.053113211290948946, "name": "indie pop", "weight": 0.1043741879601559}
+{"frequency": 1.0, "name": "folk", "weight": 1.0, "id": "166590"}
+{"frequency": 0.816126268665646, "name": "country", "weight": 0.8524252923343438, "id": "166590"}
+{"frequency": 0.4153443816370122, "name": "singer-songwriter", "weight": 0.6064313555651797, "id": "166590"}
+{"frequency": 0.23520812477249806, "name": "americana", "weight": 0.4161974880900823, "id": "166590"}
+{"frequency": 0.32900033794356287, "name": "blues", "weight": 0.40082286704200953, "id": "166590"}
+{"frequency": 0.6763028626149491, "name": "rock", "weight": 0.34506279774794285, "id": "166590"}
+{"frequency": 0.3593676927000919, "name": "jazz", "weight": 0.3303378085751408, "id": "166590"}
+{"frequency": 0.11480766782873297, "name": "roots", "weight": 0.1705283672585535, "id": "166590"}
+{"frequency": 0.05228045625295786, "name": "contemporary folk", "weight": 0.16468168038111736, "id": "166590"}
+{"frequency": 0.08440273172002395, "name": "folk rock", "weight": 0.163382416630576, "id": "166590"}
+{"frequency": 0.08457638330432489, "name": "lo-fi", "weight": 0.16327414465136422, "id": "166590"}
+{"frequency": 0.08366963698071721, "name": "gothic", "weight": 0.1564530099610221, "id": "166590"}
+{"frequency": 0.050785644476692725, "name": "country blues", "weight": 0.14898224339540928, "id": "166590"}
+{"frequency": 0.214692139528731, "name": "pop", "weight": 0.14248592464270246, "id": "166590"}
+{"frequency": 0.06498702826780729, "name": "alternative country", "weight": 0.1384798614118666, "id": "166590"}
+{"frequency": 0.06943936777251049, "name": "romantic", "weight": 0.12570376786487658, "id": "166590"}
+{"frequency": 0.10987976304892483, "name": "indie", "weight": 0.11715028150714595, "id": "166590"}
+{"frequency": 0.053113211290948946, "name": "indie pop", "weight": 0.1043741879601559, "id": "166590"}

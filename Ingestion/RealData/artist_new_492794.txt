@@ -1,10 +1,10 @@
-{"frequency": 1.0, "name": "hip hop", "weight": 0.7266048626902222}
-{"frequency": 0.7892814953771817, "name": "rap", "weight": 0.6115095329718384}
-{"frequency": 0.1621280073281291, "name": "underground rap", "weight": 0.33968864789225117}
-{"frequency": 0.35401649318061257, "name": "hardcore", "weight": 0.31397586146580375}
-{"frequency": 0.13434135782819426, "name": "hardcore rap", "weight": 0.28791324121042505}
-{"frequency": 0.10191050281033398, "name": "horrorcore", "weight": 0.19695644568829807}
-{"frequency": 0.2694063423806193, "name": "metal", "weight": 0.18068917264299458}
-{"frequency": 0.09384472132664412, "name": "underground hip hop", "weight": 0.16547140108448488}
-{"frequency": 0.1998023928787864, "name": "indie", "weight": 0.13818436242784676}
-{"frequency": 0.058195300744573034, "name": "hardcore hip hop", "weight": 0.11631974811964317}
+{"frequency": 1.0, "name": "hip hop", "weight": 0.7266048626902222, "id": "492794"}
+{"frequency": 0.7892814953771817, "name": "rap", "weight": 0.6115095329718384, "id": "492794"}
+{"frequency": 0.1621280073281291, "name": "underground rap", "weight": 0.33968864789225117, "id": "492794"}
+{"frequency": 0.35401649318061257, "name": "hardcore", "weight": 0.31397586146580375, "id": "492794"}
+{"frequency": 0.13434135782819426, "name": "hardcore rap", "weight": 0.28791324121042505, "id": "492794"}
+{"frequency": 0.10191050281033398, "name": "horrorcore", "weight": 0.19695644568829807, "id": "492794"}
+{"frequency": 0.2694063423806193, "name": "metal", "weight": 0.18068917264299458, "id": "492794"}
+{"frequency": 0.09384472132664412, "name": "underground hip hop", "weight": 0.16547140108448488, "id": "492794"}
+{"frequency": 0.1998023928787864, "name": "indie", "weight": 0.13818436242784676, "id": "492794"}
+{"frequency": 0.058195300744573034, "name": "hardcore hip hop", "weight": 0.11631974811964317, "id": "492794"}

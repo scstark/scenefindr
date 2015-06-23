@@ -1,20 +1,20 @@
-{"frequency": 1.0, "name": "soul", "weight": 1.0}
-{"frequency": 0.7684299434342103, "name": "funk", "weight": 0.9148617354583845}
-{"frequency": 0.44786819090360686, "name": "r&b", "weight": 0.5431140171638741}
-{"frequency": 0.6030021269904597, "name": "jazz", "weight": 0.4747309630840485}
-{"frequency": 0.1529524026006574, "name": "jazz funk", "weight": 0.33033646642146847}
-{"frequency": 0.057329655964909146, "name": "70s", "weight": 0.2851110202969623}
-{"frequency": 0.0818368520844098, "name": "smooth jazz", "weight": 0.2009263043182128}
-{"frequency": 0.03985410876868269, "name": "80s", "weight": 0.19820187985288107}
-{"frequency": 0.03985410876868269, "name": "90s", "weight": 0.19820187985288107}
-{"frequency": 0.08395272926306828, "name": "soul music", "weight": 0.18921127911728647}
-{"frequency": 0.11475975431956502, "name": "fusion", "weight": 0.15992371611497072}
-{"frequency": 0.2720040395756421, "name": "pop", "weight": 0.1546110884075739}
-{"frequency": 0.19940675568437877, "name": "60s", "weight": 0.14711892112791172}
-{"frequency": 0.12376691596627402, "name": "instrumental", "weight": 0.13049993188938835}
-{"frequency": 0.05353166791653822, "name": "soul jazz", "weight": 0.12627707396812424}
-{"frequency": 0.10848762232492425, "name": "blues", "weight": 0.11319983653453208}
-{"frequency": 0.2515659943157652, "name": "rock", "weight": 0.10993052717613404}
-{"frequency": 0.046121739436650565, "name": "easy listening", "weight": 0.10952186350633429}
-{"frequency": 0.04778993154210389, "name": "jazz fusion", "weight": 0.10652499659446941}
-{"frequency": 0.05128240603693193, "name": "motown", "weight": 0.10066748399400627}
+{"frequency": 1.0, "name": "soul", "weight": 1.0, "id": "161898"}
+{"frequency": 0.7684299434342103, "name": "funk", "weight": 0.9148617354583845, "id": "161898"}
+{"frequency": 0.44786819090360686, "name": "r&b", "weight": 0.5431140171638741, "id": "161898"}
+{"frequency": 0.6030021269904597, "name": "jazz", "weight": 0.4747309630840485, "id": "161898"}
+{"frequency": 0.1529524026006574, "name": "jazz funk", "weight": 0.33033646642146847, "id": "161898"}
+{"frequency": 0.057329655964909146, "name": "70s", "weight": 0.2851110202969623, "id": "161898"}
+{"frequency": 0.0818368520844098, "name": "smooth jazz", "weight": 0.2009263043182128, "id": "161898"}
+{"frequency": 0.03985410876868269, "name": "80s", "weight": 0.19820187985288107, "id": "161898"}
+{"frequency": 0.03985410876868269, "name": "90s", "weight": 0.19820187985288107, "id": "161898"}
+{"frequency": 0.08395272926306828, "name": "soul music", "weight": 0.18921127911728647, "id": "161898"}
+{"frequency": 0.11475975431956502, "name": "fusion", "weight": 0.15992371611497072, "id": "161898"}
+{"frequency": 0.2720040395756421, "name": "pop", "weight": 0.1546110884075739, "id": "161898"}
+{"frequency": 0.19940675568437877, "name": "60s", "weight": 0.14711892112791172, "id": "161898"}
+{"frequency": 0.12376691596627402, "name": "instrumental", "weight": 0.13049993188938835, "id": "161898"}
+{"frequency": 0.05353166791653822, "name": "soul jazz", "weight": 0.12627707396812424, "id": "161898"}
+{"frequency": 0.10848762232492425, "name": "blues", "weight": 0.11319983653453208, "id": "161898"}
+{"frequency": 0.2515659943157652, "name": "rock", "weight": 0.10993052717613404, "id": "161898"}
+{"frequency": 0.046121739436650565, "name": "easy listening", "weight": 0.10952186350633429, "id": "161898"}
+{"frequency": 0.04778993154210389, "name": "jazz fusion", "weight": 0.10652499659446941, "id": "161898"}
+{"frequency": 0.05128240603693193, "name": "motown", "weight": 0.10066748399400627, "id": "161898"}

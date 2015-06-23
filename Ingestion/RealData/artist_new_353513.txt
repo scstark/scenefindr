@@ -1,7 +1,7 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0}
-{"frequency": 0.2007023013561721, "name": "jump blues", "weight": 0.5754112071368832}
-{"frequency": 0.43693052954552064, "name": "jazz", "weight": 0.32924449400613326}
-{"frequency": 0.15299126315212155, "name": "r&b", "weight": 0.17786451073320322}
-{"frequency": 0.09383593660299311, "name": "swing", "weight": 0.14218009478672985}
-{"frequency": 0.04162322157914179, "name": "piano blues", "weight": 0.14078617228882073}
-{"frequency": 0.08788395617233959, "name": "rock 'n roll", "weight": 0.12517424031223864}
+{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "353513"}
+{"frequency": 0.2007023013561721, "name": "jump blues", "weight": 0.5754112071368832, "id": "353513"}
+{"frequency": 0.43693052954552064, "name": "jazz", "weight": 0.32924449400613326, "id": "353513"}
+{"frequency": 0.15299126315212155, "name": "r&b", "weight": 0.17786451073320322, "id": "353513"}
+{"frequency": 0.09383593660299311, "name": "swing", "weight": 0.14218009478672985, "id": "353513"}
+{"frequency": 0.04162322157914179, "name": "piano blues", "weight": 0.14078617228882073, "id": "353513"}
+{"frequency": 0.08788395617233959, "name": "rock 'n roll", "weight": 0.12517424031223864, "id": "353513"}

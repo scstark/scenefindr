@@ -1,26 +1,26 @@
-{"frequency": 0.4792320931758842, "name": "world music", "weight": 1.0}
-{"frequency": 0.831737770576747, "name": "soul", "weight": 0.9579084967320262}
-{"frequency": 1.0, "name": "pop", "weight": 0.654640522875817}
-{"frequency": 0.3533147657305653, "name": "reggae", "weight": 0.5388235294117647}
-{"frequency": 0.15371271748877047, "name": "world beat", "weight": 0.509281045751634}
-{"frequency": 0.14187501252584178, "name": "afropop", "weight": 0.4538562091503268}
-{"frequency": 0.4722980385755775, "name": "jazz", "weight": 0.42823529411764705}
-{"frequency": 0.11635853232521828, "name": "world fusion", "weight": 0.3801307189542484}
-{"frequency": 0.2707497843426541, "name": "funk", "weight": 0.3712418300653595}
-{"frequency": 0.26094737956845543, "name": "r&b", "weight": 0.36444444444444446}
-{"frequency": 0.33475328494031126, "name": "folk", "weight": 0.33019607843137255}
-{"frequency": 0.2737720743746003, "name": "hip hop", "weight": 0.302483660130719}
-{"frequency": 0.08579303471175218, "name": "nu-soul", "weight": 0.29908496732026146}
-{"frequency": 0.18988028413653116, "name": "singer-songwriter", "weight": 0.2734640522875817}
-{"frequency": 0.16159181848362061, "name": "fusion", "weight": 0.2593464052287582}
-{"frequency": 0.2034536594086317, "name": "electronica", "weight": 0.2580392156862745}
-{"frequency": 0.21320207476165204, "name": "blues", "weight": 0.25620915032679736}
-{"frequency": 0.24097320219913007, "name": "dance", "weight": 0.23895424836601306}
-{"frequency": 0.06327060168304692, "name": "contemporary r&b", "weight": 0.21568627450980393}
-{"frequency": 0.07126393236030029, "name": "afrobeat", "weight": 0.19790849673202615}
-{"frequency": 0.07673039688543916, "name": "neo soul", "weight": 0.1869281045751634}
-{"frequency": 0.15249978721208268, "name": "house", "weight": 0.13594771241830064}
-{"frequency": 0.26545168327947355, "name": "rock", "weight": 0.13359477124183006}
-{"frequency": 0.022868307135521765, "name": "00s", "weight": 0.13098039215686275}
-{"frequency": 0.022868307135521765, "name": "90s", "weight": 0.13098039215686275}
-{"frequency": 0.03119746677865386, "name": "adult alternative", "weight": 0.10875816993464052}
+{"frequency": 0.4792320931758842, "name": "world music", "weight": 1.0, "id": "221742"}
+{"frequency": 0.831737770576747, "name": "soul", "weight": 0.9579084967320262, "id": "221742"}
+{"frequency": 1.0, "name": "pop", "weight": 0.654640522875817, "id": "221742"}
+{"frequency": 0.3533147657305653, "name": "reggae", "weight": 0.5388235294117647, "id": "221742"}
+{"frequency": 0.15371271748877047, "name": "world beat", "weight": 0.509281045751634, "id": "221742"}
+{"frequency": 0.14187501252584178, "name": "afropop", "weight": 0.4538562091503268, "id": "221742"}
+{"frequency": 0.4722980385755775, "name": "jazz", "weight": 0.42823529411764705, "id": "221742"}
+{"frequency": 0.11635853232521828, "name": "world fusion", "weight": 0.3801307189542484, "id": "221742"}
+{"frequency": 0.2707497843426541, "name": "funk", "weight": 0.3712418300653595, "id": "221742"}
+{"frequency": 0.26094737956845543, "name": "r&b", "weight": 0.36444444444444446, "id": "221742"}
+{"frequency": 0.33475328494031126, "name": "folk", "weight": 0.33019607843137255, "id": "221742"}
+{"frequency": 0.2737720743746003, "name": "hip hop", "weight": 0.302483660130719, "id": "221742"}
+{"frequency": 0.08579303471175218, "name": "nu-soul", "weight": 0.29908496732026146, "id": "221742"}
+{"frequency": 0.18988028413653116, "name": "singer-songwriter", "weight": 0.2734640522875817, "id": "221742"}
+{"frequency": 0.16159181848362061, "name": "fusion", "weight": 0.2593464052287582, "id": "221742"}
+{"frequency": 0.2034536594086317, "name": "electronica", "weight": 0.2580392156862745, "id": "221742"}
+{"frequency": 0.21320207476165204, "name": "blues", "weight": 0.25620915032679736, "id": "221742"}
+{"frequency": 0.24097320219913007, "name": "dance", "weight": 0.23895424836601306, "id": "221742"}
+{"frequency": 0.06327060168304692, "name": "contemporary r&b", "weight": 0.21568627450980393, "id": "221742"}
+{"frequency": 0.07126393236030029, "name": "afrobeat", "weight": 0.19790849673202615, "id": "221742"}
+{"frequency": 0.07673039688543916, "name": "neo soul", "weight": 0.1869281045751634, "id": "221742"}
+{"frequency": 0.15249978721208268, "name": "house", "weight": 0.13594771241830064, "id": "221742"}
+{"frequency": 0.26545168327947355, "name": "rock", "weight": 0.13359477124183006, "id": "221742"}
+{"frequency": 0.022868307135521765, "name": "00s", "weight": 0.13098039215686275, "id": "221742"}
+{"frequency": 0.022868307135521765, "name": "90s", "weight": 0.13098039215686275, "id": "221742"}
+{"frequency": 0.03119746677865386, "name": "adult alternative", "weight": 0.10875816993464052, "id": "221742"}

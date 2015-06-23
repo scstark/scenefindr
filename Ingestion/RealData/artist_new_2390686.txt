@@ -1,5 +1,5 @@
-{"frequency": 0.8451118617872603, "name": "blues", "weight": 0.5418006430868167}
-{"frequency": 1.0, "name": "rock", "weight": 0.2684887459807074}
-{"frequency": 0.33527587350831506, "name": "roots", "weight": 0.2620578778135048}
-{"frequency": 0.21465880382800323, "name": "blues-rock", "weight": 0.2491961414790997}
-{"frequency": 0.09822540666951494, "name": "swamp blues", "weight": 0.2090032154340836}
+{"frequency": 0.8451118617872603, "name": "blues", "weight": 0.5418006430868167, "id": "2390686"}
+{"frequency": 1.0, "name": "rock", "weight": 0.2684887459807074, "id": "2390686"}
+{"frequency": 0.33527587350831506, "name": "roots", "weight": 0.2620578778135048, "id": "2390686"}
+{"frequency": 0.21465880382800323, "name": "blues-rock", "weight": 0.2491961414790997, "id": "2390686"}
+{"frequency": 0.09822540666951494, "name": "swamp blues", "weight": 0.2090032154340836, "id": "2390686"}

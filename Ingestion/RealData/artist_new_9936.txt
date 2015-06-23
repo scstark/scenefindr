@@ -1,5 +1,5 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0}
-{"frequency": 0.2063580372257917, "name": "chicago blues", "weight": 0.5114603798297315}
-{"frequency": 0.0494937065239406, "name": "electric blues", "weight": 0.1325038201266099}
-{"frequency": 0.2840765881643256, "name": "rock", "weight": 0.11896965728006985}
-{"frequency": 0.037817235256913835, "name": "modern blues", "weight": 0.1130757476533508}
+{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "9936"}
+{"frequency": 0.2063580372257917, "name": "chicago blues", "weight": 0.5114603798297315, "id": "9936"}
+{"frequency": 0.0494937065239406, "name": "electric blues", "weight": 0.1325038201266099, "id": "9936"}
+{"frequency": 0.2840765881643256, "name": "rock", "weight": 0.11896965728006985, "id": "9936"}
+{"frequency": 0.037817235256913835, "name": "modern blues", "weight": 0.1130757476533508, "id": "9936"}

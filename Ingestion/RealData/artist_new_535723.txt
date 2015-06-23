@@ -1,30 +1,30 @@
-{"frequency": 0.4971845332689897, "name": "metal", "weight": 1.0}
-{"frequency": 1.0, "name": "rock", "weight": 0.9925390006782727}
-{"frequency": 0.09641317841512605, "name": "avantgarde metal", "weight": 0.8941894641645942}
-{"frequency": 0.36221315564198703, "name": "experimental", "weight": 0.8286231064888085}
-{"frequency": 0.1639929685560965, "name": "chamber music", "weight": 0.745647750395659}
-{"frequency": 0.12600274730057842, "name": "progressive metal", "weight": 0.6448112141080714}
-{"frequency": 0.3149538118062598, "name": "jazz", "weight": 0.5631924033461452}
-{"frequency": 0.14255181149965923, "name": "progressive rock", "weight": 0.5503052226995252}
-{"frequency": 0.13512819971677983, "name": "post rock", "weight": 0.5136784987565001}
-{"frequency": 0.12060791897597031, "name": "avant-garde", "weight": 0.43092923355188784}
-{"frequency": 0.060090239822497726, "name": "modern classical", "weight": 0.3904589645037305}
-{"frequency": 0.09000575587796385, "name": "death metal", "weight": 0.3703368754239204}
-{"frequency": 0.14659993417851824, "name": "classical", "weight": 0.3398146054713995}
-{"frequency": 0.11199811040357625, "name": "psychedelic", "weight": 0.3253447886050192}
-{"frequency": 0.07325601892868353, "name": "grindcore", "weight": 0.3104227899615645}
-{"frequency": 0.05246375100809861, "name": "alternative metal", "weight": 0.281483156228804}
-{"frequency": 0.05285560881820097, "name": "experimental rock", "weight": 0.27990052000904364}
-{"frequency": 0.07842976840498096, "name": "fusion", "weight": 0.24824779561383675}
-{"frequency": 0.08721833217591755, "name": "ambient", "weight": 0.23400406963599366}
-{"frequency": 0.06998070580061104, "name": "noise", "weight": 0.2165950712186299}
-{"frequency": 0.0334561189197981, "name": "experimental metal", "weight": 0.1939859823649107}
-{"frequency": 0.15007812460633643, "name": "pop", "weight": 0.1937598914763735}
-{"frequency": 0.03569871873903212, "name": "free jazz", "weight": 0.18471625593488583}
-{"frequency": 0.08735060407578547, "name": "alternative", "weight": 0.16685507574044767}
-{"frequency": 0.04315144672312695, "name": "alternative rock", "weight": 0.1569070766448112}
-{"frequency": 0.06845834806298683, "name": "indie", "weight": 0.14198507800135654}
-{"frequency": 0.011088606067012728, "name": "00s", "weight": 0.12525435224960435}
-{"frequency": 0.014931592178474508, "name": "contemporary classical music", "weight": 0.10490617228125707}
-{"frequency": 0.015299805329665015, "name": "jazzcore", "weight": 0.10332353606149672}
-{"frequency": 0.01583250351940818, "name": "avant-garde jazz", "weight": 0.10083653628758761}
+{"frequency": 0.4971845332689897, "name": "metal", "weight": 1.0, "id": "535723"}
+{"frequency": 1.0, "name": "rock", "weight": 0.9925390006782727, "id": "535723"}
+{"frequency": 0.09641317841512605, "name": "avantgarde metal", "weight": 0.8941894641645942, "id": "535723"}
+{"frequency": 0.36221315564198703, "name": "experimental", "weight": 0.8286231064888085, "id": "535723"}
+{"frequency": 0.1639929685560965, "name": "chamber music", "weight": 0.745647750395659, "id": "535723"}
+{"frequency": 0.12600274730057842, "name": "progressive metal", "weight": 0.6448112141080714, "id": "535723"}
+{"frequency": 0.3149538118062598, "name": "jazz", "weight": 0.5631924033461452, "id": "535723"}
+{"frequency": 0.14255181149965923, "name": "progressive rock", "weight": 0.5503052226995252, "id": "535723"}
+{"frequency": 0.13512819971677983, "name": "post rock", "weight": 0.5136784987565001, "id": "535723"}
+{"frequency": 0.12060791897597031, "name": "avant-garde", "weight": 0.43092923355188784, "id": "535723"}
+{"frequency": 0.060090239822497726, "name": "modern classical", "weight": 0.3904589645037305, "id": "535723"}
+{"frequency": 0.09000575587796385, "name": "death metal", "weight": 0.3703368754239204, "id": "535723"}
+{"frequency": 0.14659993417851824, "name": "classical", "weight": 0.3398146054713995, "id": "535723"}
+{"frequency": 0.11199811040357625, "name": "psychedelic", "weight": 0.3253447886050192, "id": "535723"}
+{"frequency": 0.07325601892868353, "name": "grindcore", "weight": 0.3104227899615645, "id": "535723"}
+{"frequency": 0.05246375100809861, "name": "alternative metal", "weight": 0.281483156228804, "id": "535723"}
+{"frequency": 0.05285560881820097, "name": "experimental rock", "weight": 0.27990052000904364, "id": "535723"}
+{"frequency": 0.07842976840498096, "name": "fusion", "weight": 0.24824779561383675, "id": "535723"}
+{"frequency": 0.08721833217591755, "name": "ambient", "weight": 0.23400406963599366, "id": "535723"}
+{"frequency": 0.06998070580061104, "name": "noise", "weight": 0.2165950712186299, "id": "535723"}
+{"frequency": 0.0334561189197981, "name": "experimental metal", "weight": 0.1939859823649107, "id": "535723"}
+{"frequency": 0.15007812460633643, "name": "pop", "weight": 0.1937598914763735, "id": "535723"}
+{"frequency": 0.03569871873903212, "name": "free jazz", "weight": 0.18471625593488583, "id": "535723"}
+{"frequency": 0.08735060407578547, "name": "alternative", "weight": 0.16685507574044767, "id": "535723"}
+{"frequency": 0.04315144672312695, "name": "alternative rock", "weight": 0.1569070766448112, "id": "535723"}
+{"frequency": 0.06845834806298683, "name": "indie", "weight": 0.14198507800135654, "id": "535723"}
+{"frequency": 0.011088606067012728, "name": "00s", "weight": 0.12525435224960435, "id": "535723"}
+{"frequency": 0.014931592178474508, "name": "contemporary classical music", "weight": 0.10490617228125707, "id": "535723"}
+{"frequency": 0.015299805329665015, "name": "jazzcore", "weight": 0.10332353606149672, "id": "535723"}
+{"frequency": 0.01583250351940818, "name": "avant-garde jazz", "weight": 0.10083653628758761, "id": "535723"}

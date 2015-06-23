@@ -1,7 +1,7 @@
-{"frequency": 1.0, "name": "country", "weight": 1.0}
-{"frequency": 0.5219703850281892, "name": "pop", "weight": 0.3316673446853025}
-{"frequency": 0.08140594997295832, "name": "adult contemporary", "weight": 0.20974022200267334}
-{"frequency": 0.06755866666418112, "name": "country pop", "weight": 0.17748590689835533}
-{"frequency": 0.2398432088535657, "name": "rock", "weight": 0.11716162027082001}
-{"frequency": 0.05825344061416897, "name": "country music", "weight": 0.11117568431452315}
-{"frequency": 0.01883750548372524, "name": "90s", "weight": 0.10472482129365955}
+{"frequency": 1.0, "name": "country", "weight": 1.0, "id": "88395"}
+{"frequency": 0.5219703850281892, "name": "pop", "weight": 0.3316673446853025, "id": "88395"}
+{"frequency": 0.08140594997295832, "name": "adult contemporary", "weight": 0.20974022200267334, "id": "88395"}
+{"frequency": 0.06755866666418112, "name": "country pop", "weight": 0.17748590689835533, "id": "88395"}
+{"frequency": 0.2398432088535657, "name": "rock", "weight": 0.11716162027082001, "id": "88395"}
+{"frequency": 0.05825344061416897, "name": "country music", "weight": 0.11117568431452315, "id": "88395"}
+{"frequency": 0.01883750548372524, "name": "90s", "weight": 0.10472482129365955, "id": "88395"}

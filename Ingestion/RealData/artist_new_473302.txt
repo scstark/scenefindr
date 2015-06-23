@@ -1,7 +1,7 @@
-{"frequency": 1.0, "name": "rock", "weight": 1.0}
-{"frequency": 0.24975144015425935, "name": "hard rock", "weight": 0.9220338983050848}
-{"frequency": 0.28042940811169453, "name": "dance", "weight": 0.5525423728813559}
-{"frequency": 0.1035868469528003, "name": "heavy metal", "weight": 0.4101694915254237}
-{"frequency": 0.13322446894071568, "name": "rap", "weight": 0.31186440677966104}
-{"frequency": 0.13742292648998705, "name": "hip hop", "weight": 0.3016949152542373}
-{"frequency": 0.03720988340486081, "name": "polish rap", "weight": 0.26440677966101694}
+{"frequency": 1.0, "name": "rock", "weight": 1.0, "id": "473302"}
+{"frequency": 0.24975144015425935, "name": "hard rock", "weight": 0.9220338983050848, "id": "473302"}
+{"frequency": 0.28042940811169453, "name": "dance", "weight": 0.5525423728813559, "id": "473302"}
+{"frequency": 0.1035868469528003, "name": "heavy metal", "weight": 0.4101694915254237, "id": "473302"}
+{"frequency": 0.13322446894071568, "name": "rap", "weight": 0.31186440677966104, "id": "473302"}
+{"frequency": 0.13742292648998705, "name": "hip hop", "weight": 0.3016949152542373, "id": "473302"}
+{"frequency": 0.03720988340486081, "name": "polish rap", "weight": 0.26440677966101694, "id": "473302"}

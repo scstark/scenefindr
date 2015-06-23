@@ -1,33 +1,33 @@
-{"frequency": 0.33187481754474696, "name": "indie rock", "weight": 1.0}
-{"frequency": 1.0, "name": "rock", "weight": 0.8690033830625035}
-{"frequency": 0.4333529916293127, "name": "indie", "weight": 0.7869225223226666}
-{"frequency": 0.13592451594899285, "name": "indie pop", "weight": 0.4549387166546503}
-{"frequency": 0.09124583577855012, "name": "dream pop", "weight": 0.43486218179801456}
-{"frequency": 0.13537424262208272, "name": "alternative rock", "weight": 0.4309799789251844}
-{"frequency": 0.3569870831303164, "name": "pop", "weight": 0.40352725861017136}
-{"frequency": 0.2267907797897715, "name": "alternative", "weight": 0.3792912206755033}
-{"frequency": 0.13860794278423333, "name": "soundtrack", "weight": 0.3347568077200377}
-{"frequency": 0.0594703553591336, "name": "noise pop", "weight": 0.308246908102712}
-{"frequency": 0.08286461130356448, "name": "shoegaze", "weight": 0.3056402861738118}
-{"frequency": 0.17212453963295665, "name": "folk", "weight": 0.29316177693971496}
-{"frequency": 0.027685575381626124, "name": "90s", "weight": 0.27380622261660476}
-{"frequency": 0.10050923863230078, "name": "noise", "weight": 0.27236426154955357}
-{"frequency": 0.13243838044426967, "name": "experimental", "weight": 0.2652653762963785}
-{"frequency": 0.054852475703697785, "name": "noise rock", "weight": 0.2583883312073651}
-{"frequency": 0.11891747595108167, "name": "instrumental", "weight": 0.24934834451777493}
-{"frequency": 0.06501176489425212, "name": "new wave", "weight": 0.23354223282125228}
-{"frequency": 0.12844706373807752, "name": "jazz", "weight": 0.2010981088126005}
-{"frequency": 0.08412139952115195, "name": "ambient", "weight": 0.1976041262270534}
-{"frequency": 0.055174786838207084, "name": "folk rock", "weight": 0.18190893461261162}
-{"frequency": 0.053064740343492484, "name": "lo-fi", "weight": 0.17447728911319393}
-{"frequency": 0.10523001905380693, "name": "electronic", "weight": 0.16920858521435306}
-{"frequency": 0.06391296410568678, "name": "psychedelic", "weight": 0.16255338028950142}
-{"frequency": 0.08997316320813885, "name": "country", "weight": 0.16005767844268204}
-{"frequency": 0.041733133520547874, "name": "power pop", "weight": 0.14868837002939383}
-{"frequency": 0.07936910687807686, "name": "punk", "weight": 0.14852198990627252}
-{"frequency": 0.014445623307710506, "name": "80s", "weight": 0.14286506572014862}
-{"frequency": 0.030633967855011844, "name": "experimental rock", "weight": 0.14203316510454217}
-{"frequency": 0.05789202162666567, "name": "electronica", "weight": 0.12678165381842382}
-{"frequency": 0.059949941057745586, "name": "blues", "weight": 0.12439687205368533}
-{"frequency": 0.026663853732455618, "name": "classic rock", "weight": 0.10093727469358327}
-{"frequency": 0.026746658937146846, "name": "psychedelic rock", "weight": 0.10071543452942155}
+{"frequency": 0.33187481754474696, "name": "indie rock", "weight": 1.0, "id": "70762"}
+{"frequency": 1.0, "name": "rock", "weight": 0.8690033830625035, "id": "70762"}
+{"frequency": 0.4333529916293127, "name": "indie", "weight": 0.7869225223226666, "id": "70762"}
+{"frequency": 0.13592451594899285, "name": "indie pop", "weight": 0.4549387166546503, "id": "70762"}
+{"frequency": 0.09124583577855012, "name": "dream pop", "weight": 0.43486218179801456, "id": "70762"}
+{"frequency": 0.13537424262208272, "name": "alternative rock", "weight": 0.4309799789251844, "id": "70762"}
+{"frequency": 0.3569870831303164, "name": "pop", "weight": 0.40352725861017136, "id": "70762"}
+{"frequency": 0.2267907797897715, "name": "alternative", "weight": 0.3792912206755033, "id": "70762"}
+{"frequency": 0.13860794278423333, "name": "soundtrack", "weight": 0.3347568077200377, "id": "70762"}
+{"frequency": 0.0594703553591336, "name": "noise pop", "weight": 0.308246908102712, "id": "70762"}
+{"frequency": 0.08286461130356448, "name": "shoegaze", "weight": 0.3056402861738118, "id": "70762"}
+{"frequency": 0.17212453963295665, "name": "folk", "weight": 0.29316177693971496, "id": "70762"}
+{"frequency": 0.027685575381626124, "name": "90s", "weight": 0.27380622261660476, "id": "70762"}
+{"frequency": 0.10050923863230078, "name": "noise", "weight": 0.27236426154955357, "id": "70762"}
+{"frequency": 0.13243838044426967, "name": "experimental", "weight": 0.2652653762963785, "id": "70762"}
+{"frequency": 0.054852475703697785, "name": "noise rock", "weight": 0.2583883312073651, "id": "70762"}
+{"frequency": 0.11891747595108167, "name": "instrumental", "weight": 0.24934834451777493, "id": "70762"}
+{"frequency": 0.06501176489425212, "name": "new wave", "weight": 0.23354223282125228, "id": "70762"}
+{"frequency": 0.12844706373807752, "name": "jazz", "weight": 0.2010981088126005, "id": "70762"}
+{"frequency": 0.08412139952115195, "name": "ambient", "weight": 0.1976041262270534, "id": "70762"}
+{"frequency": 0.055174786838207084, "name": "folk rock", "weight": 0.18190893461261162, "id": "70762"}
+{"frequency": 0.053064740343492484, "name": "lo-fi", "weight": 0.17447728911319393, "id": "70762"}
+{"frequency": 0.10523001905380693, "name": "electronic", "weight": 0.16920858521435306, "id": "70762"}
+{"frequency": 0.06391296410568678, "name": "psychedelic", "weight": 0.16255338028950142, "id": "70762"}
+{"frequency": 0.08997316320813885, "name": "country", "weight": 0.16005767844268204, "id": "70762"}
+{"frequency": 0.041733133520547874, "name": "power pop", "weight": 0.14868837002939383, "id": "70762"}
+{"frequency": 0.07936910687807686, "name": "punk", "weight": 0.14852198990627252, "id": "70762"}
+{"frequency": 0.014445623307710506, "name": "80s", "weight": 0.14286506572014862, "id": "70762"}
+{"frequency": 0.030633967855011844, "name": "experimental rock", "weight": 0.14203316510454217, "id": "70762"}
+{"frequency": 0.05789202162666567, "name": "electronica", "weight": 0.12678165381842382, "id": "70762"}
+{"frequency": 0.059949941057745586, "name": "blues", "weight": 0.12439687205368533, "id": "70762"}
+{"frequency": 0.026663853732455618, "name": "classic rock", "weight": 0.10093727469358327, "id": "70762"}
+{"frequency": 0.026746658937146846, "name": "psychedelic rock", "weight": 0.10071543452942155, "id": "70762"}

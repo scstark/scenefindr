@@ -1,5 +1,5 @@
-{"frequency": 1.0, "name": "jazz", "weight": 1.0}
-{"frequency": 0.418015268791901, "name": "pop", "weight": 0.30180180180180183}
-{"frequency": 0.03915056569387807, "name": "crossover jazz", "weight": 0.18018018018018017}
-{"frequency": 0.0452272178597973, "name": "vocal pop", "weight": 0.16441441441441443}
-{"frequency": 0.05076799160198673, "name": "easy listening", "weight": 0.15315315315315314}
+{"frequency": 1.0, "name": "jazz", "weight": 1.0, "id": "2108874"}
+{"frequency": 0.418015268791901, "name": "pop", "weight": 0.30180180180180183, "id": "2108874"}
+{"frequency": 0.03915056569387807, "name": "crossover jazz", "weight": 0.18018018018018017, "id": "2108874"}
+{"frequency": 0.0452272178597973, "name": "vocal pop", "weight": 0.16441441441441443, "id": "2108874"}
+{"frequency": 0.05076799160198673, "name": "easy listening", "weight": 0.15315315315315314, "id": "2108874"}

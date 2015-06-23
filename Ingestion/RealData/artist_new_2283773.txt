@@ -1,4 +1,4 @@
-{"frequency": 1.0, "name": "jazz", "weight": 1.0}
-{"frequency": 0.37601301036777945, "name": "samba", "weight": 0.9926739926739927}
-{"frequency": 0.3275213411249567, "name": "instrumental", "weight": 0.43956043956043955}
-{"frequency": 0.23695085590160073, "name": "latin", "weight": 0.358974358974359}
+{"frequency": 1.0, "name": "jazz", "weight": 1.0, "id": "2283773"}
+{"frequency": 0.37601301036777945, "name": "samba", "weight": 0.9926739926739927, "id": "2283773"}
+{"frequency": 0.3275213411249567, "name": "instrumental", "weight": 0.43956043956043955, "id": "2283773"}
+{"frequency": 0.23695085590160073, "name": "latin", "weight": 0.358974358974359, "id": "2283773"}

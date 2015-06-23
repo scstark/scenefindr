@@ -1,8 +1,8 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0}
-{"frequency": 0.2888245261931262, "name": "country blues", "weight": 0.6979405034324943}
-{"frequency": 0.2184158131711987, "name": "roots rock", "weight": 0.5034324942791762}
-{"frequency": 0.2693509327302679, "name": "country music", "weight": 0.4416475972540046}
-{"frequency": 0.38253358262671255, "name": "country", "weight": 0.32723112128146453}
-{"frequency": 0.6298690014473832, "name": "rock", "weight": 0.2631578947368421}
-{"frequency": 0.19202052502236075, "name": "folk", "weight": 0.15789473684210525}
-{"frequency": 0.057853704455224406, "name": "acoustic blues", "weight": 0.13043478260869565}
+{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "2072832"}
+{"frequency": 0.2888245261931262, "name": "country blues", "weight": 0.6979405034324943, "id": "2072832"}
+{"frequency": 0.2184158131711987, "name": "roots rock", "weight": 0.5034324942791762, "id": "2072832"}
+{"frequency": 0.2693509327302679, "name": "country music", "weight": 0.4416475972540046, "id": "2072832"}
+{"frequency": 0.38253358262671255, "name": "country", "weight": 0.32723112128146453, "id": "2072832"}
+{"frequency": 0.6298690014473832, "name": "rock", "weight": 0.2631578947368421, "id": "2072832"}
+{"frequency": 0.19202052502236075, "name": "folk", "weight": 0.15789473684210525, "id": "2072832"}
+{"frequency": 0.057853704455224406, "name": "acoustic blues", "weight": 0.13043478260869565, "id": "2072832"}

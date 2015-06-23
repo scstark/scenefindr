@@ -1,6 +1,6 @@
-{"frequency": 1.0, "name": "soul", "weight": 1.0}
-{"frequency": 0.20091822861133796, "name": "neo soul", "weight": 0.425}
-{"frequency": 0.26248158178780906, "name": "funk", "weight": 0.3125}
-{"frequency": 0.25403951033870315, "name": "jazz", "weight": 0.2}
-{"frequency": 0.06655474973041077, "name": "soul music", "weight": 0.15}
-{"frequency": 0.06665246372481637, "name": "old school", "weight": 0.1125}
+{"frequency": 1.0, "name": "soul", "weight": 1.0, "id": "4363658"}
+{"frequency": 0.20091822861133796, "name": "neo soul", "weight": 0.425, "id": "4363658"}
+{"frequency": 0.26248158178780906, "name": "funk", "weight": 0.3125, "id": "4363658"}
+{"frequency": 0.25403951033870315, "name": "jazz", "weight": 0.2, "id": "4363658"}
+{"frequency": 0.06655474973041077, "name": "soul music", "weight": 0.15, "id": "4363658"}
+{"frequency": 0.06665246372481637, "name": "old school", "weight": 0.1125, "id": "4363658"}

@@ -1,8 +1,8 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0}
-{"frequency": 0.715483185706927, "name": "roots", "weight": 0.8723404255319149}
-{"frequency": 0.11603888816930459, "name": "80s", "weight": 0.5531914893617021}
-{"frequency": 0.11103177744058973, "name": "roots rock", "weight": 0.2553191489361702}
-{"frequency": 0.23204871390352874, "name": "dance", "weight": 0.19148936170212766}
-{"frequency": 0.11250116459037693, "name": "swing", "weight": 0.1702127659574468}
-{"frequency": 0.1139877739239155, "name": "noise", "weight": 0.14893617021276595}
-{"frequency": 0.10524572169262013, "name": "instrumental", "weight": 0.10638297872340426}
+{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "208338"}
+{"frequency": 0.715483185706927, "name": "roots", "weight": 0.8723404255319149, "id": "208338"}
+{"frequency": 0.11603888816930459, "name": "80s", "weight": 0.5531914893617021, "id": "208338"}
+{"frequency": 0.11103177744058973, "name": "roots rock", "weight": 0.2553191489361702, "id": "208338"}
+{"frequency": 0.23204871390352874, "name": "dance", "weight": 0.19148936170212766, "id": "208338"}
+{"frequency": 0.11250116459037693, "name": "swing", "weight": 0.1702127659574468, "id": "208338"}
+{"frequency": 0.1139877739239155, "name": "noise", "weight": 0.14893617021276595, "id": "208338"}
+{"frequency": 0.10524572169262013, "name": "instrumental", "weight": 0.10638297872340426, "id": "208338"}

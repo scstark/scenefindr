@@ -1,5 +1,5 @@
-{"frequency": 1.0, "name": "jazz", "weight": 1.0}
-{"frequency": 0.20818730776581246, "name": "latin", "weight": 0.3153846153846154}
-{"frequency": 0.03269995060804872, "name": "cuban jazz", "weight": 0.12692307692307692}
-{"frequency": 0.033730887935418584, "name": "brazilian jazz", "weight": 0.125}
-{"frequency": 0.03626872109851903, "name": "jazz vocal", "weight": 0.11923076923076924}
+{"frequency": 1.0, "name": "jazz", "weight": 1.0, "id": "268683"}
+{"frequency": 0.20818730776581246, "name": "latin", "weight": 0.3153846153846154, "id": "268683"}
+{"frequency": 0.03269995060804872, "name": "cuban jazz", "weight": 0.12692307692307692, "id": "268683"}
+{"frequency": 0.033730887935418584, "name": "brazilian jazz", "weight": 0.125, "id": "268683"}
+{"frequency": 0.03626872109851903, "name": "jazz vocal", "weight": 0.11923076923076924, "id": "268683"}

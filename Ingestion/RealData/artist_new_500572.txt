@@ -1,15 +1,15 @@
-{"frequency": 1.0, "name": "rock", "weight": 1.0}
-{"frequency": 0.157206849510193, "name": "hard rock", "weight": 0.5803772109840711}
-{"frequency": 0.10202550494853384, "name": "heavy metal", "weight": 0.4039871005570214}
-{"frequency": 0.14676389960177627, "name": "punk", "weight": 0.31603635297566696}
-{"frequency": 0.14293560225953172, "name": "metal", "weight": 0.28965112870126064}
-{"frequency": 0.02029907299800535, "name": "80s", "weight": 0.23101729698035767}
-{"frequency": 0.06512253896421422, "name": "singer-songwriter", "weight": 0.18635786181960323}
-{"frequency": 0.08520756515129659, "name": "dance", "weight": 0.16788820482751882}
-{"frequency": 0.12320886772117112, "name": "pop", "weight": 0.16026580670380142}
-{"frequency": 0.054853177685530455, "name": "soundtrack", "weight": 0.1524479624743477}
-{"frequency": 0.03823383159245004, "name": "rock 'n roll", "weight": 0.12967849115606372}
-{"frequency": 0.017894841127578574, "name": "hair metal", "weight": 0.12049252418645559}
-{"frequency": 0.06270360666043955, "name": "jazz", "weight": 0.11296784911560637}
-{"frequency": 0.04884321760432983, "name": "experimental", "weight": 0.11257695690413369}
-{"frequency": 0.03875365643850355, "name": "pop rock", "weight": 0.10124108277142578}
+{"frequency": 1.0, "name": "rock", "weight": 1.0, "id": "500572"}
+{"frequency": 0.157206849510193, "name": "hard rock", "weight": 0.5803772109840711, "id": "500572"}
+{"frequency": 0.10202550494853384, "name": "heavy metal", "weight": 0.4039871005570214, "id": "500572"}
+{"frequency": 0.14676389960177627, "name": "punk", "weight": 0.31603635297566696, "id": "500572"}
+{"frequency": 0.14293560225953172, "name": "metal", "weight": 0.28965112870126064, "id": "500572"}
+{"frequency": 0.02029907299800535, "name": "80s", "weight": 0.23101729698035767, "id": "500572"}
+{"frequency": 0.06512253896421422, "name": "singer-songwriter", "weight": 0.18635786181960323, "id": "500572"}
+{"frequency": 0.08520756515129659, "name": "dance", "weight": 0.16788820482751882, "id": "500572"}
+{"frequency": 0.12320886772117112, "name": "pop", "weight": 0.16026580670380142, "id": "500572"}
+{"frequency": 0.054853177685530455, "name": "soundtrack", "weight": 0.1524479624743477, "id": "500572"}
+{"frequency": 0.03823383159245004, "name": "rock 'n roll", "weight": 0.12967849115606372, "id": "500572"}
+{"frequency": 0.017894841127578574, "name": "hair metal", "weight": 0.12049252418645559, "id": "500572"}
+{"frequency": 0.06270360666043955, "name": "jazz", "weight": 0.11296784911560637, "id": "500572"}
+{"frequency": 0.04884321760432983, "name": "experimental", "weight": 0.11257695690413369, "id": "500572"}
+{"frequency": 0.03875365643850355, "name": "pop rock", "weight": 0.10124108277142578, "id": "500572"}

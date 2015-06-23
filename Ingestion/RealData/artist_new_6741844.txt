@@ -1,5 +1,5 @@
-{"frequency": 0.6672312537778767, "name": "modern rock", "weight": 0.9375}
-{"frequency": 0.7127653103426335, "name": "shoegaze", "weight": 0.875}
-{"frequency": 1.0, "name": "indie", "weight": 0.6041666666666666}
-{"frequency": 0.33123515625828476, "name": "new wave", "weight": 0.3958333333333333}
-{"frequency": 0.33162362273194834, "name": "post-punk", "weight": 0.3541666666666667}
+{"frequency": 0.6672312537778767, "name": "modern rock", "weight": 0.9375, "id": "6741844"}
+{"frequency": 0.7127653103426335, "name": "shoegaze", "weight": 0.875, "id": "6741844"}
+{"frequency": 1.0, "name": "indie", "weight": 0.6041666666666666, "id": "6741844"}
+{"frequency": 0.33123515625828476, "name": "new wave", "weight": 0.3958333333333333, "id": "6741844"}
+{"frequency": 0.33162362273194834, "name": "post-punk", "weight": 0.3541666666666667, "id": "6741844"}

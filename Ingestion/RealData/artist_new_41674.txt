@@ -1,14 +1,14 @@
-{"frequency": 1.0, "name": "folk", "weight": 1.0}
-{"frequency": 0.6370989909284525, "name": "singer-songwriter", "weight": 0.9302083333333333}
-{"frequency": 0.2802131963611226, "name": "americana", "weight": 0.49583333333333335}
-{"frequency": 0.12449970094288033, "name": "indie folk", "weight": 0.3536458333333333}
-{"frequency": 0.273761357356365, "name": "country", "weight": 0.2859375}
-{"frequency": 0.26428372111649345, "name": "indie", "weight": 0.28177083333333336}
-{"frequency": 0.12782441466274228, "name": "blues", "weight": 0.15572916666666667}
-{"frequency": 0.036547271062374, "name": "adult alternative", "weight": 0.12916666666666668}
-{"frequency": 0.03902157993809862, "name": "contemporary folk", "weight": 0.12291666666666666}
-{"frequency": 0.039900252398064315, "name": "male vocalist", "weight": 0.12083333333333333}
-{"frequency": 0.03988148184532477, "name": "soft rock", "weight": 0.12083333333333333}
-{"frequency": 0.040657504047003766, "name": "country blues", "weight": 0.11927083333333334}
-{"frequency": 0.16323236990859033, "name": "pop", "weight": 0.10833333333333334}
-{"frequency": 0.04863981382034929, "name": "alternative country", "weight": 0.10364583333333334}
+{"frequency": 1.0, "name": "folk", "weight": 1.0, "id": "41674"}
+{"frequency": 0.6370989909284525, "name": "singer-songwriter", "weight": 0.9302083333333333, "id": "41674"}
+{"frequency": 0.2802131963611226, "name": "americana", "weight": 0.49583333333333335, "id": "41674"}
+{"frequency": 0.12449970094288033, "name": "indie folk", "weight": 0.3536458333333333, "id": "41674"}
+{"frequency": 0.273761357356365, "name": "country", "weight": 0.2859375, "id": "41674"}
+{"frequency": 0.26428372111649345, "name": "indie", "weight": 0.28177083333333336, "id": "41674"}
+{"frequency": 0.12782441466274228, "name": "blues", "weight": 0.15572916666666667, "id": "41674"}
+{"frequency": 0.036547271062374, "name": "adult alternative", "weight": 0.12916666666666668, "id": "41674"}
+{"frequency": 0.03902157993809862, "name": "contemporary folk", "weight": 0.12291666666666666, "id": "41674"}
+{"frequency": 0.039900252398064315, "name": "male vocalist", "weight": 0.12083333333333333, "id": "41674"}
+{"frequency": 0.03988148184532477, "name": "soft rock", "weight": 0.12083333333333333, "id": "41674"}
+{"frequency": 0.040657504047003766, "name": "country blues", "weight": 0.11927083333333334, "id": "41674"}
+{"frequency": 0.16323236990859033, "name": "pop", "weight": 0.10833333333333334, "id": "41674"}
+{"frequency": 0.04863981382034929, "name": "alternative country", "weight": 0.10364583333333334, "id": "41674"}

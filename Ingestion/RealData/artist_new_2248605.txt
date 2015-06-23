@@ -1,7 +1,7 @@
-{"frequency": 0.9404502136545525, "name": "indie", "weight": 0.421875}
-{"frequency": 0.28344659317353643, "name": "post-hardcore", "weight": 0.24796195652173914}
-{"frequency": 0.3006024908697439, "name": "alternative rock", "weight": 0.23641304347826086}
-{"frequency": 1.0, "name": "rock", "weight": 0.21467391304347827}
-{"frequency": 0.3789455055826802, "name": "experimental", "weight": 0.1875}
-{"frequency": 0.41436925999847657, "name": "alternative", "weight": 0.17119565217391305}
-{"frequency": 0.18379958113879935, "name": "ambient", "weight": 0.10665760869565218}
+{"frequency": 0.9404502136545525, "name": "indie", "weight": 0.421875, "id": "2248605"}
+{"frequency": 0.28344659317353643, "name": "post-hardcore", "weight": 0.24796195652173914, "id": "2248605"}
+{"frequency": 0.3006024908697439, "name": "alternative rock", "weight": 0.23641304347826086, "id": "2248605"}
+{"frequency": 1.0, "name": "rock", "weight": 0.21467391304347827, "id": "2248605"}
+{"frequency": 0.3789455055826802, "name": "experimental", "weight": 0.1875, "id": "2248605"}
+{"frequency": 0.41436925999847657, "name": "alternative", "weight": 0.17119565217391305, "id": "2248605"}
+{"frequency": 0.18379958113879935, "name": "ambient", "weight": 0.10665760869565218, "id": "2248605"}

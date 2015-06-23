@@ -1,13 +1,13 @@
-{"frequency": 1.0, "name": "pop", "weight": 1.0}
-{"frequency": 0.1460414315371009, "name": "jrock", "weight": 0.605080831408776}
-{"frequency": 0.16616734272701272, "name": "j pop", "weight": 0.5450346420323325}
-{"frequency": 0.06684603909218738, "name": "japanese music", "weight": 0.3233256351039261}
-{"frequency": 0.06866096289815952, "name": "male vocalist", "weight": 0.3140877598152425}
-{"frequency": 0.0840579612767615, "name": "new wave", "weight": 0.2678983833718245}
-{"frequency": 0.09227473196592656, "name": "indie rock", "weight": 0.2471131639722864}
-{"frequency": 0.30694916325681526, "name": "rock", "weight": 0.23556581986143188}
-{"frequency": 0.09810891189175193, "name": "trance", "weight": 0.23094688221709006}
-{"frequency": 0.10283917202779373, "name": "techno", "weight": 0.21939953810623555}
-{"frequency": 0.10389563291951234, "name": "ambient", "weight": 0.21709006928406466}
-{"frequency": 0.10725530498559753, "name": "electronica", "weight": 0.20785219399538107}
-{"frequency": 0.12265987722881547, "name": "electronic", "weight": 0.17551963048498845}
+{"frequency": 1.0, "name": "pop", "weight": 1.0, "id": "565194"}
+{"frequency": 0.1460414315371009, "name": "jrock", "weight": 0.605080831408776, "id": "565194"}
+{"frequency": 0.16616734272701272, "name": "j pop", "weight": 0.5450346420323325, "id": "565194"}
+{"frequency": 0.06684603909218738, "name": "japanese music", "weight": 0.3233256351039261, "id": "565194"}
+{"frequency": 0.06866096289815952, "name": "male vocalist", "weight": 0.3140877598152425, "id": "565194"}
+{"frequency": 0.0840579612767615, "name": "new wave", "weight": 0.2678983833718245, "id": "565194"}
+{"frequency": 0.09227473196592656, "name": "indie rock", "weight": 0.2471131639722864, "id": "565194"}
+{"frequency": 0.30694916325681526, "name": "rock", "weight": 0.23556581986143188, "id": "565194"}
+{"frequency": 0.09810891189175193, "name": "trance", "weight": 0.23094688221709006, "id": "565194"}
+{"frequency": 0.10283917202779373, "name": "techno", "weight": 0.21939953810623555, "id": "565194"}
+{"frequency": 0.10389563291951234, "name": "ambient", "weight": 0.21709006928406466, "id": "565194"}
+{"frequency": 0.10725530498559753, "name": "electronica", "weight": 0.20785219399538107, "id": "565194"}
+{"frequency": 0.12265987722881547, "name": "electronic", "weight": 0.17551963048498845, "id": "565194"}

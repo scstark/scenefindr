@@ -1,4 +1,4 @@
-{"frequency": 1.0, "name": "rock", "weight": 1.0}
-{"frequency": 0.16042899920529205, "name": "blues", "weight": 0.3830734966592428}
-{"frequency": 0.024871217933196653, "name": "big beat", "weight": 0.155902004454343}
-{"frequency": 0.030164662252480386, "name": "classic rock", "weight": 0.13140311804008908}
+{"frequency": 1.0, "name": "rock", "weight": 1.0, "id": "52170"}
+{"frequency": 0.16042899920529205, "name": "blues", "weight": 0.3830734966592428, "id": "52170"}
+{"frequency": 0.024871217933196653, "name": "big beat", "weight": 0.155902004454343, "id": "52170"}
+{"frequency": 0.030164662252480386, "name": "classic rock", "weight": 0.13140311804008908, "id": "52170"}

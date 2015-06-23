@@ -1,12 +1,12 @@
-{"frequency": 1.0, "name": "jazz", "weight": 1.0}
-{"frequency": 0.18793721905789498, "name": "latin jazz", "weight": 0.5722226034447265}
-{"frequency": 0.24484848293998773, "name": "latin", "weight": 0.3712344747135113}
-{"frequency": 0.2337132831746651, "name": "classical", "weight": 0.3029575241885679}
-{"frequency": 0.10751250116087913, "name": "bebop", "weight": 0.2782543059081864}
-{"frequency": 0.08442272793342111, "name": "big band", "weight": 0.1999588279695327}
-{"frequency": 0.09385214119880711, "name": "swing", "weight": 0.18815617923557262}
-{"frequency": 0.03297531665861912, "name": "afro-cuban jazz", "weight": 0.1397104233857133}
-{"frequency": 0.035163745244785286, "name": "cuban jazz", "weight": 0.1358677005420984}
-{"frequency": 0.042763034623241804, "name": "latin music", "weight": 0.1239964317573595}
-{"frequency": 0.03806003709939756, "name": "mambo", "weight": 0.12042818911685994}
-{"frequency": 0.034289240693431824, "name": "contemporary jazz", "weight": 0.1066355589103136}
+{"frequency": 1.0, "name": "jazz", "weight": 1.0, "id": "422973"}
+{"frequency": 0.18793721905789498, "name": "latin jazz", "weight": 0.5722226034447265, "id": "422973"}
+{"frequency": 0.24484848293998773, "name": "latin", "weight": 0.3712344747135113, "id": "422973"}
+{"frequency": 0.2337132831746651, "name": "classical", "weight": 0.3029575241885679, "id": "422973"}
+{"frequency": 0.10751250116087913, "name": "bebop", "weight": 0.2782543059081864, "id": "422973"}
+{"frequency": 0.08442272793342111, "name": "big band", "weight": 0.1999588279695327, "id": "422973"}
+{"frequency": 0.09385214119880711, "name": "swing", "weight": 0.18815617923557262, "id": "422973"}
+{"frequency": 0.03297531665861912, "name": "afro-cuban jazz", "weight": 0.1397104233857133, "id": "422973"}
+{"frequency": 0.035163745244785286, "name": "cuban jazz", "weight": 0.1358677005420984, "id": "422973"}
+{"frequency": 0.042763034623241804, "name": "latin music", "weight": 0.1239964317573595, "id": "422973"}
+{"frequency": 0.03806003709939756, "name": "mambo", "weight": 0.12042818911685994, "id": "422973"}
+{"frequency": 0.034289240693431824, "name": "contemporary jazz", "weight": 0.1066355589103136, "id": "422973"}

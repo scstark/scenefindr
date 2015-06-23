@@ -1,23 +1,23 @@
-{"frequency": 0.9508645022996611, "name": "jazz", "weight": 1.0}
-{"frequency": 0.5320977974642721, "name": "latin", "weight": 0.8484450284713096}
-{"frequency": 1.0, "name": "pop", "weight": 0.7593079281646956}
-{"frequency": 0.34170542253176284, "name": "classical", "weight": 0.46583442838370565}
-{"frequency": 0.22928040604526007, "name": "lounge", "weight": 0.4487516425755585}
-{"frequency": 0.11039890311130277, "name": "easy listening", "weight": 0.35019710906701706}
-{"frequency": 0.12297430979912295, "name": "world music", "weight": 0.297634691195795}
-{"frequency": 0.11324457046093865, "name": "big band", "weight": 0.2820849759088918}
-{"frequency": 0.09241975061854611, "name": "cabaret", "weight": 0.23193166885676741}
-{"frequency": 0.07281005549470188, "name": "bossa nova", "weight": 0.23127463863337713}
-{"frequency": 0.10366662694979879, "name": "swing", "weight": 0.21857205431449847}
-{"frequency": 0.08282758738987354, "name": "chanson", "weight": 0.21660096364432763}
-{"frequency": 0.03197779443750052, "name": "90s", "weight": 0.21243977222952257}
-{"frequency": 0.1200126413275612, "name": "soundtrack", "weight": 0.1946999561979851}
-{"frequency": 0.3035243848891673, "name": "rock", "weight": 0.17717915024091108}
-{"frequency": 0.12082927599005579, "name": "blues", "weight": 0.16841874726237407}
-{"frequency": 0.05136537357091667, "name": "latin jazz", "weight": 0.16447656592203241}
-{"frequency": 0.13763339968322363, "name": "alternative", "weight": 0.15462111257117828}
-{"frequency": 0.10449006509351262, "name": "instrumental", "weight": 0.1471747700394218}
-{"frequency": 0.0704717409691793, "name": "fusion", "weight": 0.13118703460359177}
-{"frequency": 0.0839424040553187, "name": "soul", "weight": 0.11213315812527376}
-{"frequency": 0.06253844096663061, "name": "singer-songwriter", "weight": 0.10446780551905388}
-{"frequency": 0.0902571006527506, "name": "dance", "weight": 0.1038107752956636}
+{"frequency": 0.9508645022996611, "name": "jazz", "weight": 1.0, "id": "553725"}
+{"frequency": 0.5320977974642721, "name": "latin", "weight": 0.8484450284713096, "id": "553725"}
+{"frequency": 1.0, "name": "pop", "weight": 0.7593079281646956, "id": "553725"}
+{"frequency": 0.34170542253176284, "name": "classical", "weight": 0.46583442838370565, "id": "553725"}
+{"frequency": 0.22928040604526007, "name": "lounge", "weight": 0.4487516425755585, "id": "553725"}
+{"frequency": 0.11039890311130277, "name": "easy listening", "weight": 0.35019710906701706, "id": "553725"}
+{"frequency": 0.12297430979912295, "name": "world music", "weight": 0.297634691195795, "id": "553725"}
+{"frequency": 0.11324457046093865, "name": "big band", "weight": 0.2820849759088918, "id": "553725"}
+{"frequency": 0.09241975061854611, "name": "cabaret", "weight": 0.23193166885676741, "id": "553725"}
+{"frequency": 0.07281005549470188, "name": "bossa nova", "weight": 0.23127463863337713, "id": "553725"}
+{"frequency": 0.10366662694979879, "name": "swing", "weight": 0.21857205431449847, "id": "553725"}
+{"frequency": 0.08282758738987354, "name": "chanson", "weight": 0.21660096364432763, "id": "553725"}
+{"frequency": 0.03197779443750052, "name": "90s", "weight": 0.21243977222952257, "id": "553725"}
+{"frequency": 0.1200126413275612, "name": "soundtrack", "weight": 0.1946999561979851, "id": "553725"}
+{"frequency": 0.3035243848891673, "name": "rock", "weight": 0.17717915024091108, "id": "553725"}
+{"frequency": 0.12082927599005579, "name": "blues", "weight": 0.16841874726237407, "id": "553725"}
+{"frequency": 0.05136537357091667, "name": "latin jazz", "weight": 0.16447656592203241, "id": "553725"}
+{"frequency": 0.13763339968322363, "name": "alternative", "weight": 0.15462111257117828, "id": "553725"}
+{"frequency": 0.10449006509351262, "name": "instrumental", "weight": 0.1471747700394218, "id": "553725"}
+{"frequency": 0.0704717409691793, "name": "fusion", "weight": 0.13118703460359177, "id": "553725"}
+{"frequency": 0.0839424040553187, "name": "soul", "weight": 0.11213315812527376, "id": "553725"}
+{"frequency": 0.06253844096663061, "name": "singer-songwriter", "weight": 0.10446780551905388, "id": "553725"}
+{"frequency": 0.0902571006527506, "name": "dance", "weight": 0.1038107752956636, "id": "553725"}

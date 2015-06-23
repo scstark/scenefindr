@@ -1,10 +1,10 @@
-{"frequency": 1.0, "name": "country", "weight": 1.0}
-{"frequency": 0.581620394170155, "name": "pop", "weight": 0.36956980177140447}
-{"frequency": 0.25781380883112154, "name": "singer-songwriter", "weight": 0.3603964571910586}
-{"frequency": 0.11132565904453627, "name": "country music", "weight": 0.212463095740194}
-{"frequency": 0.08048360136793406, "name": "country rock", "weight": 0.1838886545761282}
-{"frequency": 0.15198002496558038, "name": "folk", "weight": 0.14550822437789962}
-{"frequency": 0.08539145242344048, "name": "americana", "weight": 0.14466469843947702}
-{"frequency": 0.29225986280373306, "name": "rock", "weight": 0.14276676507802616}
-{"frequency": 0.06517586522473899, "name": "bluegrass", "weight": 0.1263180092787853}
-{"frequency": 0.05152792350856197, "name": "alternative country", "weight": 0.10512442007591734}
+{"frequency": 1.0, "name": "country", "weight": 1.0, "id": "270188"}
+{"frequency": 0.581620394170155, "name": "pop", "weight": 0.36956980177140447, "id": "270188"}
+{"frequency": 0.25781380883112154, "name": "singer-songwriter", "weight": 0.3603964571910586, "id": "270188"}
+{"frequency": 0.11132565904453627, "name": "country music", "weight": 0.212463095740194, "id": "270188"}
+{"frequency": 0.08048360136793406, "name": "country rock", "weight": 0.1838886545761282, "id": "270188"}
+{"frequency": 0.15198002496558038, "name": "folk", "weight": 0.14550822437789962, "id": "270188"}
+{"frequency": 0.08539145242344048, "name": "americana", "weight": 0.14466469843947702, "id": "270188"}
+{"frequency": 0.29225986280373306, "name": "rock", "weight": 0.14276676507802616, "id": "270188"}
+{"frequency": 0.06517586522473899, "name": "bluegrass", "weight": 0.1263180092787853, "id": "270188"}
+{"frequency": 0.05152792350856197, "name": "alternative country", "weight": 0.10512442007591734, "id": "270188"}

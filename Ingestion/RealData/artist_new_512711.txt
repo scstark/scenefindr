@@ -1,17 +1,17 @@
-{"frequency": 0.6976350180360029, "name": "trance", "weight": 1.0}
-{"frequency": 1.0, "name": "house", "weight": 0.8312274368231047}
-{"frequency": 0.2861867555421644, "name": "progressive trance", "weight": 0.7648916967509025}
-{"frequency": 0.6464212110252672, "name": "electronic", "weight": 0.5636281588447654}
-{"frequency": 0.5480851615202585, "name": "dance", "weight": 0.5063176895306859}
-{"frequency": 0.2689009879675211, "name": "downtempo", "weight": 0.476985559566787}
-{"frequency": 0.45622299074514416, "name": "club", "weight": 0.4711191335740072}
-{"frequency": 0.3989498897872076, "name": "electronica", "weight": 0.47021660649819497}
-{"frequency": 0.1446004603861287, "name": "progressive house", "weight": 0.3583032490974729}
-{"frequency": 0.22219434009412334, "name": "lounge", "weight": 0.3492779783393502}
-{"frequency": 0.17644956534288017, "name": "fusion", "weight": 0.26398916967509023}
-{"frequency": 0.06366560093123672, "name": "vocal trance", "weight": 0.23104693140794225}
-{"frequency": 0.08434368319641485, "name": "new age", "weight": 0.18862815884476533}
-{"frequency": 0.024884275812828784, "name": "00s", "weight": 0.13312274368231047}
-{"frequency": 0.03011610880478046, "name": "intelligent dance music", "weight": 0.11913357400722022}
-{"frequency": 0.03387416637238224, "name": "vocal house", "weight": 0.11055956678700361}
-{"frequency": 0.035914758558262504, "name": "big beat", "weight": 0.10604693140794223}
+{"frequency": 0.6976350180360029, "name": "trance", "weight": 1.0, "id": "512711"}
+{"frequency": 1.0, "name": "house", "weight": 0.8312274368231047, "id": "512711"}
+{"frequency": 0.2861867555421644, "name": "progressive trance", "weight": 0.7648916967509025, "id": "512711"}
+{"frequency": 0.6464212110252672, "name": "electronic", "weight": 0.5636281588447654, "id": "512711"}
+{"frequency": 0.5480851615202585, "name": "dance", "weight": 0.5063176895306859, "id": "512711"}
+{"frequency": 0.2689009879675211, "name": "downtempo", "weight": 0.476985559566787, "id": "512711"}
+{"frequency": 0.45622299074514416, "name": "club", "weight": 0.4711191335740072, "id": "512711"}
+{"frequency": 0.3989498897872076, "name": "electronica", "weight": 0.47021660649819497, "id": "512711"}
+{"frequency": 0.1446004603861287, "name": "progressive house", "weight": 0.3583032490974729, "id": "512711"}
+{"frequency": 0.22219434009412334, "name": "lounge", "weight": 0.3492779783393502, "id": "512711"}
+{"frequency": 0.17644956534288017, "name": "fusion", "weight": 0.26398916967509023, "id": "512711"}
+{"frequency": 0.06366560093123672, "name": "vocal trance", "weight": 0.23104693140794225, "id": "512711"}
+{"frequency": 0.08434368319641485, "name": "new age", "weight": 0.18862815884476533, "id": "512711"}
+{"frequency": 0.024884275812828784, "name": "00s", "weight": 0.13312274368231047, "id": "512711"}
+{"frequency": 0.03011610880478046, "name": "intelligent dance music", "weight": 0.11913357400722022, "id": "512711"}
+{"frequency": 0.03387416637238224, "name": "vocal house", "weight": 0.11055956678700361, "id": "512711"}
+{"frequency": 0.035914758558262504, "name": "big beat", "weight": 0.10604693140794223, "id": "512711"}

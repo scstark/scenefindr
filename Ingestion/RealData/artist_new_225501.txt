@@ -1,2 +1,2 @@
-{"frequency": 1.0, "name": "jazz", "weight": 1.0}
-{"frequency": 0.0642564057646829, "name": "bebop", "weight": 0.16649848637739656}
+{"frequency": 1.0, "name": "jazz", "weight": 1.0, "id": "225501"}
+{"frequency": 0.0642564057646829, "name": "bebop", "weight": 0.16649848637739656, "id": "225501"}

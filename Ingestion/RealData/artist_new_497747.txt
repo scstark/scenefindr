@@ -1,15 +1,15 @@
-{"frequency": 0.7056168449541407, "name": "blues", "weight": 1.0}
-{"frequency": 0.24554098969165833, "name": "blues-rock", "weight": 0.6303353658536586}
-{"frequency": 1.0, "name": "rock", "weight": 0.5934451219512196}
-{"frequency": 0.1552797810882735, "name": "classic rock", "weight": 0.40152439024390246}
-{"frequency": 0.17022103633086882, "name": "rock 'n roll", "weight": 0.3426829268292683}
-{"frequency": 0.039868479607408955, "name": "80s", "weight": 0.26935975609756097}
-{"frequency": 0.03328014006593479, "name": "90s", "weight": 0.22484756097560976}
-{"frequency": 0.0326709441228339, "name": "70s", "weight": 0.22073170731707317}
-{"frequency": 0.045313903048175, "name": "boogie rock", "weight": 0.21722560975609756}
-{"frequency": 0.09418543702633488, "name": "hard rock", "weight": 0.20640243902439023}
-{"frequency": 0.04831633408797591, "name": "album rock", "weight": 0.18932926829268293}
-{"frequency": 0.1470170714363974, "name": "punk", "weight": 0.18795731707317073}
-{"frequency": 0.05257442601726255, "name": "rockabilly", "weight": 0.1263719512195122}
-{"frequency": 0.05458111783112512, "name": "ballad", "weight": 0.12301829268292683}
-{"frequency": 0.04539508955059558, "name": "heavy metal", "weight": 0.10670731707317073}
+{"frequency": 0.7056168449541407, "name": "blues", "weight": 1.0, "id": "497747"}
+{"frequency": 0.24554098969165833, "name": "blues-rock", "weight": 0.6303353658536586, "id": "497747"}
+{"frequency": 1.0, "name": "rock", "weight": 0.5934451219512196, "id": "497747"}
+{"frequency": 0.1552797810882735, "name": "classic rock", "weight": 0.40152439024390246, "id": "497747"}
+{"frequency": 0.17022103633086882, "name": "rock 'n roll", "weight": 0.3426829268292683, "id": "497747"}
+{"frequency": 0.039868479607408955, "name": "80s", "weight": 0.26935975609756097, "id": "497747"}
+{"frequency": 0.03328014006593479, "name": "90s", "weight": 0.22484756097560976, "id": "497747"}
+{"frequency": 0.0326709441228339, "name": "70s", "weight": 0.22073170731707317, "id": "497747"}
+{"frequency": 0.045313903048175, "name": "boogie rock", "weight": 0.21722560975609756, "id": "497747"}
+{"frequency": 0.09418543702633488, "name": "hard rock", "weight": 0.20640243902439023, "id": "497747"}
+{"frequency": 0.04831633408797591, "name": "album rock", "weight": 0.18932926829268293, "id": "497747"}
+{"frequency": 0.1470170714363974, "name": "punk", "weight": 0.18795731707317073, "id": "497747"}
+{"frequency": 0.05257442601726255, "name": "rockabilly", "weight": 0.1263719512195122, "id": "497747"}
+{"frequency": 0.05458111783112512, "name": "ballad", "weight": 0.12301829268292683, "id": "497747"}
+{"frequency": 0.04539508955059558, "name": "heavy metal", "weight": 0.10670731707317073, "id": "497747"}

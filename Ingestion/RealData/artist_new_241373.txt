@@ -1,12 +1,12 @@
-{"frequency": 0.454299271323159, "name": "indie pop", "weight": 1.0}
-{"frequency": 1.0, "name": "pop", "weight": 0.7434011547979104}
-{"frequency": 0.44687823330143883, "name": "indie", "weight": 0.5336816057189991}
-{"frequency": 0.21485399624949897, "name": "lo-fi", "weight": 0.4645999450096233}
-{"frequency": 0.6980713070964395, "name": "rock", "weight": 0.39895518284300246}
-{"frequency": 0.18068516967364695, "name": "indie rock", "weight": 0.35805609018421775}
-{"frequency": 0.14208886570818796, "name": "alternative rock", "weight": 0.29749793786087436}
-{"frequency": 0.2009219720636017, "name": "alternative", "weight": 0.22099257629914765}
-{"frequency": 0.07454225227163137, "name": "power pop", "weight": 0.17466318394281}
-{"frequency": 0.09866212355463826, "name": "pop rock", "weight": 0.14730547154248005}
-{"frequency": 0.11659579781322744, "name": "folk", "weight": 0.1306021446246907}
-{"frequency": 0.018261978513563388, "name": "00s", "weight": 0.11877921363761341}
+{"frequency": 0.454299271323159, "name": "indie pop", "weight": 1.0, "id": "241373"}
+{"frequency": 1.0, "name": "pop", "weight": 0.7434011547979104, "id": "241373"}
+{"frequency": 0.44687823330143883, "name": "indie", "weight": 0.5336816057189991, "id": "241373"}
+{"frequency": 0.21485399624949897, "name": "lo-fi", "weight": 0.4645999450096233, "id": "241373"}
+{"frequency": 0.6980713070964395, "name": "rock", "weight": 0.39895518284300246, "id": "241373"}
+{"frequency": 0.18068516967364695, "name": "indie rock", "weight": 0.35805609018421775, "id": "241373"}
+{"frequency": 0.14208886570818796, "name": "alternative rock", "weight": 0.29749793786087436, "id": "241373"}
+{"frequency": 0.2009219720636017, "name": "alternative", "weight": 0.22099257629914765, "id": "241373"}
+{"frequency": 0.07454225227163137, "name": "power pop", "weight": 0.17466318394281, "id": "241373"}
+{"frequency": 0.09866212355463826, "name": "pop rock", "weight": 0.14730547154248005, "id": "241373"}
+{"frequency": 0.11659579781322744, "name": "folk", "weight": 0.1306021446246907, "id": "241373"}
+{"frequency": 0.018261978513563388, "name": "00s", "weight": 0.11877921363761341, "id": "241373"}

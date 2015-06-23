@@ -1,23 +1,23 @@
-{"frequency": 1.0, "name": "funk", "weight": 1.0}
-{"frequency": 0.8012189823131837, "name": "soul", "weight": 0.6729767280305662}
-{"frequency": 0.3225828374890656, "name": "afrobeat", "weight": 0.6533518582841265}
-{"frequency": 0.41256680017968217, "name": "dance", "weight": 0.2983674887113581}
-{"frequency": 0.06710399639414324, "name": "70s", "weight": 0.2803056616880861}
-{"frequency": 0.08203796254660688, "name": "deep funk", "weight": 0.2273358805140674}
-{"frequency": 0.20580303664919763, "name": "disco", "weight": 0.22438346648141716}
-{"frequency": 0.18430688313702157, "name": "latin", "weight": 0.18478638416116708}
-{"frequency": 0.2237171753208937, "name": "club", "weight": 0.1811392844737756}
-{"frequency": 0.20631650420330086, "name": "experimental", "weight": 0.17453977075373395}
-{"frequency": 0.15099913001525117, "name": "psychedelic", "weight": 0.16220910038207711}
-{"frequency": 0.19569971816284598, "name": "hip hop", "weight": 0.15769364362625912}
-{"frequency": 0.03700282316755834, "name": "deep funk revival", "weight": 0.1545675581799236}
-{"frequency": 0.054116633012489465, "name": "memphis soul", "weight": 0.15213615838832928}
-{"frequency": 0.17138990611186244, "name": "instrumental", "weight": 0.15178881556095866}
-{"frequency": 0.21863414277630303, "name": "electronic", "weight": 0.14848905870093781}
-{"frequency": 0.2246520857183838, "name": "house", "weight": 0.14605765890934352}
-{"frequency": 0.05848166465917728, "name": "southern soul", "weight": 0.1458839874956582}
-{"frequency": 0.191466232131682, "name": "metal", "weight": 0.14241055922195206}
-{"frequency": 0.20616762372373243, "name": "jazz", "weight": 0.1363320597429663}
-{"frequency": 0.1789858086382958, "name": "alternative", "weight": 0.1264327891629038}
-{"frequency": 0.33405490152967054, "name": "rock", "weight": 0.12261201806182702}
-{"frequency": 0.09415636245047969, "name": "reggae", "weight": 0.10472386245224036}
+{"frequency": 1.0, "name": "funk", "weight": 1.0, "id": "485451"}
+{"frequency": 0.8012189823131837, "name": "soul", "weight": 0.6729767280305662, "id": "485451"}
+{"frequency": 0.3225828374890656, "name": "afrobeat", "weight": 0.6533518582841265, "id": "485451"}
+{"frequency": 0.41256680017968217, "name": "dance", "weight": 0.2983674887113581, "id": "485451"}
+{"frequency": 0.06710399639414324, "name": "70s", "weight": 0.2803056616880861, "id": "485451"}
+{"frequency": 0.08203796254660688, "name": "deep funk", "weight": 0.2273358805140674, "id": "485451"}
+{"frequency": 0.20580303664919763, "name": "disco", "weight": 0.22438346648141716, "id": "485451"}
+{"frequency": 0.18430688313702157, "name": "latin", "weight": 0.18478638416116708, "id": "485451"}
+{"frequency": 0.2237171753208937, "name": "club", "weight": 0.1811392844737756, "id": "485451"}
+{"frequency": 0.20631650420330086, "name": "experimental", "weight": 0.17453977075373395, "id": "485451"}
+{"frequency": 0.15099913001525117, "name": "psychedelic", "weight": 0.16220910038207711, "id": "485451"}
+{"frequency": 0.19569971816284598, "name": "hip hop", "weight": 0.15769364362625912, "id": "485451"}
+{"frequency": 0.03700282316755834, "name": "deep funk revival", "weight": 0.1545675581799236, "id": "485451"}
+{"frequency": 0.054116633012489465, "name": "memphis soul", "weight": 0.15213615838832928, "id": "485451"}
+{"frequency": 0.17138990611186244, "name": "instrumental", "weight": 0.15178881556095866, "id": "485451"}
+{"frequency": 0.21863414277630303, "name": "electronic", "weight": 0.14848905870093781, "id": "485451"}
+{"frequency": 0.2246520857183838, "name": "house", "weight": 0.14605765890934352, "id": "485451"}
+{"frequency": 0.05848166465917728, "name": "southern soul", "weight": 0.1458839874956582, "id": "485451"}
+{"frequency": 0.191466232131682, "name": "metal", "weight": 0.14241055922195206, "id": "485451"}
+{"frequency": 0.20616762372373243, "name": "jazz", "weight": 0.1363320597429663, "id": "485451"}
+{"frequency": 0.1789858086382958, "name": "alternative", "weight": 0.1264327891629038, "id": "485451"}
+{"frequency": 0.33405490152967054, "name": "rock", "weight": 0.12261201806182702, "id": "485451"}
+{"frequency": 0.09415636245047969, "name": "reggae", "weight": 0.10472386245224036, "id": "485451"}

@@ -1,16 +1,16 @@
-{"frequency": 1.0, "name": "pop", "weight": 1.0}
-{"frequency": 0.10116078510584424, "name": "80s", "weight": 0.8850780650115178}
-{"frequency": 0.5067455368327829, "name": "dance", "weight": 0.7675966214486819}
-{"frequency": 0.321645806327349, "name": "r&b", "weight": 0.6862042487842335}
-{"frequency": 0.20970336623403632, "name": "disco", "weight": 0.47888405426158176}
-{"frequency": 0.2705417123002699, "name": "jazz", "weight": 0.3747120552853852}
-{"frequency": 0.21066405221943482, "name": "soul", "weight": 0.3706168415664193}
-{"frequency": 0.13380884055285827, "name": "funk", "weight": 0.28026618889173277}
-{"frequency": 0.06420619762428084, "name": "dance pop", "weight": 0.2318914768364474}
-{"frequency": 0.07128384663728425, "name": "old school", "weight": 0.211671359099053}
-{"frequency": 0.03071844611155989, "name": "latin freestyle", "weight": 0.19554645508062451}
-{"frequency": 0.037996380851975355, "name": "acid jazz", "weight": 0.16969541847965192}
-{"frequency": 0.03970715823656432, "name": "80s pop", "weight": 0.16380854875863834}
-{"frequency": 0.17112703092427514, "name": "rock", "weight": 0.13155874072178142}
-{"frequency": 0.05594387506952138, "name": "soundtrack", "weight": 0.11952905042231891}
-{"frequency": 0.057603627601790656, "name": "pop rock", "weight": 0.11568978756078833}
+{"frequency": 1.0, "name": "pop", "weight": 1.0, "id": "404334"}
+{"frequency": 0.10116078510584424, "name": "80s", "weight": 0.8850780650115178, "id": "404334"}
+{"frequency": 0.5067455368327829, "name": "dance", "weight": 0.7675966214486819, "id": "404334"}
+{"frequency": 0.321645806327349, "name": "r&b", "weight": 0.6862042487842335, "id": "404334"}
+{"frequency": 0.20970336623403632, "name": "disco", "weight": 0.47888405426158176, "id": "404334"}
+{"frequency": 0.2705417123002699, "name": "jazz", "weight": 0.3747120552853852, "id": "404334"}
+{"frequency": 0.21066405221943482, "name": "soul", "weight": 0.3706168415664193, "id": "404334"}
+{"frequency": 0.13380884055285827, "name": "funk", "weight": 0.28026618889173277, "id": "404334"}
+{"frequency": 0.06420619762428084, "name": "dance pop", "weight": 0.2318914768364474, "id": "404334"}
+{"frequency": 0.07128384663728425, "name": "old school", "weight": 0.211671359099053, "id": "404334"}
+{"frequency": 0.03071844611155989, "name": "latin freestyle", "weight": 0.19554645508062451, "id": "404334"}
+{"frequency": 0.037996380851975355, "name": "acid jazz", "weight": 0.16969541847965192, "id": "404334"}
+{"frequency": 0.03970715823656432, "name": "80s pop", "weight": 0.16380854875863834, "id": "404334"}
+{"frequency": 0.17112703092427514, "name": "rock", "weight": 0.13155874072178142, "id": "404334"}
+{"frequency": 0.05594387506952138, "name": "soundtrack", "weight": 0.11952905042231891, "id": "404334"}
+{"frequency": 0.057603627601790656, "name": "pop rock", "weight": 0.11568978756078833, "id": "404334"}

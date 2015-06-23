@@ -20,11 +20,13 @@ for afile in filter:
 			#now remaining data is the list of terms.
 			new_name = afile.split('_')#split into 2 parts
 			nfn = new_name[0] + '_new_' + new_name[1]
+			id = new_name[1].split(".")
 			if '.txt' not in nfn:
 				nfn = nfn + '.txt'
 			#print 'nfn is: %s' % nfn
 			fw = open( nfn, 'w' ) 
 			for a in data:
+				a['id'] = id[0]
 				fw.write( json.dumps( a ) + '\n' )
 
 			fw.close() 

@@ -1,7 +1,7 @@
-{"frequency": 1.0, "name": "blues", "weight": 1.0}
-{"frequency": 0.9683037845821313, "name": "jazz", "weight": 0.8555858310626703}
-{"frequency": 0.30937814305283207, "name": "house", "weight": 0.2779291553133515}
-{"frequency": 0.299061348880897, "name": "club", "weight": 0.27520435967302453}
-{"frequency": 0.18487039581396922, "name": "lounge", "weight": 0.2615803814713896}
-{"frequency": 0.12172737782763443, "name": "latin", "weight": 0.15258855585831063}
-{"frequency": 0.1535066861217706, "name": "dance", "weight": 0.14168937329700274}
+{"frequency": 1.0, "name": "blues", "weight": 1.0, "id": "6428279"}
+{"frequency": 0.9683037845821313, "name": "jazz", "weight": 0.8555858310626703, "id": "6428279"}
+{"frequency": 0.30937814305283207, "name": "house", "weight": 0.2779291553133515, "id": "6428279"}
+{"frequency": 0.299061348880897, "name": "club", "weight": 0.27520435967302453, "id": "6428279"}
+{"frequency": 0.18487039581396922, "name": "lounge", "weight": 0.2615803814713896, "id": "6428279"}
+{"frequency": 0.12172737782763443, "name": "latin", "weight": 0.15258855585831063, "id": "6428279"}
+{"frequency": 0.1535066861217706, "name": "dance", "weight": 0.14168937329700274, "id": "6428279"}

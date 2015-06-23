@@ -1,22 +1,22 @@
-{"frequency": 0.7105886622104722, "name": "industrial", "weight": 1.0}
-{"frequency": 1.0, "name": "electronic", "weight": 0.8284892521949743}
-{"frequency": 0.33439321812508527, "name": "synthpop", "weight": 0.5896155010596428}
-{"frequency": 0.5640101696478889, "name": "experimental", "weight": 0.5820466242809567}
-{"frequency": 0.4919505980975683, "name": "dance", "weight": 0.4339993944898577}
-{"frequency": 0.22446254820003697, "name": "techno", "weight": 0.2779291553133515}
-{"frequency": 0.10218828994067373, "name": "industrial noise", "weight": 0.2582500756887678}
-{"frequency": 0.14815923133580441, "name": "post-punk", "weight": 0.24492885255828034}
-{"frequency": 0.2139835000941196, "name": "electronica", "weight": 0.24144716924008477}
-{"frequency": 0.15525878266145893, "name": "noise", "weight": 0.21677263094156826}
-{"frequency": 0.041560929334113254, "name": "80s", "weight": 0.21177717226763548}
-{"frequency": 0.03434198294029652, "name": "70s", "weight": 0.17499243112322133}
-{"frequency": 0.09278993906497812, "name": "electropop", "weight": 0.1721162579473206}
-{"frequency": 0.19131004797189902, "name": "alternative", "weight": 0.164850136239782}
-{"frequency": 0.3651401461568159, "name": "rock", "weight": 0.16348773841961853}
-{"frequency": 0.13332911070474535, "name": "ambient", "weight": 0.16136845292158644}
-{"frequency": 0.24380340149608576, "name": "pop", "weight": 0.14199212836815017}
-{"frequency": 0.05213401858292636, "name": "technopop", "weight": 0.14047835301241296}
-{"frequency": 0.05359166625051742, "name": "experimental electronic", "weight": 0.13805631244323344}
-{"frequency": 0.04853997566566194, "name": "experimental rock", "weight": 0.11595519224947018}
-{"frequency": 0.11979606951639443, "name": "punk", "weight": 0.11550105964274901}
-{"frequency": 0.13341796648701867, "name": "house", "weight": 0.10581289736603088}
+{"frequency": 0.7105886622104722, "name": "industrial", "weight": 1.0, "id": "562696"}
+{"frequency": 1.0, "name": "electronic", "weight": 0.8284892521949743, "id": "562696"}
+{"frequency": 0.33439321812508527, "name": "synthpop", "weight": 0.5896155010596428, "id": "562696"}
+{"frequency": 0.5640101696478889, "name": "experimental", "weight": 0.5820466242809567, "id": "562696"}
+{"frequency": 0.4919505980975683, "name": "dance", "weight": 0.4339993944898577, "id": "562696"}
+{"frequency": 0.22446254820003697, "name": "techno", "weight": 0.2779291553133515, "id": "562696"}
+{"frequency": 0.10218828994067373, "name": "industrial noise", "weight": 0.2582500756887678, "id": "562696"}
+{"frequency": 0.14815923133580441, "name": "post-punk", "weight": 0.24492885255828034, "id": "562696"}
+{"frequency": 0.2139835000941196, "name": "electronica", "weight": 0.24144716924008477, "id": "562696"}
+{"frequency": 0.15525878266145893, "name": "noise", "weight": 0.21677263094156826, "id": "562696"}
+{"frequency": 0.041560929334113254, "name": "80s", "weight": 0.21177717226763548, "id": "562696"}
+{"frequency": 0.03434198294029652, "name": "70s", "weight": 0.17499243112322133, "id": "562696"}
+{"frequency": 0.09278993906497812, "name": "electropop", "weight": 0.1721162579473206, "id": "562696"}
+{"frequency": 0.19131004797189902, "name": "alternative", "weight": 0.164850136239782, "id": "562696"}
+{"frequency": 0.3651401461568159, "name": "rock", "weight": 0.16348773841961853, "id": "562696"}
+{"frequency": 0.13332911070474535, "name": "ambient", "weight": 0.16136845292158644, "id": "562696"}
+{"frequency": 0.24380340149608576, "name": "pop", "weight": 0.14199212836815017, "id": "562696"}
+{"frequency": 0.05213401858292636, "name": "technopop", "weight": 0.14047835301241296, "id": "562696"}
+{"frequency": 0.05359166625051742, "name": "experimental electronic", "weight": 0.13805631244323344, "id": "562696"}
+{"frequency": 0.04853997566566194, "name": "experimental rock", "weight": 0.11595519224947018, "id": "562696"}
+{"frequency": 0.11979606951639443, "name": "punk", "weight": 0.11550105964274901, "id": "562696"}
+{"frequency": 0.13341796648701867, "name": "house", "weight": 0.10581289736603088, "id": "562696"}

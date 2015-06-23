@@ -1,8 +1,8 @@
-{"frequency": 0.5776563518835421, "name": "electro house", "weight": 1.0}
-{"frequency": 0.3644899698990389, "name": "progressive house", "weight": 0.7257142857142858}
-{"frequency": 1.0, "name": "house", "weight": 0.6714285714285714}
-{"frequency": 0.5606512337220693, "name": "electro", "weight": 0.5561904761904762}
-{"frequency": 0.6056755545335584, "name": "dance", "weight": 0.4523809523809524}
-{"frequency": 0.40589496516447937, "name": "electronic", "weight": 0.28476190476190477}
-{"frequency": 0.2426401399122969, "name": "club", "weight": 0.20285714285714285}
-{"frequency": 0.04366552698548659, "name": "funky house", "weight": 0.10285714285714286}
+{"frequency": 0.5776563518835421, "name": "electro house", "weight": 1.0, "id": "1974064"}
+{"frequency": 0.3644899698990389, "name": "progressive house", "weight": 0.7257142857142858, "id": "1974064"}
+{"frequency": 1.0, "name": "house", "weight": 0.6714285714285714, "id": "1974064"}
+{"frequency": 0.5606512337220693, "name": "electro", "weight": 0.5561904761904762, "id": "1974064"}
+{"frequency": 0.6056755545335584, "name": "dance", "weight": 0.4523809523809524, "id": "1974064"}
+{"frequency": 0.40589496516447937, "name": "electronic", "weight": 0.28476190476190477, "id": "1974064"}
+{"frequency": 0.2426401399122969, "name": "club", "weight": 0.20285714285714285, "id": "1974064"}
+{"frequency": 0.04366552698548659, "name": "funky house", "weight": 0.10285714285714286, "id": "1974064"}

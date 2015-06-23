@@ -1,17 +1,17 @@
-{"frequency": 1.0, "name": "funk", "weight": 1.0}
-{"frequency": 0.8475943198201992, "name": "dance", "weight": 0.6129785247432307}
-{"frequency": 0.729558901744666, "name": "house", "weight": 0.47432306255835666}
-{"frequency": 0.4598648140044052, "name": "electronic", "weight": 0.3123249299719888}
-{"frequency": 0.4656051793999112, "name": "jazz", "weight": 0.30788982259570497}
-{"frequency": 0.13498675235228916, "name": "electro-funk", "weight": 0.29901960784313725}
-{"frequency": 0.1900347122837813, "name": "breakbeat", "weight": 0.2903828197945845}
-{"frequency": 0.30207207917362805, "name": "electro", "weight": 0.2901493930905696}
-{"frequency": 0.25862970150337333, "name": "disco", "weight": 0.2819794584500467}
-{"frequency": 0.29402711972800616, "name": "soul", "weight": 0.2469654528478058}
-{"frequency": 0.1084881267492677, "name": "acid jazz", "weight": 0.23132586367880487}
-{"frequency": 0.12106000151813434, "name": "deep house", "weight": 0.22245564892623715}
-{"frequency": 0.2364605564785087, "name": "electronica", "weight": 0.21872082166199813}
-{"frequency": 0.08224219129003413, "name": "downbeat", "weight": 0.15476190476190477}
-{"frequency": 0.3060629581192991, "name": "pop", "weight": 0.14612511671335202}
-{"frequency": 0.09413760790982807, "name": "trip hop", "weight": 0.13795518207282914}
-{"frequency": 0.02531426126091917, "name": "00s", "weight": 0.1057422969187675}
+{"frequency": 1.0, "name": "funk", "weight": 1.0, "id": "43089"}
+{"frequency": 0.8475943198201992, "name": "dance", "weight": 0.6129785247432307, "id": "43089"}
+{"frequency": 0.729558901744666, "name": "house", "weight": 0.47432306255835666, "id": "43089"}
+{"frequency": 0.4598648140044052, "name": "electronic", "weight": 0.3123249299719888, "id": "43089"}
+{"frequency": 0.4656051793999112, "name": "jazz", "weight": 0.30788982259570497, "id": "43089"}
+{"frequency": 0.13498675235228916, "name": "electro-funk", "weight": 0.29901960784313725, "id": "43089"}
+{"frequency": 0.1900347122837813, "name": "breakbeat", "weight": 0.2903828197945845, "id": "43089"}
+{"frequency": 0.30207207917362805, "name": "electro", "weight": 0.2901493930905696, "id": "43089"}
+{"frequency": 0.25862970150337333, "name": "disco", "weight": 0.2819794584500467, "id": "43089"}
+{"frequency": 0.29402711972800616, "name": "soul", "weight": 0.2469654528478058, "id": "43089"}
+{"frequency": 0.1084881267492677, "name": "acid jazz", "weight": 0.23132586367880487, "id": "43089"}
+{"frequency": 0.12106000151813434, "name": "deep house", "weight": 0.22245564892623715, "id": "43089"}
+{"frequency": 0.2364605564785087, "name": "electronica", "weight": 0.21872082166199813, "id": "43089"}
+{"frequency": 0.08224219129003413, "name": "downbeat", "weight": 0.15476190476190477, "id": "43089"}
+{"frequency": 0.3060629581192991, "name": "pop", "weight": 0.14612511671335202, "id": "43089"}
+{"frequency": 0.09413760790982807, "name": "trip hop", "weight": 0.13795518207282914, "id": "43089"}
+{"frequency": 0.02531426126091917, "name": "00s", "weight": 0.1057422969187675, "id": "43089"}

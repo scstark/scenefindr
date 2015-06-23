@@ -1,5 +1,5 @@
-{"frequency": 1.0, "name": "rock", "weight": 0.44}
-{"frequency": 0.06875070063954855, "name": "60s pop", "weight": 0.3466666666666667}
-{"frequency": 0.06875070063954855, "name": "70s", "weight": 0.3466666666666667}
-{"frequency": 0.06829692115708681, "name": "art rock", "weight": 0.16}
-{"frequency": 0.2789414699720684, "name": "pop", "weight": 0.16}
+{"frequency": 1.0, "name": "rock", "weight": 0.44, "id": "139864"}
+{"frequency": 0.06875070063954855, "name": "60s pop", "weight": 0.3466666666666667, "id": "139864"}
+{"frequency": 0.06875070063954855, "name": "70s", "weight": 0.3466666666666667, "id": "139864"}
+{"frequency": 0.06829692115708681, "name": "art rock", "weight": 0.16, "id": "139864"}
+{"frequency": 0.2789414699720684, "name": "pop", "weight": 0.16, "id": "139864"}

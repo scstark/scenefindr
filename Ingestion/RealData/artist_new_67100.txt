@@ -1,22 +1,22 @@
-{"frequency": 0.3878844662537142, "name": "indie rock", "weight": 1.0}
-{"frequency": 1.0, "name": "rock", "weight": 0.7435212396473417}
-{"frequency": 0.3569239540686925, "name": "indie", "weight": 0.5545462641375011}
-{"frequency": 0.29966491714370336, "name": "alternative", "weight": 0.42880042746460056}
-{"frequency": 0.38489557057467755, "name": "pop", "weight": 0.37225042301184436}
-{"frequency": 0.03517253667551305, "name": "90s", "weight": 0.29762222815923056}
-{"frequency": 0.11671575455011232, "name": "psychedelic", "weight": 0.2539852168492297}
-{"frequency": 0.08234739860372452, "name": "indie pop", "weight": 0.2358179713242497}
-{"frequency": 0.0833815405907489, "name": "lo-fi", "weight": 0.2345711995725354}
-{"frequency": 0.06235932418576055, "name": "classic rock", "weight": 0.2019770237777184}
-{"frequency": 0.06418272977327659, "name": "grunge", "weight": 0.1802475732478404}
-{"frequency": 0.10608944400958632, "name": "folk", "weight": 0.15459969721257458}
-{"frequency": 0.08341776619056096, "name": "blues", "weight": 0.14809867307863567}
-{"frequency": 0.028227429437776917, "name": "college rock", "weight": 0.1460504052008193}
-{"frequency": 0.05265000635845992, "name": "post-punk", "weight": 0.14453646807373766}
-{"frequency": 0.044939199444110005, "name": "new wave", "weight": 0.1381244990649212}
-{"frequency": 0.08549123832637809, "name": "punk", "weight": 0.13687772731320688}
-{"frequency": 0.06530290405157638, "name": "hardcore", "weight": 0.1301095378039006}
-{"frequency": 0.08349249808838431, "name": "country", "weight": 0.1270816635497373}
-{"frequency": 0.026000307407540578, "name": "stoner rock", "weight": 0.11443583578234927}
-{"frequency": 0.07476291833702312, "name": "electronic", "weight": 0.10285866951643068}
-{"frequency": 0.03140066507684039, "name": "psychedelic rock", "weight": 0.1011666221391041}
+{"frequency": 0.3878844662537142, "name": "indie rock", "weight": 1.0, "id": "67100"}
+{"frequency": 1.0, "name": "rock", "weight": 0.7435212396473417, "id": "67100"}
+{"frequency": 0.3569239540686925, "name": "indie", "weight": 0.5545462641375011, "id": "67100"}
+{"frequency": 0.29966491714370336, "name": "alternative", "weight": 0.42880042746460056, "id": "67100"}
+{"frequency": 0.38489557057467755, "name": "pop", "weight": 0.37225042301184436, "id": "67100"}
+{"frequency": 0.03517253667551305, "name": "90s", "weight": 0.29762222815923056, "id": "67100"}
+{"frequency": 0.11671575455011232, "name": "psychedelic", "weight": 0.2539852168492297, "id": "67100"}
+{"frequency": 0.08234739860372452, "name": "indie pop", "weight": 0.2358179713242497, "id": "67100"}
+{"frequency": 0.0833815405907489, "name": "lo-fi", "weight": 0.2345711995725354, "id": "67100"}
+{"frequency": 0.06235932418576055, "name": "classic rock", "weight": 0.2019770237777184, "id": "67100"}
+{"frequency": 0.06418272977327659, "name": "grunge", "weight": 0.1802475732478404, "id": "67100"}
+{"frequency": 0.10608944400958632, "name": "folk", "weight": 0.15459969721257458, "id": "67100"}
+{"frequency": 0.08341776619056096, "name": "blues", "weight": 0.14809867307863567, "id": "67100"}
+{"frequency": 0.028227429437776917, "name": "college rock", "weight": 0.1460504052008193, "id": "67100"}
+{"frequency": 0.05265000635845992, "name": "post-punk", "weight": 0.14453646807373766, "id": "67100"}
+{"frequency": 0.044939199444110005, "name": "new wave", "weight": 0.1381244990649212, "id": "67100"}
+{"frequency": 0.08549123832637809, "name": "punk", "weight": 0.13687772731320688, "id": "67100"}
+{"frequency": 0.06530290405157638, "name": "hardcore", "weight": 0.1301095378039006, "id": "67100"}
+{"frequency": 0.08349249808838431, "name": "country", "weight": 0.1270816635497373, "id": "67100"}
+{"frequency": 0.026000307407540578, "name": "stoner rock", "weight": 0.11443583578234927, "id": "67100"}
+{"frequency": 0.07476291833702312, "name": "electronic", "weight": 0.10285866951643068, "id": "67100"}
+{"frequency": 0.03140066507684039, "name": "psychedelic rock", "weight": 0.1011666221391041, "id": "67100"}

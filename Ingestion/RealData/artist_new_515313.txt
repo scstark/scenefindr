@@ -1,22 +1,22 @@
-{"frequency": 0.44689629178777374, "name": "no wave", "weight": 1.0}
-{"frequency": 0.6604705484179605, "name": "post-punk", "weight": 0.856131624258657}
-{"frequency": 0.7636549368906995, "name": "funk", "weight": 0.7304381098144251}
-{"frequency": 0.7516109920108917, "name": "hip hop", "weight": 0.5792997895542377}
-{"frequency": 0.6769300462642099, "name": "jazz", "weight": 0.42816146929405013}
-{"frequency": 0.10112805820219269, "name": "70s", "weight": 0.40405586378419744}
-{"frequency": 0.09777627597436592, "name": "80s", "weight": 0.39066386072316817}
-{"frequency": 0.5257582962027916, "name": "dance", "weight": 0.36368854027166636}
-{"frequency": 0.41982155782407804, "name": "soul", "weight": 0.33728716280849436}
-{"frequency": 0.13571360326202023, "name": "dance-punk", "weight": 0.289075951788789}
-{"frequency": 0.37579820631817873, "name": "punk", "weight": 0.2841017792232638}
-{"frequency": 0.29985593581084535, "name": "electro", "weight": 0.27549263439831645}
-{"frequency": 0.2335342423461598, "name": "disco", "weight": 0.24354314138128946}
-{"frequency": 0.1979916580156881, "name": "dub", "weight": 0.2423952554046298}
-{"frequency": 0.2983344204520752, "name": "indie", "weight": 0.21886359288310694}
-{"frequency": 0.26181018048085003, "name": "electronic", "weight": 0.17007843887507174}
-{"frequency": 0.10756827440372306, "name": "new wave", "weight": 0.15611249282571266}
-{"frequency": 0.18961608550958645, "name": "experimental", "weight": 0.1534340922135068}
-{"frequency": 0.4310449196028506, "name": "rock", "weight": 0.15132963458963075}
-{"frequency": 0.20981586635606797, "name": "alternative", "weight": 0.141763918117467}
-{"frequency": 0.25764531883606, "name": "pop", "weight": 0.11765831260761431}
-{"frequency": 0.15093471154342697, "name": "club", "weight": 0.1168930552898412}
+{"frequency": 0.44689629178777374, "name": "no wave", "weight": 1.0, "id": "515313"}
+{"frequency": 0.6604705484179605, "name": "post-punk", "weight": 0.856131624258657, "id": "515313"}
+{"frequency": 0.7636549368906995, "name": "funk", "weight": 0.7304381098144251, "id": "515313"}
+{"frequency": 0.7516109920108917, "name": "hip hop", "weight": 0.5792997895542377, "id": "515313"}
+{"frequency": 0.6769300462642099, "name": "jazz", "weight": 0.42816146929405013, "id": "515313"}
+{"frequency": 0.10112805820219269, "name": "70s", "weight": 0.40405586378419744, "id": "515313"}
+{"frequency": 0.09777627597436592, "name": "80s", "weight": 0.39066386072316817, "id": "515313"}
+{"frequency": 0.5257582962027916, "name": "dance", "weight": 0.36368854027166636, "id": "515313"}
+{"frequency": 0.41982155782407804, "name": "soul", "weight": 0.33728716280849436, "id": "515313"}
+{"frequency": 0.13571360326202023, "name": "dance-punk", "weight": 0.289075951788789, "id": "515313"}
+{"frequency": 0.37579820631817873, "name": "punk", "weight": 0.2841017792232638, "id": "515313"}
+{"frequency": 0.29985593581084535, "name": "electro", "weight": 0.27549263439831645, "id": "515313"}
+{"frequency": 0.2335342423461598, "name": "disco", "weight": 0.24354314138128946, "id": "515313"}
+{"frequency": 0.1979916580156881, "name": "dub", "weight": 0.2423952554046298, "id": "515313"}
+{"frequency": 0.2983344204520752, "name": "indie", "weight": 0.21886359288310694, "id": "515313"}
+{"frequency": 0.26181018048085003, "name": "electronic", "weight": 0.17007843887507174, "id": "515313"}
+{"frequency": 0.10756827440372306, "name": "new wave", "weight": 0.15611249282571266, "id": "515313"}
+{"frequency": 0.18961608550958645, "name": "experimental", "weight": 0.1534340922135068, "id": "515313"}
+{"frequency": 0.4310449196028506, "name": "rock", "weight": 0.15132963458963075, "id": "515313"}
+{"frequency": 0.20981586635606797, "name": "alternative", "weight": 0.141763918117467, "id": "515313"}
+{"frequency": 0.25764531883606, "name": "pop", "weight": 0.11765831260761431, "id": "515313"}
+{"frequency": 0.15093471154342697, "name": "club", "weight": 0.1168930552898412, "id": "515313"}

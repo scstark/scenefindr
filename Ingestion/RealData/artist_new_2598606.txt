@@ -1,10 +1,10 @@
-{"frequency": 1.0, "name": "gospel", "weight": 1.0}
-{"frequency": 0.3504626181415445, "name": "garage rock", "weight": 0.5546334716459198}
-{"frequency": 0.24252657266235683, "name": "doo-wop", "weight": 0.4197786998616874}
-{"frequency": 0.46978748912069046, "name": "indie", "weight": 0.3132780082987552}
-{"frequency": 0.43069905635768063, "name": "punk", "weight": 0.2959889349930844}
-{"frequency": 0.12822621789072844, "name": "garage punk", "weight": 0.23374827109266944}
-{"frequency": 0.1483425229139077, "name": "blues-rock", "weight": 0.20470262793914246}
-{"frequency": 0.13401203316944288, "name": "lo-fi", "weight": 0.16182572614107885}
-{"frequency": 0.13997700240528674, "name": "americana", "weight": 0.15491009681881052}
-{"frequency": 0.4140706263134776, "name": "rock", "weight": 0.13208852005532504}
+{"frequency": 1.0, "name": "gospel", "weight": 1.0, "id": "2598606"}
+{"frequency": 0.3504626181415445, "name": "garage rock", "weight": 0.5546334716459198, "id": "2598606"}
+{"frequency": 0.24252657266235683, "name": "doo-wop", "weight": 0.4197786998616874, "id": "2598606"}
+{"frequency": 0.46978748912069046, "name": "indie", "weight": 0.3132780082987552, "id": "2598606"}
+{"frequency": 0.43069905635768063, "name": "punk", "weight": 0.2959889349930844, "id": "2598606"}
+{"frequency": 0.12822621789072844, "name": "garage punk", "weight": 0.23374827109266944, "id": "2598606"}
+{"frequency": 0.1483425229139077, "name": "blues-rock", "weight": 0.20470262793914246, "id": "2598606"}
+{"frequency": 0.13401203316944288, "name": "lo-fi", "weight": 0.16182572614107885, "id": "2598606"}
+{"frequency": 0.13997700240528674, "name": "americana", "weight": 0.15491009681881052, "id": "2598606"}
+{"frequency": 0.4140706263134776, "name": "rock", "weight": 0.13208852005532504, "id": "2598606"}

@@ -1,7 +1,7 @@
-{"frequency": 1.0, "name": "downtempo", "weight": 1.0}
-{"frequency": 0.7803766011018879, "name": "lounge", "weight": 0.6928446771378709}
-{"frequency": 0.5688850728122357, "name": "dub", "weight": 0.525305410122164}
-{"frequency": 0.8553751649899041, "name": "soul", "weight": 0.518324607329843}
-{"frequency": 0.7850866293325668, "name": "house", "weight": 0.3682373472949389}
-{"frequency": 0.2633234367717339, "name": "ambient", "weight": 0.18848167539267016}
-{"frequency": 0.3043919556185288, "name": "dance", "weight": 0.15881326352530542}
+{"frequency": 1.0, "name": "downtempo", "weight": 1.0, "id": "315553"}
+{"frequency": 0.7803766011018879, "name": "lounge", "weight": 0.6928446771378709, "id": "315553"}
+{"frequency": 0.5688850728122357, "name": "dub", "weight": 0.525305410122164, "id": "315553"}
+{"frequency": 0.8553751649899041, "name": "soul", "weight": 0.518324607329843, "id": "315553"}
+{"frequency": 0.7850866293325668, "name": "house", "weight": 0.3682373472949389, "id": "315553"}
+{"frequency": 0.2633234367717339, "name": "ambient", "weight": 0.18848167539267016, "id": "315553"}
+{"frequency": 0.3043919556185288, "name": "dance", "weight": 0.15881326352530542, "id": "315553"}
