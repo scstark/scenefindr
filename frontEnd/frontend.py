@@ -6,7 +6,7 @@ import json
 import pickle
 from cqlengine import *
 from scipy import sparse
-cluster = Cluster(['172.31.0.173'])#ip goes here
+cluster = Cluster([''])#ip goes here
 session = cluster.connect()
 session.set_keyspace( 'scenefindr' )
 
