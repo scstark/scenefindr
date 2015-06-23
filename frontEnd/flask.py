@@ -1,10 +1,8 @@
-SELECT * FROM watch
-
 from cassandra.cluster import Cluster
 from flask import Flask
 import json
 
-cluster = Cluster(['172.31.0.173'])
+cluster = Cluster([''])#ip goes here
 session = cluster.connect('sceneFindr')
 
 app = Flask(__name__)
