@@ -92,18 +92,18 @@ def fun3( input ):
 
 	return [areaKey, ven_id, ven_name, lat, long, url, metroName, feature]
 
-def fun4( art_id ):
+#def fun4( art_id ):
 	#helper function to query cassandra for artist features
-	q = "SELECT feature FROM artists WHERE id=%s" % art_id
-	result = session.execute( q ) 
-	print 'TYPE OF RESULT: %s' % type(result).__name__
-	dill = pickle.loads( result[0][0] )
+	#q = "SELECT feature FROM artists WHERE id=%s" % art_id
+	#result = session.execute( q ) 
+	#print 'TYPE OF RESULT: %s' % type(result).__name__
+	#dill = pickle.loads( result[0][0] )
 	#response = pickle.loads( result[0][0] )
-        print 'queried cassie for id %s' % id
+        #print 'queried cassie for id %s' % id
         #print 'result of query is: %s' % response
-	print 'TYPE OF RESULT: %s' % type(dill).__name__
+	#print 'TYPE OF RESULT: %s' % type(dill).__name__
 	#return pickle.loads( result[0][0] )
-	return dill
+	#return dill
 #connect the demo keyspace on our cluster running at
 connection.setup(['127.0.0.1'], 'scenefindr')
 
@@ -112,13 +112,17 @@ connection.setup(['127.0.0.1'], 'scenefindr')
 #sync_table(artists)
 #artists.create( id = '544909', feature = ''
 
+#def fun4( art_id ):
+#	return keys[art_id]
+
+
 
 
 
 #objection = sc.textFile( "hdfs://:9000/user/sceneFindr/history/artist_new")
 #print 'FILTER HERE %s' % filter
 #first load genre mapping utility file into dictionary
-filename = "hdfs://:9000/user/sceneFindr/history/genres.txt" #public dns goes here
+filename = "hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history/genres.txt" #public dns goes here
 thing = sc.textFile( filename )
 thing2 = thing.map(lambda x : x.split(",") )
 blah = thing2.map( lambda x : (x[0],x[1]) )
@@ -130,30 +134,50 @@ for la in blah.collect():
 	#print la[0]
 	dict[la[0]] = int( la[1] )
 #for each file in the filter
-objection = sqlContext.jsonFile( "hdfs://:9000/user/sceneFindr/history/artist_new")#public DNS goes here
+objection = sqlContext.jsonFile( "hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history/artist_new")#public DNS goes here
 #map to (id, name_feature) tuple
 ob1 = objection.map( lambda line : fun( line ) ) 
-ob2 = ob1.reduceByKey( lambda a,b : a + b ) 
+ob2 = ob1.reduceByKey( lambda a,b : a + b )
 #ob2 = ob1.map( lambda 
 ob3 = ob2.collect()
 #load path
 sync_table(artists)
 
+#keys = dict( ob3 )
+
+
 #write contents of ob2 (reduced vectors and ids) to cassie
 for item in ob3:
 	artists.create( id = item[0], feature = pickle.dumps( item[1] ) )
 
+keys = ob2.collectAsMap()
 #print 'synced table'
 #v = sparse.csc_matrix((1,721))
 #v[0,1] = 1
 #artists.create( id = "80951", feature = pickle.dumps( v ) )
-
-#def fun( ln ):
+def fun4( art_id ):
+	#if art_id == '8084088
+	#if art_id in keys.keys():
+	#	return keys[art_id]
+        #else:
+	#	return sparse.csc_matrix((1,721))
+	try:
+		return keys[art_id]
+	except KeyError:
+		return sparse.csc_matrix((1,721))
+#def fun( ln )
 #	#return (id, gen_feature) tuple
 #	id = ln[1]
 #	gen_feature = sparse.csc_matrix((1,721))
 #	gen_feature[0,dict[ln[2]]] = 1*ln[3]*ln[0]
 #	return (id, gen_feature)
+
+
+def getBilling( b ):
+	if b in billing.keys():
+		return billing[b]
+	else:
+		return 0
 
 
 #path = "hdfs://:9000/artist_new_100901.txt"
@@ -186,26 +210,35 @@ for item in ob3:
 
 #def fun5( artId ):
 	
+#query = "SELECT feature FROM artists"
+#query all artist vectors and depickle it in an rdd
+#artvecs = session.execute( query )
 
+#artvecs2 = sc.parallelize(artvecs)
 
+#artvecs2.cache() 
 
 #for each path in the filter
 #for path in filter2:
 #diction = {}
-events = sqlContext.jsonFile("hdfs://:9000/user/sceneFindr/history/events") 
+events = sqlContext.jsonFile("hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history/events") 
 sync_table(venues)
 ev2 = events.select( "resultsPage.results")
 #print 'LENGTH OF ev2 IS: %s' % str( len( ev2 ) )
-9for item in ev2.collect():
+for item in ev2.collect():
 	ev3 = item[0]
 	ev4 = ev3[0]
 	ev5 = sc.parallelize( ev4 )
-	ev6 = ev5.map( lambda x : ( ( x[12], x[4] ), x[5] ) ).reduceByKey( lambda a,b : a + b )
+	ev6 = ev5.map( lambda x : ( ( x[12], x[4] ), x[5] ) ).reduceByKey( lambda a,b : a + b ).coalesce( 10 )
 	#aggregate the performance lists by venue information
 	#ev7 = ev6.map( lambda x : fun3( x )  )
-	ev7 = ev6.map( lambda x : ( x[0], reduce( lambda a,b: a + b, map( lambda y: fun4( y[0][0][1] )*billing[x[0][1]], x[1] ) ) ) )
+	ev7 = ev6.map( lambda x : ( x[0], map( lambda y: fun4( y[0][0][1] )*getBilling(y[0][1]), x[1] ) ) ) 
+	#ev7 = ev6.map( lambda x : ( x[0], reduce( lambda a,b: a + b, map( lambda y: fun4( y[0][0][1] )*billing[y[0][1]], x[1] ) ) ) )
 	
 	ev8 = ev7.collect()	
+	
+	for item in ev8:
+		venues.create( areaKey = item[0][0][4][2], ven_id = item[0][0][1], lat = item[0][0][2], long = item[0][0][3], url = item[0][0][5], ven_name = item[0][0][0], metroName = item[0][0][4][1], feature = pickle.dumps( item[1] ) )
 	#print ev7.first()
 	#( 0 : areaKey, 1 : ven_id, 2 : ven_name, 3 : lat, 4 : long, 5 : url, 6 : metroName, 7 : feature)
 	#for item in ev8:
