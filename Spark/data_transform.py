@@ -22,7 +22,7 @@ import pyspark.mllib.clustering as clustering
 sc = SparkContext("spark://:7077", "i hate this")#PRIVATE DNS HERE!!!!
 sqlContext = SQLContext(sc)
 
-cluster = Cluster(['','','','',''])#ip goes here
+cluster = Cluster([''])#ip goes here
 session = cluster.connect()
 session.set_keyspace( 'scenefindr' )
 
@@ -37,13 +37,13 @@ class artists( Model ):
                 return '%s%s' % (self.id, self.feature)
 
 class venues( Model ):
-	metro = columns.Text(primary_key = True)
-	ven_id = columns.Text(primary_key = True)
+	metkey = columns.Text(primary_key = True)
+	venid = columns.Text(primary_key = True)
 	ven_name = columns.Text()
 	url = columns.Text()
 	lat = columns.Float()
 	long = columns.Float()
-	metName = columns.Text()
+	metname = columns.Text()
 	feature = columns.Blob()
 	#(areaKey, ven_id, ven_name, lat, long, url, metroName, feature)
 	def __repr__(self):
@@ -122,7 +122,7 @@ connection.setup(['127.0.0.1'], 'scenefindr')
 #objection = sc.textFile( "hdfs://:9000/user/sceneFindr/history/artist_new")
 #print 'FILTER HERE %s' % filter
 #first load genre mapping utility file into dictionary
-filename = "hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history/genres.txt" #public dns goes here
+filename = "hdfs://:9000/user/sceneFindr/history/genres.txt" #public dns goes here
 thing = sc.textFile( filename )
 thing2 = thing.map(lambda x : x.split(",") )
 blah = thing2.map( lambda x : (x[0],x[1]) )
@@ -134,7 +134,7 @@ for la in blah.collect():
 	#print la[0]
 	dict[la[0]] = int( la[1] )
 #for each file in the filter
-objection = sqlContext.jsonFile( "hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history/artist_new")#public DNS goes here
+objection = sqlContext.jsonFile( "hdfs://:9000/user/sceneFindr/history/artist_new")#public DNS goes here
 #map to (id, name_feature) tuple
 ob1 = objection.map( lambda line : fun( line ) ) 
 ob2 = ob1.reduceByKey( lambda a,b : a + b )
@@ -177,7 +177,7 @@ def getBilling( b ):
 	if b in billing.keys():
 		return billing[b]
 	else:
-		return 0
+		return 1
 
 
 #path = "hdfs://:9000/artist_new_100901.txt"
@@ -218,10 +218,19 @@ def getBilling( b ):
 
 #artvecs2.cache() 
 
+
+def fun5( input ):
+	#input is list of artist feature vectors for an event
+	try:
+		return reduce( lambda a,b: a+b, input)
+	except TypeError:
+		return sparse.csc_matrix( (1,721) )
+
+
 #for each path in the filter
 #for path in filter2:
 #diction = {}
-events = sqlContext.jsonFile("hdfs://ec2-52-8-170-155.us-west-1.compute.amazonaws.com:9000/user/sceneFindr/history/events") 
+events = sqlContext.jsonFile("hdfs://:9000/user/sceneFindr/history/events") 
 sync_table(venues)
 ev2 = events.select( "resultsPage.results")
 #print 'LENGTH OF ev2 IS: %s' % str( len( ev2 ) )
@@ -232,13 +241,15 @@ for item in ev2.collect():
 	ev6 = ev5.map( lambda x : ( ( x[12], x[4] ), x[5] ) ).reduceByKey( lambda a,b : a + b ).coalesce( 10 )
 	#aggregate the performance lists by venue information
 	#ev7 = ev6.map( lambda x : fun3( x )  )
-	ev7 = ev6.map( lambda x : ( x[0], map( lambda y: fun4( y[0][0][1] )*getBilling(y[0][1]), x[1] ) ) ) 
-	#ev7 = ev6.map( lambda x : ( x[0], reduce( lambda a,b: a + b, map( lambda y: fun4( y[0][0][1] )*billing[y[0][1]], x[1] ) ) ) )
-	
-	ev8 = ev7.collect()	
-	
+	#ev7 = ev6.map( lambda x : ( x[0], map( lambda y: fun4( y[0][0][1] )*getBilling(y[0][1]), x[1] ) ) )#.reduceByKey( lambda a,b: a+b )
+	ev7 = ev6.map( lambda x : ( x[0], reduce( lambda a,b: a + b, map( lambda y: fun4( y[0][0][1] )*getBilling( y[0][1] ), x[1] ) ) ) )
+	#ev7 = ev6.map( lambda x : ( x[0], fun5( map( lambda y: fun4( y[0][0][1] ) * getBilling( y[
+	#ev8 = ev7.map( lambda x : ( x[0], reduce( lambda a,b: a+b, x[1] ) )
+	#newEvents = ev8.collect()	
+	ev8 = ev7.collect()
 	for item in ev8:
-		venues.create( areaKey = item[0][0][4][2], ven_id = item[0][0][1], lat = item[0][0][2], long = item[0][0][3], url = item[0][0][5], ven_name = item[0][0][0], metroName = item[0][0][4][1], feature = pickle.dumps( item[1] ) )
+		venues.create( metkey = str(item[0][0][4][2]), venid = str(item[0][0][1]), feature = pickle.dumps( item[1] ), lat = item[0][0][2], long = item[0][0][3], metname = item[0][0][4][1], url = item[0][0][5], ven_name = item[0][0][0] )
+	
 	#print ev7.first()
 	#( 0 : areaKey, 1 : ven_id, 2 : ven_name, 3 : lat, 4 : long, 5 : url, 6 : metroName, 7 : feature)
 	#for item in ev8:
@@ -252,6 +263,12 @@ for item in ev2.collect():
 	#	areaKey = thing[0][0][4][2]
 	#	metroName = thing[0][0][4][1]
 	#	feature = fun2( thing[1] )
+
+#start batch ML algorithms
+model = KMeans()
+
+
+
 		
 #blah2 = blah.collect[0]
 #blah3 = blah2[0]
