@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-token = 'WGLTwENb36bAgHNc'
+token = ''
 #query all events in LA Metro Area
 def parse_artists( data ):
 	thing0 = data['resultsPage']
@@ -29,7 +29,7 @@ def parse_artists( data ):
 			#print 'writing to file %s' % filename
 			#writer = open( filename, 'w' )
 			#write artist distribution file
-			key = '8HMTSGFYLCXWETBE0'
+			key = ''
 			#query EchoNest for artist TF
 			pt = 'http://developer.echonest.com/api/v4/artist/terms?'
 			qp = {'api_key': key, 'name': artName, 'format': 'json' }#, 'bucket': 'id:songkick' }
