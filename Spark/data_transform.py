@@ -52,12 +52,35 @@ class venues( Model ):
 	def __repr__(self):
 		return '%s%s%s%s%d%d%s' %( self.metro, self.ven_id, self.ven_name, self.lat, self.long, self.url, self.metName, self.feature )
 
+#class centers( Model ):
+#	metkey = columns.Text( primary_key = True )
+#	centers = columns.Blob()
+#
+#	def __repr__(self):
+#		return '%s%s' % ( self.metkey, self.centers )
+
+
+filename = "hdfs://%s:9000/user/sceneFindr/history/genres.txt" % pubDNS #public dns goes here
+thing = sc.textFile( filename )
+thing2 = thing.map(lambda x : x.split(",") )
+blah = thing2.map( lambda x : (x[0],x[1]) )
+
+gens = {}
+
+for la in blah.collect():
+	#print la
+	#print la[0]
+	gens[la[0]] = int( la[1] )
+
+
+
+
 
 def fun( ln ):
         #return (id, gen_feature) tuple
         id = ln[1]
-        gen_feature = sparse.csc_matrix((721,1))
-        gen_feature[dict[ln[2]],0] = 1*ln[3]*ln[0]
+        gen_feature = sparse.csc_matrix((len(gens.keys()),1))
+        gen_feature[gens[ln[2]],0] = 1*ln[3]*ln[0]
         return (id, gen_feature)
 
 
@@ -95,18 +118,6 @@ def fun3( input ):
 
 	return [areaKey, ven_id, ven_name, lat, long, url, metroName, feature]
 
-#def fun4( art_id ):
-	#helper function to query cassandra for artist features
-	#q = "SELECT feature FROM artists WHERE id=%s" % art_id
-	#result = session.execute( q ) 
-	#print 'TYPE OF RESULT: %s' % type(result).__name__
-	#dill = pickle.loads( result[0][0] )
-	#response = pickle.loads( result[0][0] )
-        #print 'queried cassie for id %s' % id
-        #print 'result of query is: %s' % response
-	#print 'TYPE OF RESULT: %s' % type(dill).__name__
-	#return pickle.loads( result[0][0] )
-	#return dill
 #connect the demo keyspace on our cluster running at
 connection.setup(['127.0.0.1'], 'scenefindr')
 
@@ -124,12 +135,12 @@ thing = sc.textFile( filename )
 thing2 = thing.map(lambda x : x.split(",") )
 blah = thing2.map( lambda x : (x[0],x[1]) )
 
-dict = {}
+#gens = {}
 
-for la in blah.collect():
+#for la in blah.collect():
 	#print la
 	#print la[0]
-	dict[la[0]] = int( la[1] )
+#	gens[la[0]] = int( la[1] )
 #for each file in the filter
 artistPath = "hdfs://%s:9000/user/sceneFindr/history/artist_new" % pubDNS
 
@@ -142,11 +153,16 @@ ob3 = ob2.collect()
 #load path
 sync_table(artists)
 
+artFeatures = {}
 #write contents of ob2 (reduced vectors and ids) to cassie
 for item in ob3:
+	artFeatures[item[0]] = item[1] #add vectors to a dictionary.
 	artists.create( id = item[0], feature = pickle.dumps( item[1] ) )
 
-keys = ob2.collectAsMap()
+#arts = ob2.collectAsMap()
+#arts = sc.parallelize( ob3 ).collectAsMap()
+#ob3.cache()
+
 
 def fun4( art_id ):
 	#if art_id == '8084088
@@ -155,32 +171,35 @@ def fun4( art_id ):
         #else:
 	#	return sparse.csc_matrix((1,721))
 	try:
-		return keys[art_id]
+		return artFeatures[art_id]
+		#return [y[0] for y in ob3].index(art_id)
 	except KeyError:
-		return sparse.csc_matrix((721,1))
-#def fun( ln )
-#	#return (id, gen_feature) tuple
-#	id = ln[1]
-#	gen_feature = sparse.csc_matrix((1,721))
-#	gen_feature[0,dict[ln[2]]] = 1*ln[3]*ln[0]
-#	return (id, gen_feature)
-
+		vec = sparse.csc_matrix((len(gens.keys()),1))
+		#vec[4,0] = 1
+		#return sparse.csc_matrix((721,1))
+		return vec
 
 def getBilling( b ):
-	if b in billing.keys():
+	#if b in billing.keys():
+	#	return billing[b]
+	#else:
+	#	return 1
+	try:
 		return billing[b]
-	else:
+	except KeyError:
 		return 1
-	
 
 
 def fun5( input ):
 	#input is list of artists for a venue
 	try:
-		list = map( lambda x : fun4( x[0][0][1] ) * getBilling( x[0][1] ), input)
-		return reduce( lambda a,b: a+b, list)
+		vecList = map( lambda x : fun4( x[0][1] ) * getBilling( x[1] ), input)
+		return reduce( lambda a,b: a+b, vecList)
 	except TypeError:
-		return sparse.csc_matrix( (721,1) )
+		vec = sparse.csc_matrix( (len(gens.keys()),1) )
+		#vec[5,0] = 1
+		#return sparse.csc_matrix( (721,1) )
+		return vec
 
 
 #for each path in the filter
@@ -215,47 +234,10 @@ for item in ev8:
 	
 	#print ev7.first()
 	#( 0 : areaKey, 1 : ven_id, 2 : ven_name, 3 : lat, 4 : long, 5 : url, 6 : metroName, 7 : feature)
-	#for item in ev8:
-	#	venues.create( areaKey = item[0], ven_id = item[1], ven_name = item[2], lat = item[3], long = item[4], url = item[5], metroName = item[6], feature = item[7] )
-	#for thing in ev6.collect():
-	#	ven_name = thing[0][0][0]
-	#	ven_id = thing[0][0][1]
-	#	lat = thing[0][0][2]
-	#	long = thing[0][0][3]
-	#	url = thing[0][0][5]
-	#	areaKey = thing[0][0][4][2]
-	#	metroName = thing[0][0][4][1]
-	#	feature = fun2( thing[1] )
 
 #start batch ML algorithms
 model = clustering.KMeans()
 
-ev9 = ev7.map( lambda x : x[1] ) #only use feature vectors for this
+ev9 = ev7.map( lambda x : x[1] ) # only use feature vectors for this
 
-model.train( ev9, 28 ) #rdd, k
-
-
-		
-#blah2 = blah.collect[0]
-#blah3 = blah2[0]
-#la = blah3[0]
-#	la.map( lambda x : fun(x) ) 
-	#under resultsPage/results/event/venue/id?? to get easy list
-	#of events per venue id.
-	
-	#for each venue id 
-	#then get the associated events
-	#then create feature vectors for each venue based on artist features
-	#from cassandra
-	
-
-	#then save to cassandra:
-	#metro region, venue id, venue name, lat, long, address, website, feature.
-		
-#get each event for each venue. return a tuple with (venue_key, [event])
-#def fun(x):
-#	#x is a list
-
-#	thing1 = x[12][3] #get venue id
-#	thing2 = x[5] #get performance info
-#	return (thing1, thing2)
+model.train( ev9, 28 ) # rdd,k

@@ -7,7 +7,7 @@ import glob
 list = []
 
 #files = os.listdir('./RealData/')
-filter = glob.glob('./RealData/artist*.txt') 
+filter = glob.glob('../../RealData/artist*.txt') 
 
 for afile in filter:
 	f = open( afile, 'r' )
@@ -36,7 +36,7 @@ for afile in filter:
 
 #write the list to file
 
-filename = 'RealData/genres.txt'
+filename = 'genres.txt'
 file_writer = open( filename, 'w' )
 i = 0
 for item in list:

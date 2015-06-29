@@ -2,8 +2,8 @@ import requests
 import json
 import time
 
-token = ''
-#query all events in SF Metro Area
+token = 'WGLTwENb36bAgHNc'
+#query all events in LA Metro Area
 def parse_artists( data ):
 	thing0 = data['resultsPage']
 	thing = thing0['results']
@@ -25,11 +25,11 @@ def parse_artists( data ):
 			#	thing4 = thing3['artist']
 			artName= thing5['displayName']
 			artID= str( thing5['id'] ) 
-			filename = 'RealData/artist_%s.txt' % artID
+			filename = '../../RealData/artist_%s.txt' % artID
 			#print 'writing to file %s' % filename
 			#writer = open( filename, 'w' )
 			#write artist distribution file
-			key = ''
+			key = '8HMTSGFYLCXWETBE0'
 			#query EchoNest for artist TF
 			pt = 'http://developer.echonest.com/api/v4/artist/terms?'
 			qp = {'api_key': key, 'name': artName, 'format': 'json' }#, 'bucket': 'id:songkick' }
@@ -56,9 +56,9 @@ def parse_artists( data ):
 #fw.write( json.dumps(  flufflyDuckling ) )
 #fw.close()
 
-for i in range(1,24):
+for i in range(1,20):
 	query_params = { 'apikey': token,
-        	         'location': 'sk:26330',
+        	         'location': 'sk:9426',
                 	 'per_page': 100,
                  	'page': i,
 		         }
@@ -71,9 +71,10 @@ for i in range(1,24):
 	
 	#get artist information
 	#go to 'performance:artist:id' and get their distributions from echonest
-	#parse_artists( full_data )
-	
-	file_name = "RealData/%s_events_%s.txt" % (query_params['location'],query_params['page'])
+	parse_artists( full_data )
+	locName = query_params['location'].split(":")
+	metroName = locName[0]+locName[1]
+	file_name = "../../RealData/%s_events_%s.txt" % (metroName,query_params['page'])
 	#print full_data['resultsPage']
 	file_writer = open(file_name, 'w' )
 	#data = full_data['resultsPage']['results']['event']

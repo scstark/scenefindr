@@ -3,7 +3,7 @@
 import json
 import glob
 
-filter = glob.glob("RealData/artist_*.txt")
+filter = glob.glob("../../RealData/artist_*.txt")
 for afile in filter:
 	if 'new' in afile:
 		print 'new is in filename. continuing'
