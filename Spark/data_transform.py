@@ -21,7 +21,7 @@ import pyspark.mllib.clustering as clustering
 
 privateIP = ''
 pubDNS = ''
-sc = SparkContext("spark://ip-172-31-0-173:7077", "i hate this")#PRIVATE DNS HERE!!!!
+sc = SparkContext("spark://:7077", "i hate this")#PRIVATE DNS HERE!!!!
 sqlContext = SQLContext(sc)
 
 
