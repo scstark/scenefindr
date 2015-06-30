@@ -29,7 +29,7 @@ def cass_api(id):
 	print 'result of query is: %s \ni hate my life' % response 
 # 	return json.dumps( response )
 #	return response
-	return 'hi'
+	return str( response )
 
 @app.route("/api/venue/<metkey>/<venid>")
 def query_venues( metkey, venid ):
@@ -44,7 +44,8 @@ def query_venues( metkey, venid ):
 	response = pickle.loads( result[0][0] )
 	print 'queried cassie for venue id %s' % venid
         print 'result of query is: %s \ni hate my life' % response
-	return 'hi'
+	return str( response )
+	#return 'hi'
 
 @app.route("/api/clusters/<metid>")
 def query_clusters( id ):

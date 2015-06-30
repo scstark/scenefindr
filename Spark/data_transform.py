@@ -61,13 +61,13 @@ class venues( Model ):
 
 
 filename = "hdfs://%s:9000/user/sceneFindr/history/genres.txt" % pubDNS #public dns goes here
-thing = sc.textFile( filename )
-thing2 = thing.map(lambda x : x.split(",") )
-blah = thing2.map( lambda x : (x[0],x[1]) )
+thing = sc.textFile( filename ).map( lambda x : x.split( "," ) ).map( lambda x : ( x[0],x[1] ) )
+#thing2 = thing.map(lambda x : x.split(",") )
+#blah = thing2.map( lambda x : (x[0],x[1]) )
 
 gens = {}
 
-for la in blah.collect():
+for la in thing.collect():
 	#print la
 	#print la[0]
 	gens[la[0]] = int( la[1] )
@@ -130,10 +130,10 @@ connection.setup(['127.0.0.1'], 'scenefindr')
 #print 'FILTER HERE %s' % filter
 #first load genre mapping utility file into dictionary
 
-filename = "hdfs://%s:9000/user/sceneFindr/history/genres.txt" % pubDNS #public dns goes here
-thing = sc.textFile( filename )
-thing2 = thing.map(lambda x : x.split(",") )
-blah = thing2.map( lambda x : (x[0],x[1]) )
+#filename = "hdfs://%s:9000/user/sceneFindr/history/genres.txt" % pubDNS #public dns goes here
+#thing = sc.textFile( filename )
+#thing2 = thing.map(lambda x : x.split(",") )
+#blah = thing2.map( lambda x : (x[0],x[1]) )
 
 #gens = {}
 
@@ -144,12 +144,12 @@ blah = thing2.map( lambda x : (x[0],x[1]) )
 #for each file in the filter
 artistPath = "hdfs://%s:9000/user/sceneFindr/history/artist_new" % pubDNS
 
-objection = sqlContext.jsonFile( artistPath )#public DNS goes here
+objection = sqlContext.jsonFile( artistPath ).map( lambda line : fun( line ) ).reduceByKey( lambda a,b : a + b )#public DNS goes here
 #map to (id, name_feature) tuple
-ob1 = objection.map( lambda line : fun( line ) ) 
-ob2 = ob1.reduceByKey( lambda a,b : a + b )
+#ob1 = objection.map( lambda line : fun( line ) )
+#ob2 = ob1.reduceByKey( lambda a,b : a + b )
 #ob2 = ob1.map( lambda 
-ob3 = ob2.collect()
+ob3 = objection.collect()
 #load path
 sync_table(artists)
 
@@ -163,7 +163,6 @@ for item in ob3:
 #arts = sc.parallelize( ob3 ).collectAsMap()
 #ob3.cache()
 
-
 def fun4( art_id ):
 	#if art_id == '8084088
 	#if art_id in keys.keys():
@@ -175,7 +174,7 @@ def fun4( art_id ):
 		#return [y[0] for y in ob3].index(art_id)
 	except KeyError:
 		vec = sparse.csc_matrix((len(gens.keys()),1))
-		#vec[4,0] = 1
+		vec[4,0] = 1 #debugging purposes
 		#return sparse.csc_matrix((721,1))
 		return vec
 
@@ -197,7 +196,7 @@ def fun5( input ):
 		return reduce( lambda a,b: a+b, vecList)
 	except TypeError:
 		vec = sparse.csc_matrix( (len(gens.keys()),1) )
-		#vec[5,0] = 1
+		vec[5,0] = 1
 		#return sparse.csc_matrix( (721,1) )
 		return vec
 
