@@ -1,12 +1,12 @@
 
 #from cassandra.cluster import Cluster
-from flask import Flask
+from flask import Flask, jsonify, render_template, request
 from cassandra.cluster import Cluster
 import json
 import pickle
 from cqlengine import *
 from scipy import sparse
-ipAdr = '172.31.0.173'
+ipAdr = ''
 cluster = Cluster([ipAdr])#ip goes here
 session = cluster.connect()
 session.set_keyspace( 'scenefindr' )
@@ -55,8 +55,25 @@ def query_clusters( id ):
 def query_metros( metkey ):
 	return 'hi :D'
 
+@app.route("/recs")
+def recs(  ):
+	#user first gives artist(s) and metro area
+	artist = request.form['ARTIST']
+	metro = request.form['METRO']
+	#get cluster center for artist
+	cql = "SELECT * FROM artists WHERE id = %s"
+	result = session.execute( cql, parameters=[artist] )
+	if result != []:
+		#get at most 5 venues in that metro area from the given cluster
+		
+		cql2 = "SELECT * FROM venues WHERE metkey = %s AND venid = %s AND cluster =%s LIMIT 5"
+		session.execute( cql2, parameters=[metro, ven, cluster]
+		return 'making recommendations :)'
+	else:
 
-
+		jsonresponse = {"artist": artist + " is not in the database"} # creating a json response if the username doesn't exist
+		#return render_template("no_userid.html", user_id = jsonresponse) # rendering template with the response
+		return "not in database :C"
 @app.route("/")
 @app.route("/index")
 def hello():
@@ -81,3 +98,4 @@ def api_stats(month, days):
 
 if __name__ == "__main__": 
     app.run(host='0.0.0.0', debug=True)
+
