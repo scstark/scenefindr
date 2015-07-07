@@ -208,6 +208,10 @@ ev9 = ev7.map( lambda x : x[1] ) # only use feature vectors for this
 
 model2 = model.train( ev9, 28 ) # rdd,k
 
+lalala = arts.map( lambda x : ( x[0], x[1], model.predict( x[1] ) ) )
+
+ev10 = ev7.map( lambda x : ( x[0], x[1], model.predict( x[1] ) ) )
+
 #artFeatures = arts2.collectAsMap()
 arts2 = arts.collect()
 for item in arts2:

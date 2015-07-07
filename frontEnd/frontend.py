@@ -6,7 +6,7 @@ import json
 import pickle
 from cqlengine import *
 from scipy import sparse
-ipAdr = ''
+ipAdr = '172.31.0.173'
 cluster = Cluster([ipAdr])#ip goes here
 session = cluster.connect()
 session.set_keyspace( 'scenefindr' )
@@ -48,32 +48,59 @@ def query_venues( metkey, venid ):
 	#return 'hi'
 
 @app.route("/api/clusters/<metid>")
-def query_clusters( id ):
+def query_clusters( metid ):
 	print 'hi :)'
 
 @app.route("/api/metros/<metkey>/")
 def query_metros( metkey ):
 	return 'hi :D'
 
-@app.route("/recs")
+@app.route("/recs", methods = ['GET','POST'])
 def recs(  ):
-	#user first gives artist(s) and metro area
-	artist = request.form['ARTIST']
-	metro = request.form['METRO']
-	#get cluster center for artist
-	cql = "SELECT * FROM artists WHERE id = %s"
-	result = session.execute( cql, parameters=[artist] )
-	if result != []:
-		#get at most 5 venues in that metro area from the given cluster
+	if request.method == 'GET':
+		print 'method is get'
+		return render_template( 'index.html', map = True )
+	elif request.method == 'POST':
 		
-		cql2 = "SELECT * FROM venues WHERE metkey = %s AND venid = %s AND cluster =%s LIMIT 5"
-		session.execute( cql2, parameters=[metro, ven, cluster]
-		return 'making recommendations :)'
-	else:
+		#user first gives artist(s) and metro area
+		#artist = request.form['ARTIST']
+		#print 'artist is %s' % artist
+		#metro = request.form['METRO']
+		#get cluster center for artist
+		#cql = "SELECT * FROM artists WHERE id = %s"
+		#result = session.execute( cql, parameters=[artist] )
+		#if result != []:
+			#get at most 5 venues in that metro area from the given cluster
+		
+		#	cql2 = "SELECT * FROM venues WHERE metkey = %s AND venid = %s AND cluster =%s LIMIT 5"
+			#session.execute( cql2, parameters=[metro, ven, cluster]
+			#return render_template("index.html", )
+		#	return 'recommending things :D'
+		#else:
 
-		jsonresponse = {"artist": artist + " is not in the database"} # creating a json response if the username doesn't exist
-		#return render_template("no_userid.html", user_id = jsonresponse) # rendering template with the response
-		return "not in database :C"
+		#	jsonresponse = {"artist": artist + " is not in the database"} # creating a json response if the username doesn't exist
+			#return render_template("no_userid.html", user_id = jsonresponse) # rendering template with the response
+		#	print "not in database :C"
+		#	return "not in database"
+		print 'method is Post'
+		return render_template( "index.html", map = True )
+
+@app.route("/about")
+def about():
+	return render_template( "about.html" )
+
+@app.route("/contact")
+def contact():
+	return render_template( "contact.html" )
+@app.route("/api")
+def api_home():
+	return render_template( "api.html" )
+
+
+@app.route("/slides")
+def slides():
+	return render_template("slides.html")
+
 @app.route("/")
 @app.route("/index")
 def hello():
