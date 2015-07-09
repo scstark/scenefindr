@@ -68,13 +68,14 @@ def recs(  ):
 		metro = request.form['metro']
 		print 'metro is %s' % str( metro )
 		#get cluster center for artist
-		cql = "SELECT * FROM artists WHERE id = %s"
+		cql = "SELECT cluster FROM artists2 WHERE id = %s"
 		result = session.execute( cql, parameters=[artist] )
 		if result != []:
 			#get at most 5 venues in that metro area from the given cluster
 		
 			cql2 = "SELECT * FROM venues WHERE metkey = %s AND cluster =%s LIMIT 5 ALLOW FILTERING"
-			session.execute( cql2, parameters=[metro, cluster] )
+			result2 = session.execute( cql2, parameters=[metro, cluster] )
+			#result3 = 
 			return render_template( "index2.html" )
 		#	return 'recommending things :D'
 		else:
