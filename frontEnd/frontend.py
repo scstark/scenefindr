@@ -59,31 +59,32 @@ def query_metros( metkey ):
 def recs(  ):
 	if request.method == 'GET':
 		print 'method is get'
-		return render_template( 'index.html', map = True )
+		return render_template( 'index2.html' )
 	elif request.method == 'POST':
 		
 		#user first gives artist(s) and metro area
-		#artist = request.form['ARTIST']
-		#print 'artist is %s' % artist
-		#metro = request.form['METRO']
+		artist = request.form['artist']
+		print 'artist is %s' % str( artist )
+		metro = request.form['metro']
+		print 'metro is %s' % str( metro )
 		#get cluster center for artist
-		#cql = "SELECT * FROM artists WHERE id = %s"
-		#result = session.execute( cql, parameters=[artist] )
-		#if result != []:
+		cql = "SELECT * FROM artists WHERE id = %s"
+		result = session.execute( cql, parameters=[artist] )
+		if result != []:
 			#get at most 5 venues in that metro area from the given cluster
 		
-		#	cql2 = "SELECT * FROM venues WHERE metkey = %s AND venid = %s AND cluster =%s LIMIT 5"
-			#session.execute( cql2, parameters=[metro, ven, cluster]
-			#return render_template("index.html", )
+			cql2 = "SELECT * FROM venues WHERE metkey = %s AND cluster =%s LIMIT 5 ALLOW FILTERING"
+			session.execute( cql2, parameters=[metro, cluster] )
+			return render_template( "index2.html" )
 		#	return 'recommending things :D'
-		#else:
+		else:
 
-		#	jsonresponse = {"artist": artist + " is not in the database"} # creating a json response if the username doesn't exist
-			#return render_template("no_userid.html", user_id = jsonresponse) # rendering template with the response
+			jsonresponse = {"artist": artist + " is not in the database"} # creating a json response if the username doesn't exist
+			return render_template("no_userid.html", user_id = jsonresponse) # rendering template with the response
 		#	print "not in database :C"
 		#	return "not in database"
-		print 'method is Post'
-		return render_template( "index.html", map = True )
+		#print 'method is Post'
+		return render_template( "index2.html" )
 
 @app.route("/about")
 def about():

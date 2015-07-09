@@ -41,7 +41,7 @@ class artists( Model ):
         def __repr__(self):
                 return '%s%s' % (self.id, self.feature)
 
-class artsits2( Model ):
+class artists2( Model ):
 	id = columns.Text( primary_key = True )
 	cluster = columns.Blob()
 
@@ -59,8 +59,14 @@ class venues( Model ):
 	feature = columns.Blob()
 	#(areaKey, ven_id, ven_name, lat, long, url, metroName, feature)
 	def __repr__(self):
-		return '%s%s%s%s%d%d%s' %( self.metro, self.ven_id, self.ven_name, self.lat, self.long, self.url, self.metName, self.feature )
+		return '%s%s%s%s%d%d%s' %( self.metkey, self.venid, self.ven_name, self.lat, self.long, self.url, self.metname, self.feature )
+class venues( Model ):
+        metkey = columns.Text(primary_key = True)
+        id = columns.Text(primary_key = True)
+	cluster = columns.Blob()
 
+	def __repr__(self):
+		return '%s%s%s' %( self.metkey, self.id, self.cluster )
 #class centers( Model ):
 	#metkey = columns.Text( primary_key = True )
 	#centers = columns.Blob()
@@ -187,35 +193,44 @@ for item in ev2.collect():
 	ev5 = sc.parallelize( ev4 )
 rdd3 = rdd.map( lambda x : ( ( x[12], x[4] ), x[5] ) ).reduceByKey( lambda a,b : a + b ).coalesce( 10 )
 #aggregate the performance lists by venue information
-#ev7 = ev6.map( lambda x : fun3( x )  )
-#rdd4 = rdd3.collect()
-#ev7 = rdd3.map( lambda x : ( x[0], map( lambda y: fun4( y[0][0][1] )*getBilling(y[0][1]), x[1] ) ) )#.reduceByKey( lambda a,b: a+b )
-#ev7 = ev6.map( lambda x : ( x[0], reduce( lambda a,b: a + b, map( lambda y: fun4( y[0][0][1] )*getBilling( y[0][1] ), x[1] ) ) ) )
 ev7 = rdd3.map( lambda x : ( x[0], fun5( x[1] ) ) )
 #ev8 = ev7.map( lambda x : ( x[0], reduce( lambda a,b: a+b, x[1] ) )
 #newEvents = ev8.collect()	
-#ev8 = ev7.collect()
-#for item in ev8:
-	#venues.create( metkey = str(item[0][0][4][2]), venid = str(item[0][0][1]), feature = pickle.dumps( item[1] ), lat = item[0][0][2], long = item[0][0][3], metname = item[0][0][4][1], url = item[0][0][5], ven_name = item[0][0][0] )
+ev8 = ev7.collect()
+for item in ev8:
+	venues.create( metkey = str(item[0][0][4][2]), venid = str(item[0][0][1]), feature = pickle.dumps( item[1] ), lat = item[0][0][2], long = item[0][0][3], metname = item[0][0][4][1], url = item[0][0][5], ven_name = item[0][0][0] )
 	
 	#print ev7.first()
-	#( 0 : areaKey, 1 : ven_id, 2 : ven_name, 3 : lat, 4 : long, 5 : url, 6 : metroName, 7 : feature)
+	#( 0 : areaKey, 1 : ven_id, 2 : ven_name, 3 : lat, 4 : long, 5 : url, 6 : metroName, 7 : feature, )
 
-start batch ML algorithms
+
+
+#start batch ML algorithms
+ev9 = ev7.map( lambda x : x[1] ) #only use feature vectors for this
+#PCA first ---- not actually implemented in pyspark 1.4 yet!!!
+
+
+#then KMeans
 model = clustering.KMeans()
 
-ev9 = ev7.map( lambda x : x[1] ) # only use feature vectors for this
+
+#ev9 = ev7.map( lambda x : x[1] ) # only use feature vectors for this
 
 model2 = model.train( ev9, 28 ) # rdd,k
 
+#match artists to that cluster
 lalala = arts.map( lambda x : ( x[0], x[1], model.predict( x[1] ) ) )
-
+#match venues to cluster
 ev10 = ev7.map( lambda x : ( x[0], x[1], model.predict( x[1] ) ) )
 
 #artFeatures = arts2.collectAsMap()
-arts2 = arts.collect()
-for item in arts2:
-	best = model2.predict( item[1] )
+#arts2 = arts.collect()
+#for item in arts2:
+#	best = model2.predict( item[1] )
 	#artsits2.create( id = item[0], cluster = pickle.dumps( best ) )
 
+for item in lalala.collect():
+	artists2.create( id = item[0], cluster = pickle.dumps( item[2] )
 
+for item in ev10.collect():
+	vens2.create( metkey = str(item[0][0][4][2]), id = str( item[0][0][1] ), cluster = pickle.dumps( item[2] ) )

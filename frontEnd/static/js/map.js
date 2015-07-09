@@ -36,11 +36,11 @@ function placeMarker(position) {
 function update_values(position) {
     $.getJSON('/map/' + position.A + '/' + position.F,
         function (data) {
-            cabs = data.cabs
-            console.log(cabs)
+            vens = data.vens
+            console.log(vens)
             clearMarkers();
-            for (var i = 0; i < cabs.length; i = i + 1) {
-                addMarker(new google.maps.LatLng(cabs[i].lat, cabs[i].lng));
+            for (var i = 0; i < vens.length; i = i + 1) {
+                addMarker(new google.maps.LatLng(vens[i].lat, vens[i].lng));
             }
         });
 
