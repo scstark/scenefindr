@@ -21,8 +21,8 @@ from pyspark.mllib.linalg import Vectors as vectors
 import pyspark.mllib.clustering as clustering
 
 privateIP = '172.31.0.173'
-pubDNS = 'ec2-52-8-170-155.us-west-1.compute.amazonaws.com'
-sc = SparkContext("spark://ip-172-31-0-173:7077", "batch")#PRIVATE DNS HERE!!!!
+pubDNS = 'http://ec2-52-8-170-155.us-west-1.compute.amazonaws.com'
+sc = SparkContext("spark://172-31-0-173:7077", "batch")#PRIVATE DNS HERE!!!!
 sqlContext = SQLContext(sc)
 
 
@@ -39,43 +39,36 @@ class artists( Model ):
 	cluster = columns.Blob()
 
         def __repr__(self):
-                return '%s%s' % (self.id, self.feature, self.cluster)
+                return '%s%s%s' % ( self.id, self.feature, self.cluster )
 
 class venues( Model ):
 	metid = columns.Text(primary_key = True)
-	venid = columns.Text(primary_key = True)
+	venid = columns.Text()
 	venname = columns.Text()
 	url = columns.Text()
 	lat = columns.Float()
 	long = columns.Float()
 	metname = columns.Text()
 	feature = columns.Blob()
-	cluster = columns.Blob(primary_key = True)
+	cluster = columns.Blob()
 	#(areaKey, ven_id, ven_name, lat, long, url, metroName, feature)
 	def __repr__(self):
 		return '%s%s%s%s%d%d%s' %( self.metid, self.venid, self.venname, self.lat, self.long, self.url, self.metname, self.feature, self.cluster )
 
-#class centers( Model ):
-	#metkey = columns.Text( primary_key = True )
-	#centers = columns.Blob()
-	
-	#def __repr__(self):
-	#	return '%s%s' % ( self.metkey, self.centers )
 
 
 filename = "hdfs://%s:9000/user/sceneFindr/history/genres.txt" % pubDNS #public dns goes here
-thing = sc.textFile( filename ).map( lambda x : x.split( "," ) ).map( lambda x : ( x[0],int(x[1]) ) )
+thing = sc.textFile( filename ).map( lambda x : x.split( "," ) ).map( lambda x : ( x[0],x[1] ) )
 #thing2 = thing.map(lambda x : x.split(",") )
 #blah = thing2.map( lambda x : (x[0],x[1]) )
 
-#gens = {}
+gens = {}
 
-#for la in thing.collect():
+for la in thing.collect():
 	#print la
 	#print la[0]
-#	gens[la[0]] = la[1] 
+	gens[la[0]] = int( la[1] )
 
-gens = thing.collectAsMap()
 
 
 
@@ -94,9 +87,9 @@ def fun( ln ):
 connection.setup(['127.0.0.1'], 'scenefindr')
 
 #for each file in the filter
-artistPath = "hdfs://%s:9000/user/sceneFindr/history/artists" % pubDNS
+artistPath = "hdfs://%s:9000/user/sceneFindr/history/artist_new" % pubDNS
 
-arts = sqlContext.jsonFile( artistPath ).map( lambda line : fun( line ) ).reduceByKey( lambda a,b : a + b ).coalesce(10)
+arts = sqlContext.jsonFile( artistPath ).map( lambda line : fun( line ) ).reduceByKey( lambda a,b : a + b ).coalesce(10).cache()
 #arts3 = arts.reduceByKey( lambda a,b : a + b ).coalesce(10)#public DNS goes here
 #map to (id, name_feature) tuple
 #arts2 = arts.collect()
@@ -119,14 +112,11 @@ def fun4( art_id ):
 	#	return keys[str( art_id )]
         #else:
 	#	return sparse.csc_matrix((1,721))
-	#vec = sparse.csc_matrix( (len(gens.keys()),1))
-	#num = random.randint(1,20)
 	
 	try:
 		return artFeatures[str(art_id)]
 	except KeyError:
-		return sparse.csc_matrix( (len(gens.keys()), 1) )
-
+		return sparse.csc_matrix( (len( gens.keys() )-1, 1 ) )
 
 	#population = range( 0, len( gens.keys() ) - 1  )
 	
@@ -191,9 +181,9 @@ rdd3 = rdd.map( lambda x : ( ( x[12], x[4] ), x[5] ) ).reduceByKey( lambda a,b :
 ev7 = rdd3.map( lambda x : ( x[0], fun5( x[1] ) ) )
 #ev8 = ev7.map( lambda x : ( x[0], reduce( lambda a,b: a+b, x[1] ) )
 #newEvents = ev8.collect()	
-#ev8 = ev7.collect()
-#for item in ev8:
-#	venues.create( metkey = str(item[0][0][4][2]), venid = str(item[0][0][1]), feature = pickle.dumps( item[1] ), lat = item[0][0][2], long = item[0][0][3], metname = item[0][0][4][1], url = item[0][0][5], ven_name = item[0][0][0] )
+ev8 = ev7.collect()
+for item in ev8:
+	venues.create( metkey = str(item[0][0][4][2]), venid = str(item[0][0][1]), feature = pickle.dumps( item[1] ), lat = item[0][0][2], long = item[0][0][3], metname = item[0][0][4][1], url = item[0][0][5], ven_name = item[0][0][0] )
 	
 	#print ev7.first()
 	#( 0 : areaKey, 1 : ven_id, 2 : ven_name, 3 : lat, 4 : long, 5 : url, 6 : metroName, 7 : feature, )
@@ -214,9 +204,9 @@ model = clustering.KMeans()
 model2 = model.train( ev9, 28 ) # rdd,k
 
 #match artists to that cluster
-lalala = arts.map( lambda x : ( x[0], x[1], model2.predict( x[1] ) ) )
+lalala = arts.map( lambda x : ( x[0], x[1], model.predict( x[1] ) ) )
 #match venues to cluster
-ev10 = ev7.map( lambda x : ( x[0], x[1], model2.predict( x[1] ) ) )
+ev10 = ev7.map( lambda x : ( x[0], x[1], model.predict( x[1] ) ) )
 
 #artFeatures = arts2.collectAsMap()
 #arts2 = arts.collect()
@@ -225,7 +215,8 @@ ev10 = ev7.map( lambda x : ( x[0], x[1], model2.predict( x[1] ) ) )
 	#artsits2.create( id = item[0], cluster = pickle.dumps( best ) )
 
 for item in lalala.collect():
-	artists.create( id = item[0], feature = pickle.dumps(item[1]), cluster = pickle.dumps( item[2] ) )
+	artists.create( id = item[0], feature = pickle.dumps( item[1] ), cluster = pickle.dumps( item[2] ) )
 
 for item in ev10.collect():
-	venues.create( metid = str(item[0][0][4][2]), venid = str( item[0][0][1] ), venname = item[0][0][0], url = item[0][0][5], lat = item[0][0][2], long = item[0][0][3], metname = item[0][0][4][1], feature = pickle.dumps( item[1] ), cluster = pickle.dumps( item[2] ) )
+	venues.create( metkey = str(item[0][0][4][2]), id = str( item[0][0][1] ), cluster = pickle.dumps( item[2] ) )
+http://ec2-52-8-170-155.us-west-1.compute.amazonaws.com/

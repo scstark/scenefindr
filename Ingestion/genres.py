@@ -36,7 +36,7 @@ for afile in filter:
 
 #write the list to file
 
-filename = 'genres.txt'
+filename = '../../RealData/genres.txt'
 file_writer = open( filename, 'w' )
 i = 0
 for item in list:
