@@ -1,4 +1,5 @@
 
+
 #from cassandra.cluster import Cluster
 from flask import Flask, jsonify, render_template, request
 from cassandra.cluster import Cluster
@@ -25,11 +26,14 @@ def cass_api(id):
 	#for item in result:
 	#	print item
 	response = pickle.loads( result[0][0] )
+	for item in response:
+        	print 'TYPE OF: %s' % type(item).__name__
+        	print item
 	print 'queried cassie for artist id %s' % id 
 	print 'result of query is: %s' % response 
 # 	return json.dumps( response )
 #	return response
-	return str( response )
+	return str( response ) 
 
 @app.route("/api/venue/<metid>/<venid>")
 def query_venues( metid, venid ):
@@ -44,7 +48,7 @@ def query_venues( metid, venid ):
 	response = pickle.loads( result[0][0] )
 	print 'queried cassie for venue id %s' % venid
         print 'result of query is: %s' % response
-	return str( response )
+	return jsonify( response )
 	#return 'hi'
 
 #@app.route("/api/clusters/<metid>")
@@ -68,53 +72,96 @@ def query_metros( metid ):
 @app.route("/index", methods = ['GET','POST'])
 @app.route("/recs", methods = ['GET','POST'])
 def recs(  ):
-	if request.method == 'GET':
-		print 'method is get'
-		return render_template( 'index2.html' )
-	elif request.method == 'POST':
+	return render_template( 'index3.html' )
+	#if request.method == 'GET':
+	#	print 'method is get'
+	#	return render_template( 'index2.html' )
+	#elif request.method == 'POST':
 		
 		#user first gives artist(s) and metro area
-		artist = request.form['artist']
-		print 'artist is %s' % str( artist )
-		metro = request.form['metro']
-		print 'metro is %s' % str( metro )
+	#	artist = request.form['artist']
+	#	print 'artist is %s' % str( artist )
+	#	metro = request.form['metro']
+	#	print 'metro is %s' % str( metro )
 		#get cluster center for artist
-		cql = "SELECT cluster FROM artists WHERE id = %s"
-		result = session.execute( cql, parameters=[artist] )
-		print 'result of querying artist cluster is: '
+	#	cql = "SELECT cluster FROM artists WHERE id = %s"
+	#	result = session.execute( cql, parameters=[artist] )
+	#	print 'result of querying artist cluster is: '
 		#print pickle.loads( result[0][0] )
-		if result[0][0] != []:
+	#	if result[0][0] != []:
 			#get at most 5 venues in that metro area from the given cluster
 			
-			cql2 = "SELECT venid,venname,url,lat,long,cluster FROM venues WHERE metid = %s ALLOW FILTERING"
-			result2 = session.execute( cql2, parameters=[metro] )
+	#		cql2 = "SELECT venid,venname,url,lat,long,cluster FROM venues WHERE metid = %s ALLOW FILTERING"
+	#		result2 = session.execute( cql2, parameters=[metro] )
 			
-			i = 0
-			recs = []
-			for item in result2:
-				if  item[5]  == result[0][0] and i < 5:
-					recs.append( {'venue':item[1],'url':item[2],'lat':item[3],'lon':item[4]} )
-					i += 1
+	#		i = 0
+	#		recs = []
+	#		for item in result2:
+	#			if  item[5]  == result[0][0] and i < 5:
+	#				recs.append( {'lat':item[3],'lon':item[4]} )
+	#				i += 1
 
-			print 'result of querying venue cluster is: '
+	#		print 'result of querying venue cluster is: '
 			#print result2
-			print recs
+	#		print recs
 			#take 
 			#result3 = 
-			print 'recommending things :D'
+	#		print 'recommending things :D'
 			#return jsonify( result2 )
 			#return render_template( "index2.html" )
 		#	return 'recommending things :D'
 			#return jsonify( recs = recs )
-			return render_template( "index3.html", response = recs )
-		else:
+	#		return render_template( "index3.html", response = recs )
+	#	else:
 
-			jsonresponse = {"artist": artist + " is not in the database"} # creating a json response if the username doesn't exist
-			return render_template("no_userid.html", user_id = jsonresponse) # rendering template with the response
+	#		jsonresponse = {"artist": artist + " is not in the database"} # creating a json response if the username doesn't exist
+	#		return render_template("no_userid.html", user_id = jsonresponse) # rendering template with the response
 		#	print "not in database :C"
 		#	return "not in database"
 		#print 'method is Post'
-		return render_template( "index2.html" )
+	#	return render_template( "index2.html" )
+
+
+
+@app.route("/map/<artist>/<metro>")
+def my_form_post(artist, metro):
+
+	#render_template("index3.html")
+	
+	#user first gives artist(s) and metro 
+	#get cluster center for artist
+	cql = "SELECT cluster FROM artists WHERE id = %s"
+	result = session.execute( cql, parameters=[artist] )
+	print 'result of querying artist cluster is: '
+	#print pickle.loads( result[0][0] )
+	if result[0][0] != []:
+		#get at most 5 venues in that metro area from the given cluster
+
+		cql2 = "SELECT venid,venname,url,lat,long,cluster FROM venues WHERE metid = %s ALLOW FILTERING"
+		result2 = session.execute( cql2, parameters=[metro] )
+
+		i = 0
+		recs = []
+		for item in result2:
+			if  item[5]  == result[0][0] and i < 5:
+				recs.append( {'venue':item[1],'url':item[2],'lat':item[3],'lon':item[4]} )
+				i += 1
+
+		print 'result of querying venue cluster is: '
+		#print result2
+		print recs
+		#take
+		#result3 =
+		print 'recommending things :D'
+		#return jsonify( result2 )
+		#return render_template( "index2.html")
+	#	return 'recommending things :D'
+		return jsonify( recs = recs )
+
+
+
+
+
 
 @app.route("/about")
 def about():

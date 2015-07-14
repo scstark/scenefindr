@@ -12,44 +12,21 @@ function initialize() {
     };
     map = new google.maps.Map(document.getElementById('map-canvas'),
         mapOptions);
-
-    google.maps.event.addListener(map, 'click', function (e) {
-        placeMarker(e.latLng);
-    })
-}
-
-function placeMarker(position) {
-    clearTimeout(updateProcess);
-    clearUserMarker();
-    userMarker = new google.maps.Marker({
-        position: position,
-        icon: {
-            path: google.maps.SymbolPath.CIRCLE,
-            scale: 10
-        },
-        map: map
-    });
-    map.panTo(position);
-    update_values(position);
 }
 
 function update_values(position) {
-    $.getJSON('/map/' + position.A + '/' + position.F,
+    $.getJSON('/map/544909/26330',
         function (data) {
             recs = data.recs
-            console.log(vens)
+            console.log(recs)
             clearMarkers();
             for (var i = 0; i < recs.length; i = i + 1) {
                 addMarker(new google.maps.LatLng(recs[i].lat, recs[i].lng));
             }
         });
-
-    updateProcess = window.setTimeout(function(){
-        update_values(position)
-    }, 2000);
 }
 
-//update_values();
+update_values();
 function drop(lat, lng) {
     point = new google.maps.LatLng(lat, lng);
     clearMarkers();
