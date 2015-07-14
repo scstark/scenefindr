@@ -1,1 +1,0 @@
-{"headliner": "Darla Raynor", "opener": "Mr. Sullivan Cummerata", "venue": "{\"city\": \"San Francisco\", \"name\": \"Bode, Hermiston and Graham\", \"zip\": \"87664\", \"url\": \"http://www.klockowest.net/\", \"long\": \"18.776480\", \"address\": \"7205 Abshire Corners\", \"lat\": \"-13.0505705\"}", "description": "Sapiente dolor dolor aut ea temporibus aut exercitationem."}

@@ -1,1 +1,0 @@
-{"headliner": "Dr. Constance Hamill", "opener": "Tosha Wilderman", "venue": "{\"city\": \"San Francisco\", \"name\": \"Luettgen LLC\", \"zip\": \"11410\", \"url\": \"http://www.strosin.com/\", \"long\": \"124.973852\", \"address\": \"82096 Medhurst Green\", \"lat\": \"9.614554\"}", "description": "Quidem unde dolore eligendi quia neque nihil dolores."}

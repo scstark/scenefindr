@@ -1,1 +1,0 @@
-{"headliner": "Halsey Feeney", "opener": "Rory Krajcik", "venue": "{\"city\": \"San Francisco\", \"name\": \"Gulgowski, Raynor and Brekke\", \"zip\": \"32282-6332\", \"url\": \"http://ortizlebsack.org/\", \"long\": \"87.941520\", \"address\": \"141 Ortiz Skyway\", \"lat\": \"24.282266\"}", "description": "Nostrum quia odio non et autem culpa."}

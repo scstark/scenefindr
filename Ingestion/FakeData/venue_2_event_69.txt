@@ -1,1 +1,0 @@
-{"headliner": "Fredie Sanford", "opener": "Thedore Cartwright", "venue": "{\"city\": \"San Francisco\", \"name\": \"Braun LLC\", \"zip\": \"36606\", \"url\": \"http://www.streich.com/\", \"long\": \"-67.310675\", \"address\": \"719 Deckow Gardens Suite 634\", \"lat\": \"68.742736\"}", "description": "Placeat officiis temporibus magni incidunt harum."}

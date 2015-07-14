@@ -1,1 +1,0 @@
-{"headliner": "Randi Swift DDS", "opener": "Angeles Schumm", "venue": "{\"city\": \"San Francisco\", \"name\": \"Kling, Bernier and Champlin\", \"zip\": \"02420\", \"url\": \"http://www.pfeffermcdermott.info/\", \"long\": \"84.967441\", \"address\": \"91855 Hoppe River\", \"lat\": \"-87.349912\"}", "description": "Ad quibusdam incidunt reiciendis quasi numquam quaerat eius."}

@@ -1,1 +1,0 @@
-{"headliner": "Dr. Hence Flatley", "opener": "Shelton Donnelly", "venue": "{\"city\": \"San Francisco\", \"name\": \"Goodwin, Vandervort and McKenzie\", \"zip\": \"04946-7208\", \"url\": \"http://www.wehner.info/\", \"long\": \"144.293424\", \"address\": \"05351 Yost Gardens Apt. 358\", \"lat\": \"81.3148305\"}", "description": "Et perspiciatis est dolores ut."}

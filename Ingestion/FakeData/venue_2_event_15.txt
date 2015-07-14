@@ -1,1 +1,0 @@
-{"headliner": "Miss Shannan Ruecker", "opener": "Ivie Cole", "venue": "{\"city\": \"San Francisco\", \"name\": \"Braun LLC\", \"zip\": \"36606\", \"url\": \"http://www.streich.com/\", \"long\": \"-67.310675\", \"address\": \"719 Deckow Gardens Suite 634\", \"lat\": \"68.742736\"}", "description": "Reprehenderit qui eos dolores hic ipsum tenetur incidunt natus."}

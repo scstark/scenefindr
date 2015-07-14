@@ -1,1 +1,0 @@
-{"headliner": "Ms. Cleone Schaefer MD", "opener": "Shaun Nikolaus", "venue": "{\"city\": \"San Francisco\", \"name\": \"Deckow, Harris and Schmidt\", \"zip\": \"45298\", \"url\": \"http://cassinrowe.net/\", \"long\": \"-3.535061\", \"address\": \"1821 Bruen Bypass Apt. 262\", \"lat\": \"-87.2252275\"}", "description": "Perferendis dolor iste provident ipsa temporibus."}

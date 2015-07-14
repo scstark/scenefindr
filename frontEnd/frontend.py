@@ -105,7 +105,8 @@ def recs(  ):
 			#return jsonify( result2 )
 			#return render_template( "index2.html" )
 		#	return 'recommending things :D'
-			return jsonify( recs = recs )
+			#return jsonify( recs = recs )
+			return render_template( "index3.html", response = recs )
 		else:
 
 			jsonresponse = {"artist": artist + " is not in the database"} # creating a json response if the username doesn't exist

@@ -1,1 +1,0 @@
-{"headliner": "Lynsey Rodriguez", "opener": "Peter Koss", "venue": "{\"city\": \"San Francisco\", \"name\": \"Luettgen LLC\", \"zip\": \"11410\", \"url\": \"http://www.strosin.com/\", \"long\": \"124.973852\", \"address\": \"82096 Medhurst Green\", \"lat\": \"9.614554\"}", "description": "Iusto blanditiis eos vero nobis error laborum veniam fugit."}

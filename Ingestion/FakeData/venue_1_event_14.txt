@@ -1,1 +1,0 @@
-{"headliner": "Mrs. Louisiana Schroeder", "opener": "Dr. Sasha Metz MD", "venue": "{\"city\": \"San Francisco\", \"name\": \"Deckow, Harris and Schmidt\", \"zip\": \"45298\", \"url\": \"http://cassinrowe.net/\", \"long\": \"-3.535061\", \"address\": \"1821 Bruen Bypass Apt. 262\", \"lat\": \"-87.2252275\"}", "description": "Dolorum eum temporibus et magnam voluptatem ut."}

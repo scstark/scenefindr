@@ -17,7 +17,7 @@ function initialize() {
         placeMarker(e.latLng);
     })
 }
-google.maps.event.addDomListener(window, "load", initialize );
+
 function placeMarker(position) {
     clearTimeout(updateProcess);
     clearUserMarker();

@@ -1,1 +1,0 @@
-{"headliner": "Dasia Grady", "opener": "Tarah Raynor", "venue": "{\"city\": \"San Francisco\", \"name\": \"Maggio-Mante\", \"zip\": \"68110\", \"url\": \"http://bashirian.biz/\", \"long\": \"170.116335\", \"address\": \"3515 Lind Radial\", \"lat\": \"-11.196108\"}", "description": "Officiis laboriosam odio earum saepe id et quia."}

@@ -1,1 +1,0 @@
-{"headliner": "Shane Langosh", "opener": "Uriah Hartmann", "venue": "{\"city\": \"San Francisco\", \"name\": \"Luettgen LLC\", \"zip\": \"11410\", \"url\": \"http://www.strosin.com/\", \"long\": \"124.973852\", \"address\": \"82096 Medhurst Green\", \"lat\": \"9.614554\"}", "description": "Hic eius sed ut molestiae aut sed."}
