@@ -1,51 +1,45 @@
-<!DOCTYPE html>
 <html lang="en">
 
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
 
-		<meta name="description" content="scenefindr">
-		<meta name="author" content="Stephanie Stark">
+    <title>scenefindr</title>
 
-		<!--link rel="icon" href="../../favicon."-->
+    <!-- Bootstrap core CSS -->
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
-
-		<title>scenefindr</title>
-
-		<!-- Bootstrap core CSS -->
-		<link href="../static/css/bootstrap.min.css" rel="stylesheet">
-		<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-		 <script type="text/javascript" src="../static/js/modernizr-1.5.min.js"></script>
-   	 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <!-- modernizr enables HTML5 elements and feature detects -->
+    <script type="text/javascript" src="../static/js/modernizr-1.5.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script type="text/javascript"
             src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=false">
     </script>
-    <script src="../static/js/map.js"></script>
 
-<!--customized CSS Sytlesheet -->
-		<!--link rel="stylesheet" type="text/css" href="../static/css/main_styles.css"-->
+	<script>
+	var recs = {{response | safe }};
+	//recs  =  JSON.parse( recs );
+	
+	var artist = "{{artist}}";
+	var metro = "{{metro}}";
 
-		<!-- Custom styles for this template -->
-		<!-- <link href="starter-template.css" rel="stylesheet"> -->
+	console.log( "metro is " + metro + "artist is " + artist + "here are the recs " + recs );
+	</script>
+   <script src="../static/js/map.js"></script> 
 
-		<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-		<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-	<!--	<script src="../../assets/js/ie-emulation-modes-warning.js"></script>
--->
-		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-<!--		<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
--->
-	   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	   <!--[if lt IE 9]>
-	     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-	     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	   <![endif]-->
-	</head>
-
-<body>
-   <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
      <div class="container">
        <div class="navbar-header">
          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -59,7 +53,7 @@
        <div class="collapse navbar-collapse">
          <ul class="nav navbar-nav">
            <li class="active"><a href="/index">Home</a></li>
-           <li><a href="/slides">Slides</a></li>
+       	<li><a href="http://www.slideshare.net/scstark/de-presentation-50467110" target = "blank_">Slides</a></li>
 	   <li><a href="/api">API</a></li>
 	   <li><a href="/about">About</a></li>
          </ul>
@@ -67,49 +61,40 @@
    </div>  
 
 
-
-
-
-<!--HEADER BANNER-->
-<!-- THE FORM KEEP THE SAME-->
-  <div class="header_container">
-      
-      <div class="header_text">
-        <p></p>
-         <center> <h1><font color = "white">Find local live music based on bands you like!</font></h1></center> 
-          <p></p>
-       
-    	</div>
-	<center><h2><font color = "green">This is a test</font></h2></center>
-	<center><h2> <font color = "white"> A map should be below me. </font></h2></center>
-</div>
+   <body>
 	
-	<!--- <form method="post" action="#home">
+   </body>
+
+
+    <body class="body">
+	<body>
+	<form method = "post">
+	<div>
+	<center> <font size = 20 color = "white"> Find local music based on bands you like! </font> </center>
+        </div>
+	<br>
 	<div >
         <center><label ><font color = "white">Enter the artist id</font></label></center>
+	</div >
 	<div >
 	<center><input type="type" name="artist" /></center>
 	</div>
-	<div>
-	<center><input type="type" name ="metro" /></center>
+	<br>
+	<div >
+	<center><label><font color = "white">Enter the metro id</font></label></center>
+	<center><input type="type" name="metro" /></center>
 	</div>
+	<br>
 	<div >
 	<center><button id = "enterbutton", color = "blue" >GO!</button></center>
 	</div>
-	</form> --->
-
-
-	<body> 
-		     <div class="container-fluid">
-          <div class="row">
-            <div id="cat" class="col-md-6" style="height: 700"></div>
-            <div class="col-md-6">
- 
-                    <div id="map-canvas"></div>
-                
-		</div>
-		</div>
-		</div>
-	</body>
-</body>
+	</form>    
+	<br>
+	 <div class="container-fluid">
+                <div class="row"> 
+                <div id="map-canvas" class="col-md-12" style="height: 500px"></div> 
+                </div>      
+            </div>
+        </body>
+    </body>
 </html>

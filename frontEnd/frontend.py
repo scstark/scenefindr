@@ -72,13 +72,17 @@ def query_metros( metid ):
 @app.route("/index", methods = ['GET','POST'])
 @app.route("/recs", methods = ['GET','POST'])
 def recs():
-    #print "blah"
-    #return render_template( 'index3.html' )
-	if request.method == 'GET':
+    #print "blah
+#	return render_template( "index2.html", response = [{'a':'f'}], artist = 'blah', metro = 'blah2' )
+
+
+  	if request.method == 'GET':
 		print 'method is get'
-		return render_template( 'index3.html' )
+		return render_template( "index.html", response = [{'a':'f'}], artist = 'blah', metro = 'blah2' )	
 	elif request.method == 'POST':
-		
+		artist = '130648'
+		metro = '26330'
+		recs = [{'a': 'blah'}]		
 		#user first gives artist(s) and metro area
 		artist = request.form['artist']
 		print 'artist is %s' % str( artist )
@@ -108,24 +112,27 @@ def recs():
 			#take 
 			#result3 = 
 			print 'recommending things :D'
+			print 'WE ARE IN  THE RIGHT IF STATEMENT'
 			#return jsonify( result2 )
-			return render_template( "index3.html" )
+			#return render_template( "index3.html" )
 		#	return 'recommending things :D'
 			#return jsonify( recs = recs )
-	#		return render_template( "index3.html", response = recs )
+			return render_template( "index.html", response = recs, artist = artist, metro = metro )
 		else:
 
-			  jsonresponse = {"artist": artist + " is not in the database"} # creating a json response if the username doesn't exist
+			jsonresponse = {"artist": artist + " is not in the database"} # creating a json response if the username doesn't exist
 	#		return render_template("no_userid.html", user_id = jsonresponse) # rendering template with the response
+			return render_template( "index.html", response = [{'a':'f'}], artist = 'blah', metro = 'blah2' )
+
         print "not in database :C"
 		#	return "not in database"
 		#print 'method is Post'
-        return render_template( "index3.html" )
+        return render_template( "index.html", response = [{'a':'f'}], artist = 'blah', metro = 'blah2' )
 
 
 @app.route("/map/<artist>/<metro>")
-def my_form_post(artist, metro):
-
+def my_form_post(artist='130648', metro='26330'):
+	print artist,metro
 	#render_template("index3.html")
 	
 	#user first gives artist(s) and metro 
@@ -157,7 +164,8 @@ def my_form_post(artist, metro):
 		#return render_template( "index2.html")
 	#	return 'recommending things :D'
 		return jsonify( recs = recs )
-
+	else:
+		print "no result"
 
 
 

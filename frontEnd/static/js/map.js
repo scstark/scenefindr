@@ -15,15 +15,24 @@ function initialize() {
 }
 
 function update_values(position) {
-    $.getJSON('/map/544909/26330',
-        function (data) {
-            recs = data.recs
-            console.log(recs)
+    $.getJSON('/map/'+ artist + '/' + metro, function() { alert("success"); }
+
+/*        function (data) {
+		console.log("blahblah");
+		console.log(data);
+            recs = data.recs;
+ //           console.log(recs);
             clearMarkers();
+		console.log( "about to add markers" );
             for (var i = 0; i < recs.length; i = i + 1) {
-                addMarker(new google.maps.LatLng(recs[i].lat, recs[i].lng));
+                console.log( recs[i].lat );
+		addMarker(new google.maps.LatLng(recs[i].lat, recs[i].lon));
             }
-        });
+        }
+*/
+	).success(function() { alert("2nd success"); })
+	.error(function() { alert("error") }
+	.complete(function() { alert("complete"); });
 }
 
 update_values();
