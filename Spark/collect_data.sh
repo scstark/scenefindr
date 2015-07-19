@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-sudo python fake_data.py
+#sudo python fake_data.py
 
 # move files to appropriate HDFS directories
 hdfs dfs -copyFromLocal artist*.txt /user/sceneFindr/testing/400gb/artists

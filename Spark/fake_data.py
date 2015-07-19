@@ -14,7 +14,8 @@ fake = Factory.create()
 
 numPages = 80
 
-for j in range( numPages, 160 ):
+#for j in range( numPages ):
+def make_data( j ):
 	print 'on file %s' % str(j)
 	reps = 900000 #900,000
 
@@ -38,3 +39,11 @@ for j in range( numPages, 160 ):
 	#os.system("hdfs dfs -moveFromLocal {local} {remote}{local}"
         #          .format(local=filename, remote=hadoop_remote_path))
 	writer.close()
+
+
+
+for i in range( numPages ):
+	make_data( i )
+
+for k in range( 160, 240 ):
+	make_data( k )
