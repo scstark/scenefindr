@@ -2,20 +2,21 @@
 
 ##Stephanie Stark
 
-###Insight Data Engineering
+##Insight Data Engineering
 
 Table of Contents
+
 1. Introduction
-2. Data Sources
+2. Data sources
 3. Pipeline
-	* Ingestion
-	* File Distribution
-	* Batch Processing
-	* Database
-	* Front-End Application
+  - Ingestion
+  - File Distribution
+  - Batch Processing
+  - Database
+  - Front End
 4. Scaling
-5. Dependencies
-6. Future Work
+5. Future Work
+6. Dependencies
 7. Acknowledgements
 
 #1. Introduction
@@ -48,8 +49,8 @@ Running on 5 m3.large instances in EC2, 500gb of artist data and 500gb of event 
 #5. Dependencies
 
 I used the following open-source packages for connectors between the technologies outlined above:
-	* CqlEngine for Pyspark and Cassandra.
-	* Scipy for vector construction (compatible with Pyspark MLlib)
+* CqlEngine for Pyspark and Cassandra.
+* Scipy for vector construction (compatible with Pyspark MLlib)
 
 #6. Future Work
 
